@@ -96,3 +96,11 @@ h1,h2,h3{font-family:"Space Grotesk",Inter,system-ui,sans-serif;letter-spacing:-
 .foot-links a:hover{text-decoration:underline}
 .foot .muted{flex-basis:100%;color:#9FAED8;font-size:14px;margin:0}
 :focus-visible{outline:3px solid #8FA8FF;outline-offset:2px}
+.cardtop{display:flex;align-items:flex-start;justify-content:space-between;gap:12px}
+.icons{display:flex;gap:8px}
+.appicon{width:64px;height:64px;border-radius:16px;box-shadow:0 1px 3px rgba(10,22,64,.18);background:#fff;object-fit:cover}
+.appicon.big{width:88px;height:88px;border-radius:22px}
+.titlerow .appicon.big+h1,.titlerow h1{margin-left:4px}
+.shots h2{margin:0 0 16px;font-size:28px}
+.shotrow{display:flex;gap:20px;overflow-x:auto;padding-bottom:8px;scroll-snap-type:x mandatory}
+.shotrow img{flex:0 0 auto;width:240px;height:auto;border-radius:18px;border:1px solid #DCE2F0;scroll-snap-align:start;background:#F3F6FD}
