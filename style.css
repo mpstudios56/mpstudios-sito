@@ -139,3 +139,6 @@ h1,h2,h3{font-family:"Space Grotesk",Inter,system-ui,sans-serif;font-weight:700;
 .changelog summary time{color:#5A6788;font-weight:400}
 .changelog ul{margin:0 0 14px}
 .foot-links+.foot-links{margin-top:4px}
+.flag{width:20px;height:14px;border-radius:2px;box-shadow:0 0 0 1px rgba(0,0,0,.15);margin-right:8px;flex:none;object-fit:cover}
+.langs summary .flag{margin-right:6px}
+.foot-links a{display:inline-flex;align-items:center}
