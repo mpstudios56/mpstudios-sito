@@ -189,3 +189,4 @@ h1,h2,h3{font-family:"Space Grotesk",Inter,system-ui,sans-serif;font-weight:700;
 .vseries:not(.on){opacity:.75}
 @media (max-width:700px){.vgrid{grid-template-columns:repeat(2,1fr);gap:12px}.vhero{padding-top:40px}}
 .vgrid{grid-template-columns:repeat(5,1fr)}@media (max-width:900px){.vgrid{grid-template-columns:repeat(4,1fr)}}@media (max-width:700px){.vgrid{grid-template-columns:repeat(2,1fr)}}
+.vpcs{display:block;color:#9AA2B8;font-size:12px;margin-top:3px}
