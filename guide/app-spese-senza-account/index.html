@@ -10,6 +10,9 @@
 <link rel="canonical" href="https://mpstudios.eu/guide/app-spese-senza-account/">
 <link rel="alternate" hreflang="it" href="https://mpstudios.eu/guide/app-spese-senza-account/">
 <link rel="alternate" hreflang="en" href="https://mpstudios.eu/en/guides/expense-app-no-account/">
+<link rel="alternate" hreflang="es" href="https://mpstudios.eu/es/guias/app-gastos-sin-cuenta/">
+<link rel="alternate" hreflang="fr" href="https://mpstudios.eu/fr/guides/application-depenses-sans-compte/">
+<link rel="alternate" hreflang="de" href="https://mpstudios.eu/de/ratgeber/ausgaben-app-ohne-konto/">
 <link rel="alternate" hreflang="x-default" href="https://mpstudios.eu/guide/app-spese-senza-account/">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="MPStudios">
@@ -18,6 +21,10 @@
 <meta property="og:url" content="https://mpstudios.eu/guide/app-spese-senza-account/">
 <meta property="og:image" content="https://mpstudios.eu/img/og.jpg">
 <meta property="og:locale" content="it_IT">
+<meta property="og:locale:alternate" content="en_GB">
+<meta property="og:locale:alternate" content="es_ES">
+<meta property="og:locale:alternate" content="fr_FR">
+<meta property="og:locale:alternate" content="de_DE">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="theme-color" content="#0a1640">
 <link rel="icon" href="/favicon.ico" sizes="32x32">
@@ -25,7 +32,7 @@
 <link rel="apple-touch-icon" href="/img/icon-180.png">
 <link rel="manifest" href="/site.webmanifest">
 <link rel="preload" href="/fonts/inter-latin-400-normal.woff2" as="font" type="font/woff2" crossorigin>
-<link rel="stylesheet" href="/style.css?v=4">
+<link rel="stylesheet" href="/style.css?v=5">
 <script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://mpstudios.eu/#organization","name":"MPStudios","alternateName":"MPStudios56","url":"https://mpstudios.eu/","logo":{"@type":"ImageObject","url":"https://mpstudios.eu/img/logo-512.png","width":512,"height":512},"founder":{"@id":"https://mpstudios.eu/chi-sono/#person"},"foundingDate":"2026","description":"Marchio di Marcello Pandolfo per app Android senza account e senza server e per la linea di abbigliamento 20¹.","sameAs":["https://play.google.com/store/apps/dev?id=8012076692318989473","https://github.com/mpstudios56","https://www.etsy.com/shop/MPStudios56"]},{"@type":"Person","@id":"https://mpstudios.eu/chi-sono/#person","name":"Marcello Pandolfo","url":"https://mpstudios.eu/chi-sono/","jobTitle":"Consulente IT e telecomunicazioni","worksFor":{"@id":"https://mpstudios.eu/#organization"},"knowsLanguage":["it","en"],"sameAs":["https://www.linkedin.com/in/marcellopandolfo/","https://github.com/mpstudios56","https://www.youtube.com/@MASart"]},{"@type":"Article","@id":"https://mpstudios.eu/guide/app-spese-senza-account/#article","headline":"App per le spese personali senza account e senza server: cosa controllare prima di sceglierla","description":"Cinque domande da farsi prima di affidare i propri conti a un'app: dove finiscono i dati, come si fa il backup, come si importano i movimenti.","inLanguage":"it","author":{"@id":"https://mpstudios.eu/chi-sono/#person"},"publisher":{"@id":"https://mpstudios.eu/#organization"},"datePublished":"2026-11-21","dateModified":"2026-11-21","mainEntityOfPage":"https://mpstudios.eu/guide/app-spese-senza-account/","image":"https://mpstudios.eu/img/og.jpg","about":{"@type":"MobileApplication","name":"Cifra e Cifra+","url":"https://mpstudios.eu/cifra/"}},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"MPStudios","item":"https://mpstudios.eu/"},{"@type":"ListItem","position":2,"name":"Guide","item":"https://mpstudios.eu/guide/"},{"@type":"ListItem","position":3,"name":"App per le spese personali senza account e senza server: cosa controllare prima di sceglierla","item":"https://mpstudios.eu/guide/app-spese-senza-account/"}]}]}</script>
 </head>
 <body>
@@ -33,7 +40,7 @@
 <header class="top">
  <div class="wrap top-in">
   <a class="brand" href="/"><img src="/img/logo-80.webp" width="40" height="40" alt=""><span>MPStudios</span></a>
-  <nav aria-label="Principale"><a href="/#app">App</a><a href="/guide/" aria-current="page">Guide</a><a href="/chi-sono/">Chi sono</a><a class="lang" href="/en/guides/expense-app-no-account/" hreflang="en" lang="en" title="English">EN</a></nav>
+  <nav aria-label="Principale"><a href="/#app">App</a><a href="/guide/" aria-current="page">Guide</a><a href="/faq/">FAQ</a><a href="/chi-sono/">Chi sono</a><details class="langs"><summary aria-label="Language">IT</summary><ul><li><a href="/guide/app-spese-senza-account/" hreflang="it" lang="it" aria-current="true">Italiano</a></li><li><a href="/en/guides/expense-app-no-account/" hreflang="en" lang="en">English</a></li><li><a href="/es/guias/app-gastos-sin-cuenta/" hreflang="es" lang="es">Español</a></li><li><a href="/fr/guides/application-depenses-sans-compte/" hreflang="fr" lang="fr">Français</a></li><li><a href="/de/ratgeber/ausgaben-app-ohne-konto/" hreflang="de" lang="de">Deutsch</a></li></ul></details></nav>
  </div>
 </header>
 <main id="main">
@@ -45,13 +52,14 @@
  <h2>1. Dove finiscono i dati?</h2><ul><li>Se l'app chiede di creare un account, i movimenti vengono salvati anche sui server di chi la sviluppa.</li><li>Se non lo chiede, i dati restano sul telefono e la responsabilità del backup passa a te.</li></ul><h2>2. Come si fa il backup?</h2><ul><li>Controlla che il backup includa tutto: movimenti, foto degli scontrini e impostazioni.</li><li>Meglio se puoi scegliere la destinazione (file sul telefono, Google Drive, Dropbox) e farlo partire ogni giorno.</li></ul><h2>3. Si possono importare ed esportare i dati?</h2><ul><li>I formati CSV e QIF sono letti da quasi tutte le app di finanza personale e dai fogli di calcolo.</li><li>Un'app che esporta solo in un formato proprietario rende difficile cambiare idea.</li></ul><h2>4. Devo scrivere ogni movimento a mano?</h2><ul><li>Su Android un'app può leggere le notifiche della banca, con il permesso di accesso alle notifiche che concedi tu, e registrare il movimento da sola.</li><li>Verifica che le regole siano modificabili: categoria, beneficiario e conto devono essere giusti fin dall'inizio.</li></ul><h2>5. Quanto costa davvero?</h2><ul><li>Gratuita con pubblicità, abbonamento mensile o pagamento unico: sono tre modelli diversi.</li><li>Con un pagamento unico paghi una volta e la funzione resta tua.</li></ul><h2>Come risponde Cifra</h2><ul><li>Nessun account e nessun server: i dati restano sul telefono.</li><li>Backup completo su file, Google Drive o Dropbox, anche automatico ogni giorno.</li><li>Importazione ed esportazione in CSV e QIF.</li><li>Cifra+ legge le notifiche della banca e registra i movimenti da solo; costa 5,99 € una volta.</li></ul>
  <p class="cta"><a class="btn" href="/cifra/">Scopri Cifra e Cifra+</a></p>
  <h2>Altre guide</h2>
- <ul class="guidelist"><li><a href="/guide/codici-otp-sim-aziendale/">Codici OTP su una SIM aziendale condivisa: come farli arrivare al collega giusto</a></li><li><a href="/guide/referti-famiglia-telefono/">Referti, terapie e scadenze sanitarie della famiglia: come tenerli in ordine sul telefono</a></li><li><a href="/guide/scadenze-bollo-assicurazione-revisione/">Bollo, assicurazione, revisione e tagliando: come non dimenticare più una scadenza dell'auto o della moto</a></li><li><a href="/guide/guida-ospiti-casa-vacanza/">Guida per gli ospiti di una casa vacanza: cosa scrivere e come consegnarla</a></li></ul>
+ <ul class="guidelist"><li><a href="/guide/referti-famiglia-telefono/">Referti, terapie e scadenze sanitarie della famiglia: come tenerli in ordine sul telefono</a></li><li><a href="/guide/scadenze-bollo-assicurazione-revisione/">Bollo, assicurazione, revisione e tagliando: come non dimenticare più una scadenza dell'auto o della moto</a></li><li><a href="/guide/guida-ospiti-casa-vacanza/">Guida per gli ospiti di una casa vacanza: cosa scrivere e come consegnarla</a></li><li><a href="/guide/inoltrare-notifiche-android/">Come inoltrare in automatico le notifiche di un telefono Android a un'altra persona</a></li></ul>
 </article>
 </main>
 <footer class="foot">
  <div class="wrap foot-in">
   <div><strong>MPStudios</strong><br>Marcello Pandolfo</div>
   <nav class="foot-links" aria-label="Profili"><a href="https://play.google.com/store/apps/dev?id=8012076692318989473" rel="me">Google Play</a><a href="https://github.com/mpstudios56" rel="me">GitHub</a><a href="https://www.linkedin.com/in/marcellopandolfo/" rel="me">LinkedIn</a><a href="https://www.etsy.com/shop/MPStudios56">Etsy</a></nav>
+  <nav class="foot-links" aria-label="Languages"><a href="/en/guides/expense-app-no-account/" hreflang="en" lang="en">English</a><a href="/es/guias/app-gastos-sin-cuenta/" hreflang="es" lang="es">Español</a><a href="/fr/guides/application-depenses-sans-compte/" hreflang="fr" lang="fr">Français</a><a href="/de/ratgeber/ausgaben-app-ohne-konto/" hreflang="de" lang="de">Deutsch</a></nav>
   <p class="muted">Questo sito non usa cookie e non raccoglie dati. Aggiornato il <time datetime="2026-11-21">21/11/2026</time>.</p>
  </div>
 </footer>

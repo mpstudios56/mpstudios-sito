@@ -1,0 +1,1626 @@
+# MPStudios: contenuti completi / full content
+
+# Italiano
+
+## Cifra e Cifra+ · Finanze personali
+URL: https://mpstudios.eu/cifra/
+
+Cifra è un'app Android per le finanze personali: conti, movimenti, budget e report restano sul telefono. Non chiede account, non mostra pubblicità e non usa server dello sviluppatore.
+
+Cifra gratuita · Cifra+ 5,99 €, pagamento unico
+
+### Conti e movimenti
+- Conti correnti, carte, contanti, depositi e titoli, crediti e debiti, con il marchio della banca e un colore per ogni conto.
+- Più valute, con il cambio sui trasferimenti.
+- Categorie e sottocategorie, progetti, luoghi e beneficiari.
+- Movimenti suddivisi, ricorrenze, modelli, bozze, foto degli scontrini e ricerca su tutti i campi.
+
+### Riepilogo, budget e report
+- Patrimonio, entrate, uscite e risparmio del periodo; spese per categoria in un grafico ad anello.
+- Budget per categoria, progetto o conto, con barra verde, ambra o rossa.
+- Dodici report fra totali e andamento nel tempo, con grafici a barre, a torta e a linee.
+
+### Backup e dati
+- Backup completo di dati, foto e impostazioni sul telefono, su Google Drive o su Dropbox, a mano o ogni giorno.
+- Importazione da altre app ed esportazione in CSV e QIF.
+- Un backup di Cifra+ si ripristina anche su Cifra gratuita.
+
+### Solo in Cifra+
+- Lettura delle notifiche della banca e delle app di pagamento: il movimento si registra da solo sul conto giusto.
+- Regole che assegnano categoria, beneficiario e progetto ai movimenti letti dalle notifiche.
+- Lettura degli scontrini con la fotocamera, con il riconoscimento del testo sul telefono.
+- Rateizzazione con piano delle rate e «Sposta rata».
+- Conti condivisi fra due persone tramite una cartella sul cloud scelta da voi.
+
+### Domande frequenti
+- **Cifra è gratuita?** Sì. Cifra è gratuita e senza pubblicità. Cifra+ costa 5,99 € con un pagamento unico su Google Play, senza abbonamento.
+- **Serve creare un account?** No. Cifra si installa e si usa senza registrazione.
+- **Dove vengono salvati i miei dati?** Sul telefono. Il backup va dove scegli tu: un file sul telefono, Google Drive o Dropbox. Lo sviluppatore non riceve i dati.
+- **Cosa aggiunge Cifra+ rispetto a Cifra?** La registrazione automatica dei movimenti letti dalle notifiche della banca, la lettura degli scontrini con la fotocamera, la rateizzazione e i conti condivisi fra due persone.
+- **Posso importare i movimenti da un'altra app?** Sì, da file CSV e QIF. Cifra esporta negli stessi formati.
+
+### Storico delle versioni
+- 2.4.9 (12/11/2026): Movimenti: chiudere un anno nell'elenco è immediato anche con molti anni di movimenti; prima l'app poteva bloccarsi.
+- 2.4.5 (23/10/2026): Backup: le copie sono elencate nella pagina del backup e si ripristinano o cancellano con un tocco; il backup completo contiene anche le foto. Un backup di Cifra+ si ripristina anche su Cifra, con l'elenco delle parti escluse. Movimenti collegati: opzione per mantenere l'importo di ogni modello. Pianificatore: ordine dai più recenti o dai più vecchi. Ricerca: progetti, beneficiari e luoghi più usati compaiono per primi.
+- 2.4.4 (20/10/2026): Tema chiaro: in Preferenze › Aspetto › Tema si sceglie scuro, chiaro o come il telefono. Operazioni su più movimenti: si parte senza movimenti spuntati. Correzioni di leggibilità.
+- 2.4.3 (18/10/2026): Avvio guidato: al primo avvio Cifra imposta con te i conti e, se vuoi, il risparmio del 10% delle entrate con un trasferimento mensile. Movimenti mostrati allo stesso modo in tutte le liste, con l'icona della categoria. Schermate di importazione ed esportazione rinnovate; tema chiaro più curato.
+- 2.4.0 (06/10/2026): Prima versione pubblica di Cifra su Google Play. Pagina «Aiuto e avvisi»: domande e risposte, con accanto gli avvisi sugli aggiornamenti. Breve giro di benvenuto al primo avvio.
+
+## EMIA · Salute della famiglia
+URL: https://mpstudios.eu/emia/
+
+EMIA è un'app Android che tiene in ordine referti, analisi, terapie, vaccini, gravidanza, scadenze e appuntamenti di tutta la famiglia, amici a 4 zampe compresi. I dati restano sul telefono.
+
+Prova gratuita di 60 giorni · da 14,99 € l'anno o 29,99 € una tantum
+
+### Referti ed esami
+- Inserimento da PDF, da immagine, con la fotocamera o a mano, con lettura dei valori sul telefono.
+- Per ogni valore: grafico, fascia di riferimento, storico e confronto fra due referti.
+- Fasce di riferimento da fonti ufficiali quando il referto non le riporta.
+
+### Misure, terapie e farmaci
+- Peso, pressione, ossigeno, glicemia, temperatura e battito; curve OMS per i bambini.
+- Terapie con promemoria all'ora esatta, dosi da confermare e storico.
+- Riconoscimento del farmaco dalla confezione e ricerca nella Banca dati AIFA.
+
+### Famiglia, vaccini e scadenze
+- Libretto vaccinale con il calendario del paese e della regione.
+- Gravidanza, ciclo, donazioni di sangue, denti, vista, esenzioni e pratiche.
+- Ogni scadenza diventa un appuntamento in Agenda e nel calendario del telefono, con avvisi a 30, 10 e 3 giorni e il giorno stesso.
+- Famiglia su più telefoni tramite una cartella condivisa scelta da voi.
+
+### Emergenza
+- Scheda d'emergenza per ogni persona e animale, leggibile anche senza rete e dalla schermata di blocco.
+- Gruppo sanguigno, allergie, condizioni, terapie, contatti e tasto per chiamare il numero di emergenza del paese.
+
+### Domande frequenti
+- **Quanto costa EMIA?** I primi 60 giorni sono gratuiti con tutte le funzioni. Poi EMIA costa 14,99 € l'anno o 29,99 € una tantum per una persona; EMIA Family 29,99 € l'anno o 59,99 € una tantum; EMIA Family Plus 39,99 € l'anno o 79,99 € una tantum.
+- **EMIA fa diagnosi?** No. EMIA ordina i dati e segnala i valori fuori dalle fasce di riferimento. La lettura dei risultati resta al medico.
+- **Dove finiscono i dati sanitari?** Restano sul telefono, nel backup scelto da te e, se la attivi, nella cartella condivisa della famiglia. EMIA non ha account né server.
+- **Posso gestire tutta la famiglia e gli animali?** Sì. EMIA Family copre tutta la famiglia; EMIA Family Plus aggiunge gli amici a 4 zampe e la famiglia su più telefoni.
+- **Da dove vengono le fasce di riferimento?** Da enti ufficiali come OMS, Istituto Superiore di Sanità, Ministero della Salute, AIFA ed EMA, citati nell'app.
+
+### Storico delle versioni
+- 1.4.0 (20/11/2026): Ogni scadenza inserita (esenzioni, invalidità civile, Legge 104, lenti a contatto, farmaci delle terapie) diventa un appuntamento in Agenda e nel calendario del telefono, con avvisi a 30, 10 e 3 giorni e il giorno stesso. Farmaco riconosciuto anche dal nome stampato sulla confezione, con ricerca nella Banca dati AIFA; dal codice DataMatrix si leggono scadenza e lotto. Denti da latte: per i bambini fino a 12 anni, i denti che possono spuntare o cadere a quell'età. Famiglia su più telefoni: scambio ogni 30 secondi ad app aperta e ogni 15 minuti ad app chiusa, con notifiche delle modifiche arrivate. Finestra con le novità al primo avvio dopo un aggiornamento.
+- 1.3.0 (19/11/2026): Allattamento al seno: per i farmaci della mamma, avviso tratto dal Riassunto delle caratteristiche del prodotto (AIFA, par. 4.6) su 3.062 principi attivi. Backup locale anche in una cartella che resta sul telefono dopo la disinstallazione; ripristino da Google Drive o da file già dalla guida iniziale. Capofamiglia: le modifiche dagli altri telefoni entrano solo dopo la sua approvazione. Periodo degli appuntamenti nel widget a scelta (1, 3, 6, 12 mesi o tutti).
+- 1.2.0 (19/11/2026): Prima versione in produzione su Google Play. Nuove sezioni Denti ed Esenzioni e pratiche, con avvisi di scadenza. Glicemia con il momento della misura, picco di flusso per asma e BPCO, INR con la dose dell'anticoagulante; temperatura e battito. Avvisi sui farmaci che interferiscono con pillola, anello o cerotto (AIFA). Stile di vita e screening dei tumori secondo età, sesso e paese di residenza.
+
+## Batonkey · Inoltro automatico delle notifiche
+URL: https://mpstudios.eu/batonkey/
+
+Batonkey è un'app Android che legge le notifiche del telefono e ne inoltra il contenuto alle persone che scegli tu, secondo regole decise da te: via email in automatico, anche a schermo spento, oppure via SMS, WhatsApp o Telegram con un tocco.
+
+Telefono Host: prova gratuita, poi 59,99 € l'anno · Telefoni Guest: gratuiti
+
+### Regole di inoltro
+- Una regola si crea partendo da una notifica già ricevuta: l'app compila quasi tutto da sola.
+- Uno o più destinatari, presi anche dalla rubrica, ciascuno con il proprio canale.
+- Si può aggiungere il nome del mittente o un testo proprio.
+- Calendario settimanale per inoltrare solo negli orari di lavoro.
+
+### Host e Guest
+- Host: il telefono che riceve le notifiche e le inoltra. Guest: il telefono del collega, sempre gratuito.
+- Collegamento con un QR personale, monouso, valido 24 ore.
+- Prenotazione: il collega tocca il mittente e, per 5 minuti regolabili, la notifica successiva di quel mittente arriva solo a lui.
+
+### Controllo e privacy
+- Dashboard con le statistiche degli invii per destinatario, mittente e canale.
+- Avviso se la lettura delle notifiche si interrompe.
+- Blocco con PIN o impronta e backup delle regole.
+- Nessun account e nessun server dello sviluppatore: la password dell'email e il PIN restano sul telefono.
+
+### Domande frequenti
+- **A cosa serve Batonkey?** A girare in automatico il contenuto di una notifica alla persona che ne ha bisogno, quando la notifica arriva su un telefono usato da più persone: un ufficio, un negozio, una famiglia.
+- **Quanto costa?** Il telefono Host ha una prova gratuita, poi costa 59,99 € l'anno. I telefoni Guest dei colleghi sono sempre gratuiti.
+- **Su quali canali inoltra?** Email in automatico, anche a schermo spento; SMS, WhatsApp e Telegram con un tocco.
+- **Posso limitare l'inoltro agli orari di lavoro?** Sì, con il calendario settimanale delle regole.
+- **Le notifiche passano da un server?** No. Batonkey legge le notifiche solo sul telefono e non ha account né server dello sviluppatore.
+
+## Turbofuel · Manutenzione di moto e auto
+URL: https://mpstudios.eu/turbofuel/
+
+Turbofuel è un'app Android per la manutenzione di moto, scooter, auto e furgoni: mostra cosa è a posto, cosa è vicino e cosa è scaduto, con storico degli interventi, scadenze e documenti del mezzo.
+
+Moto e scooter gratuiti · auto e furgoni nella versione PRO
+
+### Cruscotto e mezzi
+- Contachilometri, prossimo tagliando e stato di ogni componente: olio, catena, gomme, freni, filtri.
+- Più garage, scheda completa del mezzo e lettura del libretto dalla foto.
+- Lettura dei chilometri con la fotocamera, senza internet.
+
+### Interventi e scadenze
+- Interventi con componenti, km, costi di ricambi e manodopera, officina e note.
+- Bollo, assicurazione e revisione nel calendario del telefono, con avvisi a 30, 10, 3 e 1 giorno.
+- Spese e consumi: costo al km, spesa per categoria, consumo da pieno a pieno.
+
+### Strumenti
+- Tag NFC da attaccare al mezzo per aprire l'app o registrare km e interventi avvicinando il telefono.
+- Check prima di partire, diario pista, archivio officine.
+- Libretto PDF dello storico da consegnare a chi compra il mezzo; esportazione CSV.
+
+### Domande frequenti
+- **Per quali mezzi funziona Turbofuel?** Moto, scooter, auto e furgoni. Moto e scooter sono gratuiti; auto e furgoni sono nella versione PRO.
+- **Come registra i chilometri?** Con la fotocamera: si inquadra il contachilometri e si conferma il numero. Funziona senza internet.
+- **Mi ricorda bollo, assicurazione e revisione?** Sì. Le scadenze entrano nel calendario del telefono con avvisi a 30, 10, 3 e 1 giorno.
+- **Dove salva i dati?** Sul telefono, con backup sul telefono e sul Google Drive dell'utente.
+
+## Benarri · Guida digitale della casa vacanza
+URL: https://mpstudios.eu/benarri/
+
+Benarri è una guida digitale per gli ospiti di una casa vacanza: Wi-Fi, chiavi, regole, parcheggio, contatti, bus ed emergenze in cinque lingue. Sostituisce il raccoglitore cartaceo e i lunghi messaggi su WhatsApp.
+
+Benarri per gli ospiti: gratuita · Benarri Host: a pagamento
+
+### Benarri Host, per chi affitta
+- Una guida per ogni appartamento, con logo e colori propri.
+- Traduzione con un tocco in inglese, tedesco, francese e spagnolo, fatta sul telefono.
+- Pubblicazione con un link o un QR; soggiorni con date prese dal calendario Airbnb o Booking.
+- Avvisi agli ospiti con conferma di lettura e conferma delle regole della casa.
+
+### Benarri, per gli ospiti
+- La guida nella lingua dell'ospite, leggibile anche senza rete.
+- Wi-Fi con QR, contatti con chiamata, WhatsApp e mappa, orari dei bus, numeri di emergenza.
+- Chi non vuole installare l'app apre la stessa guida nel browser.
+
+### Dove stanno i dati
+- Nel Google Drive dell'host, in una cartella dedicata. Nessun server dello sviluppatore.
+- Gli ospiti non creano account e non si registrano.
+
+### Domande frequenti
+- **Gli ospiti devono installare un'app?** No. La guida si apre anche nel browser dal link condiviso; con l'app Benarri si legge anche senza rete.
+- **In quali lingue è la guida?** Italiano, inglese, tedesco, francese e spagnolo. La traduzione avviene sul telefono dell'host ed è gratuita.
+- **Dove sono salvati i dati?** Nel Google Drive dell'host, in una cartella Benarri. Non ci sono server dello sviluppatore.
+- **Funziona con Airbnb e Booking?** Benarri Host legge in sola lettura il calendario delle prenotazioni (iCal) per creare i soggiorni con le date giuste.
+
+## App per le spese personali senza account e senza server: cosa controllare prima di sceglierla
+URL: https://mpstudios.eu/guide/app-spese-senza-account/
+
+Un'app per le spese personali che non chiede account e non usa server tiene i movimenti solo sul telefono: prima di sceglierla conviene verificare dove va il backup, se importa ed esporta in formati aperti e come registra i movimenti senza doverli scrivere a mano.
+
+### 1. Dove finiscono i dati?
+- Se l'app chiede di creare un account, i movimenti vengono salvati anche sui server di chi la sviluppa.
+- Se non lo chiede, i dati restano sul telefono e la responsabilità del backup passa a te.
+
+### 2. Come si fa il backup?
+- Controlla che il backup includa tutto: movimenti, foto degli scontrini e impostazioni.
+- Meglio se puoi scegliere la destinazione (file sul telefono, Google Drive, Dropbox) e farlo partire ogni giorno.
+
+### 3. Si possono importare ed esportare i dati?
+- I formati CSV e QIF sono letti da quasi tutte le app di finanza personale e dai fogli di calcolo.
+- Un'app che esporta solo in un formato proprietario rende difficile cambiare idea.
+
+### 4. Devo scrivere ogni movimento a mano?
+- Su Android un'app può leggere le notifiche della banca, con il permesso di accesso alle notifiche che concedi tu, e registrare il movimento da sola.
+- Verifica che le regole siano modificabili: categoria, beneficiario e conto devono essere giusti fin dall'inizio.
+
+### 5. Quanto costa davvero?
+- Gratuita con pubblicità, abbonamento mensile o pagamento unico: sono tre modelli diversi.
+- Con un pagamento unico paghi una volta e la funzione resta tua.
+
+### Come risponde Cifra
+- Nessun account e nessun server: i dati restano sul telefono.
+- Backup completo su file, Google Drive o Dropbox, anche automatico ogni giorno.
+- Importazione ed esportazione in CSV e QIF.
+- Cifra+ legge le notifiche della banca e registra i movimenti da solo; costa 5,99 € una volta.
+
+## Referti, terapie e scadenze sanitarie della famiglia: come tenerli in ordine sul telefono
+URL: https://mpstudios.eu/guide/referti-famiglia-telefono/
+
+Per tenere in ordine referti, terapie e scadenze di tutta la famiglia sul telefono servono una scheda per ogni persona, i valori degli esami leggibili nel tempo e ogni scadenza trasformata in un promemoria nel calendario.
+
+### Un posto unico per ogni persona
+- Referti in PDF, foto delle ricette, vaccini e terapie finiscono spesso in chat, email e cassetti diversi.
+- Una scheda per persona, animali compresi, permette di ritrovare tutto in pochi secondi, anche dal medico.
+
+### Confrontare i valori tra più referti
+- Un singolo valore fuori norma dice poco; l'andamento su più referti dice di più.
+- Serve un grafico per ogni valore con la fascia di riferimento del laboratorio o, se manca, di una fonte ufficiale.
+
+### Ogni scadenza diventa un promemoria
+- Richiami dei vaccini, rinnovo delle esenzioni, controlli dal dentista, confezioni di lenti: ogni data va nel calendario del telefono.
+- Avvisi a qualche settimana e a pochi giorni evitano di accorgersene il giorno dopo.
+
+### La privacy prima di tutto
+- I dati sanitari sono i più delicati: meglio un'app che li tiene sul telefono e non chiede account.
+- Il backup deve andare dove scegli tu.
+
+### Come lo fa EMIA
+- Una scheda per ogni persona e amico a 4 zampe, con referti letti da PDF o fotocamera.
+- Grafico, fascia di riferimento e confronto fra due referti per ogni valore.
+- Ogni scadenza entra in Agenda e nel calendario del telefono con avvisi a 30, 10 e 3 giorni e il giorno stesso.
+- Nessun account e nessun server; EMIA non fa diagnosi, la lettura resta al medico.
+
+## Bollo, assicurazione, revisione e tagliando: come non dimenticare più una scadenza dell'auto o della moto
+URL: https://mpstudios.eu/guide/scadenze-bollo-assicurazione-revisione/
+
+Ogni auto o moto ha quattro scadenze che tornano a intervalli fissi: bollo, assicurazione, revisione e tagliando. Il modo più semplice per non saltarne una è segnare la prossima data appena paghi o fai l'intervento, con un avviso qualche settimana prima.
+
+### Le quattro scadenze
+- Bollo: si paga ogni anno, nel mese che dipende dalla prima immatricolazione o dall'ultimo pagamento.
+- Assicurazione: dura di solito un anno; la data è sul contratto.
+- Revisione: la prima dopo quattro anni dall'immatricolazione, poi ogni due anni.
+- Tagliando: ogni tot chilometri o mesi, secondo il libretto del costruttore.
+
+### Perché si dimenticano
+- Arrivano in mesi diversi e con regole diverse.
+- Il tagliando dipende dai chilometri, che nessuno guarda finché non si accende una spia.
+- Con più mezzi in famiglia le date si moltiplicano.
+
+### Un metodo che funziona
+- Appena paghi o fai l'intervento, segna subito la prossima scadenza.
+- Metti un avviso a un mese e uno a pochi giorni.
+- Annota i chilometri a ogni pieno o a ogni tagliando, così sai quanto manca al prossimo.
+- Conserva una foto di libretto, polizza e ricevute nello stesso posto.
+
+### Come lo fa Turbofuel
+- Bollo, assicurazione e revisione entrano nel calendario del telefono con avvisi a 30, 10, 3 e 1 giorno.
+- I chilometri si leggono dalla foto del contachilometri, anche senza internet.
+- Per ogni componente vedi se è a posto, vicino alla scadenza o scaduto.
+- Moto e scooter sono gratuiti; auto e furgoni sono nella versione PRO.
+
+## Guida per gli ospiti di una casa vacanza: cosa scrivere e come consegnarla
+URL: https://mpstudios.eu/guide/guida-ospiti-casa-vacanza/
+
+Una buona guida per gli ospiti risponde prima che le domande arrivino: Wi-Fi, chiavi, regole della casa, parcheggio, rifiuti, trasporti ed emergenze. Va consegnata prima dell'arrivo, nella lingua dell'ospite, e deve funzionare anche senza rete.
+
+### Cosa chiedono tutti gli ospiti
+- Il nome e la password del Wi-Fi.
+- Come si entra: chiavi, cassetta, codice del portone.
+- Dove si parcheggia e quanto costa.
+- Come si fa la raccolta differenziata.
+- A che ora va lasciata la casa.
+
+### In che ordine metterle
+- Prima l'arrivo: indirizzo, accesso, parcheggio.
+- Poi la casa: Wi-Fi, elettrodomestici, regole.
+- Poi la zona: trasporti, negozi, spiaggia o centro.
+- In fondo le emergenze: numeri utili e il tuo contatto.
+
+### Carta o digitale
+- Il raccoglitore cartaceo resta in casa e l'ospite lo vede solo dopo l'arrivo.
+- Una guida digitale si manda con un link prima del viaggio e si aggiorna in un minuto.
+- Se la guida è tradotta nella lingua dell'ospite, le domande diminuiscono.
+
+### Come lo fa Benarri
+- Una guida per ogni appartamento, con logo e colori propri.
+- Traduzione in inglese, tedesco, francese e spagnolo fatta sul telefono dell'host.
+- L'ospite la apre da un link o da un QR, anche nel browser e senza rete.
+- I dati restano nel Google Drive dell'host.
+
+## Come inoltrare in automatico le notifiche di un telefono Android a un'altra persona
+URL: https://mpstudios.eu/guide/inoltrare-notifiche-android/
+
+Per far arrivare in automatico a un'altra persona il contenuto di una notifica Android serve un'app con accesso alle notifiche che, secondo regole per mittente, la inoltri via email o messaggio. Così nessuno deve prendere in mano il telefono condiviso.
+
+### Quando serve
+- In ufficio o in negozio un telefono riceve avvisi che riguardano un collega.
+- In famiglia un telefono riceve conferme e avvisi che servono anche all'altro genitore.
+- La persona interessata non ha il telefono sotto mano.
+
+### Le soluzioni manuali e i loro limiti
+- Leggere e riscrivere il messaggio in chat: funziona solo se qualcuno è presente.
+- Fare uno screenshot: resta nella galleria e nella cronologia della chat.
+- Lasciare il telefono in un posto comune: nessuno sa chi ha letto cosa.
+
+### Cosa deve fare un inoltro automatico
+- Leggere la notifica sul telefono, con il permesso di accesso alle notifiche concesso da te.
+- Applicare una regola per mittente: quali notifiche, a chi, su quale canale.
+- Inoltrare solo negli orari che decidi tu.
+- Tenere un registro degli invii, senza passare da server esterni.
+
+### Come lo fa Batonkey
+- Le regole si creano da una notifica già ricevuta.
+- Email in automatico anche a schermo spento; SMS, WhatsApp e Telegram con un tocco.
+- Calendario settimanale, statistiche degli invii, blocco con PIN o impronta.
+- Nessun account e nessun server dello sviluppatore.
+
+## Domande frequenti
+- **Chi c'è dietro MPStudios?** Marcello Pandolfo, consulente IT e telecomunicazioni. Progetta, sviluppa e pubblica le app da solo, con il marchio MPStudios.
+- **Le app chiedono di creare un account?** No. Si installano da Google Play e si usano subito, senza registrazione.
+- **Dove finiscono i miei dati?** Sul telefono e, se lo attivi, nel backup o nella cartella cloud che scegli tu (per esempio Google Drive o Dropbox). Lo sviluppatore non riceve i dati e non ha server che li conservano.
+- **Le app funzionano su iPhone?** Al momento no: sono app Android, distribuite su Google Play.
+- **In quali lingue sono disponibili?** Italiano, inglese, spagnolo, francese e tedesco.
+- **Cosa succede se cambio telefono?** Fai un backup dal vecchio telefono e lo ripristini sul nuovo. Gli acquisti fatti su Google Play restano legati al tuo account Google: reinstallando l'app con lo stesso account li ritrovi.
+- **Come segnalo un problema o chiedo una funzione?** Scrivimi all'indirizzo email indicato nella pagina Chi sono. Rispondo io, e le segnalazioni finiscono negli aggiornamenti.
+- **Perché alcune app sono a pagamento?** Non vendo dati e non uso server: il prezzo paga lo sviluppo e gli aggiornamenti. Cifra ha una versione gratuita; EMIA e Batonkey hanno una prova gratuita.
+- **Quando escono Batonkey, Turbofuel e Benarri?** Sono in sviluppo. Quando escono su Google Play, le loro pagine su questo sito riportano il link e lo storico delle versioni.
+
+# English
+
+## Cifra and Cifra+ · Personal finance
+URL: https://mpstudios.eu/en/cifra/
+
+Cifra is an Android personal finance app: accounts, transactions, budgets and reports stay on your phone. No account, no ads and no developer servers.
+
+Cifra free · Cifra+ €5.99, one-time purchase
+
+### Accounts and transactions
+- Current accounts, cards, cash, deposits and securities, credits and debts, each with its bank logo and colour.
+- Multiple currencies, with exchange rates on transfers.
+- Categories and subcategories, projects, places and payees.
+- Split transactions, recurring entries, templates, drafts, receipt photos and search on every field.
+
+### Overview, budgets and reports
+- Net worth, income, expenses and savings for the period; spending by category in a ring chart.
+- Budgets by category, project or account, with a green, amber or red bar.
+- Twelve reports for totals and trends, with bar, pie and line charts.
+
+### Backup and data
+- Full backup of data, photos and settings to the phone, Google Drive or Dropbox, manual or daily.
+- Import from other apps and export in CSV and QIF.
+- A Cifra+ backup can be restored on free Cifra too.
+
+### Only in Cifra+
+- Reads notifications from your bank and payment apps: the transaction is recorded on the right account automatically.
+- Rules that assign category, payee and project to transactions read from notifications.
+- Receipt scanning with the camera, with text recognition on the phone.
+- Instalment plans with «Move instalment».
+- Accounts shared between two people through a cloud folder you choose.
+
+### Frequently asked questions
+- **Is Cifra free?** Yes. Cifra is free and has no ads. Cifra+ costs €5.99 as a one-time purchase on Google Play, with no subscription.
+- **Do I need an account?** No. You install Cifra and use it without signing up.
+- **Where is my data stored?** On your phone. Backups go where you choose: a file on the phone, Google Drive or Dropbox. The developer never receives your data.
+- **What does Cifra+ add?** Automatic transactions from bank notifications, receipt scanning, instalment plans and accounts shared between two people.
+- **Can I import transactions from another app?** Yes, from CSV and QIF files. Cifra exports in the same formats.
+
+### Version history
+- 2.4.9 (12 November 2026): Transactions: folding a year in the list is instant even with many years of entries; before, the app could freeze.
+- 2.4.5 (23 October 2026): Backup: copies are listed on the backup page and restored or deleted with a tap; the full backup now includes photos. A Cifra+ backup can be restored on Cifra, with a list of the parts left out. Linked transactions: option to keep each template's amount. Planner: sort from newest or oldest. Search: the most used projects, payees and places appear first.
+- 2.4.4 (20 October 2026): Light theme: in Preferences › Appearance › Theme choose dark, light or as the phone. Multi-transaction operations: nothing is ticked at the start. Readability fixes.
+- 2.4.3 (18 October 2026): Guided start: on first launch Cifra sets up your accounts with you and, if you wish, saving 10% of income with a monthly transfer. Transactions shown the same way in every list, with the category icon. Redesigned import and export screens; a more polished light theme.
+- 2.4.0 (6 October 2026): First public release of Cifra on Google Play. «Help and notices» page: questions and answers, with the update notices beside them. Short welcome tour on first launch.
+
+## EMIA · Family health
+URL: https://mpstudios.eu/en/emia/
+
+EMIA is an Android app that keeps your whole family's lab reports, tests, treatments, vaccines, pregnancy, deadlines and appointments in order, pets included. Your data stays on your phone.
+
+60-day free trial · from €14.99 a year or €29.99 lifetime
+
+### Lab reports and tests
+- Add reports from PDF, image, camera or by hand, with values read on the phone.
+- For every value: chart, reference range, history and comparison between two reports.
+- Reference ranges from official sources when the report does not include them.
+
+### Measurements, treatments and medicines
+- Weight, blood pressure, oxygen, glucose, temperature and heart rate; WHO growth curves for children.
+- Treatments with reminders at the exact time, doses to confirm and history.
+- Medicine recognition from the package and lookup in the Italian AIFA drug database.
+
+### Family, vaccines and deadlines
+- Vaccination record with the national and regional schedule.
+- Pregnancy, cycle, blood donations, teeth, eyesight, exemptions and paperwork.
+- Every deadline becomes an appointment in the Agenda and in the phone calendar, with alerts 30, 10 and 3 days before and on the day.
+- Family on several phones through a shared folder you choose.
+
+### Emergency
+- Emergency card for every person and pet, readable offline and from the lock screen.
+- Blood type, allergies, conditions, treatments, contacts and a button to call the country's emergency number.
+
+### Frequently asked questions
+- **How much does EMIA cost?** The first 60 days are free with all features. Then EMIA costs €14.99 a year or €29.99 lifetime for one person; EMIA Family €29.99 a year or €59.99 lifetime; EMIA Family Plus €39.99 a year or €79.99 lifetime.
+- **Does EMIA diagnose?** No. EMIA organises data and flags values outside reference ranges. Interpreting results is up to your doctor.
+- **Where does my health data go?** It stays on your phone, in the backup you choose and, if you turn it on, in the family's shared folder. EMIA has no accounts and no servers.
+- **Can I manage the whole family and pets?** Yes. EMIA Family covers the whole family; EMIA Family Plus adds pets and the family on several phones.
+- **Where do the reference ranges come from?** From official bodies such as WHO, the Italian National Institute of Health, the Italian Ministry of Health, AIFA and EMA, cited in the app.
+
+### Version history
+- 1.4.0 (20 November 2026): Every deadline you enter (exemptions, disability paperwork, contact lenses, treatment medicines) becomes an appointment in the Agenda and in the phone calendar, with alerts 30, 10 and 3 days before and on the day. Medicines recognised from the name printed on the package too, with lookup in the AIFA database; expiry and batch read from the DataMatrix code. Baby teeth: for children up to 12, the teeth that may come in or fall out at that age. Family on several phones: sync every 30 seconds with the app open and every 15 minutes with it closed, with notifications of incoming changes. A what's-new window on the first launch after an update.
+- 1.3.0 (19 November 2026): Breastfeeding: for the mother's medicines, a warning taken from the Summary of Product Characteristics (AIFA, section 4.6) covering 3,062 active ingredients. Local backup also in a folder that stays on the phone after uninstalling; restore from Google Drive or a file right from the setup guide. Head of family: changes from other phones come in only after their approval. Choice of the period shown in the widget (1, 3, 6, 12 months or all).
+- 1.2.0 (19 November 2026): First production release on Google Play. New Teeth and Exemptions and paperwork sections, with deadline alerts. Blood glucose with the time of measurement, peak flow for asthma and COPD, INR with the anticoagulant dose; temperature and heart rate. Warnings about medicines that interfere with the pill, ring or patch (AIFA). Lifestyle and cancer screening by age, sex and country of residence.
+
+## Batonkey · Automatic notification forwarding
+URL: https://mpstudios.eu/en/batonkey/
+
+Batonkey is an Android app that reads the phone's notifications and forwards their content to the people you choose, following rules you set: by email automatically, even with the screen off, or by SMS, WhatsApp or Telegram with one tap.
+
+Host phone: free trial, then €59.99 a year · Guest phones: free
+
+### Forwarding rules
+- Create a rule from a notification you already received: the app fills in almost everything.
+- One or more recipients, from your contacts too, each on their own channel.
+- Add the sender's name or your own text.
+- A weekly schedule to forward only during working hours.
+
+### Host and Guest
+- Host: the phone that receives the notifications and forwards them. Guest: the colleague's phone, always free.
+- Pairing with a personal, single-use QR code valid for 24 hours.
+- Booking: a colleague taps the sender and, for 5 adjustable minutes, that sender's next notification goes only to them.
+
+### Control and privacy
+- Dashboard with forwarding statistics by recipient, sender and channel.
+- Alert if notification access stops.
+- PIN or fingerprint lock and backup of your rules.
+- No account and no developer servers: your email password and PIN stay on the phone.
+
+### Frequently asked questions
+- **What is Batonkey for?** It forwards the content of a notification to the person who needs it, automatically, when the notification lands on a phone used by several people: an office, a shop, a family.
+- **How much does it cost?** The Host phone has a free trial, then costs €59.99 a year. Colleagues' Guest phones are always free.
+- **Which channels does it use?** Email automatically, even with the screen off; SMS, WhatsApp and Telegram with one tap.
+- **Can I limit forwarding to working hours?** Yes, with the rules' weekly schedule.
+- **Do notifications go through a server?** No. Batonkey reads notifications only on the phone and has no accounts or developer servers.
+
+## Turbofuel · Motorbike and car maintenance
+URL: https://mpstudios.eu/en/turbofuel/
+
+Turbofuel is an Android app for maintaining motorbikes, scooters, cars and vans: it shows what is fine, what is due soon and what is overdue, with service history, deadlines and vehicle documents.
+
+Motorbikes and scooters free · cars and vans in the PRO version
+
+### Dashboard and vehicles
+- Odometer, next service and the state of every part: oil, chain, tyres, brakes, filters.
+- Several garages, a full vehicle record and registration document read from a photo.
+- Mileage read with the camera, offline.
+
+### Service and deadlines
+- Services with parts, mileage, parts and labour costs, workshop and notes.
+- Road tax, insurance and inspection in the phone calendar, with alerts 30, 10, 3 and 1 day before.
+- Costs and consumption: cost per km, spending by category, full-to-full fuel consumption.
+
+### Tools
+- NFC tags on the vehicle to open the app or log mileage and services by tapping the phone.
+- Pre-ride checklist, track diary, workshop directory.
+- PDF service book for whoever buys the vehicle; CSV export.
+
+### Frequently asked questions
+- **Which vehicles does Turbofuel support?** Motorbikes, scooters, cars and vans. Motorbikes and scooters are free; cars and vans are in the PRO version.
+- **How does it log mileage?** With the camera: frame the odometer and confirm the number. It works offline.
+- **Does it remind me about road tax, insurance and inspection?** Yes. Deadlines go into the phone calendar with alerts 30, 10, 3 and 1 day before.
+- **Where is the data stored?** On the phone, with backups on the phone and on the user's Google Drive.
+
+## Benarri · Digital guest guide for holiday homes
+URL: https://mpstudios.eu/en/benarri/
+
+Benarri is a digital guide for holiday home guests: Wi-Fi, keys, house rules, parking, contacts, buses and emergencies in five languages. It replaces the paper binder and long WhatsApp messages.
+
+Benarri for guests: free · Benarri Host: paid
+
+### Benarri Host, for hosts
+- One guide per apartment, with its own logo and colours.
+- One-tap translation into English, German, French and Spanish, done on the phone.
+- Publish with a link or a QR code; stays with dates taken from the Airbnb or Booking calendar.
+- Messages to guests with read receipts and house-rule confirmation.
+
+### Benarri, for guests
+- The guide in the guest's language, readable offline.
+- Wi-Fi with QR code, contacts with call, WhatsApp and map, bus times, emergency numbers.
+- Guests who do not want to install the app open the same guide in the browser.
+
+### Where the data lives
+- In the host's Google Drive, in a dedicated folder. No developer servers.
+- Guests do not create accounts or sign up.
+
+### Frequently asked questions
+- **Do guests need to install an app?** No. The guide also opens in the browser from the shared link; the Benarri app also works offline.
+- **Which languages?** Italian, English, German, French and Spanish. Translation runs on the host's phone and is free.
+- **Where is the data stored?** In the host's Google Drive, in a Benarri folder. There are no developer servers.
+- **Does it work with Airbnb and Booking?** Benarri Host reads the booking calendar (iCal) to create stays with the right dates.
+
+## Expense tracking apps with no account and no server: what to check before you pick one
+URL: https://mpstudios.eu/en/guides/expense-app-no-account/
+
+An expense app that asks for no account and uses no server keeps your transactions only on your phone. Before choosing one, check where backups go, whether it imports and exports open formats, and how it records transactions without typing each one.
+
+### 1. Where does the data go?
+- If the app asks you to create an account, your transactions are also stored on the developer's servers.
+- If it doesn't, the data stays on the phone and backups are your responsibility.
+
+### 2. How do backups work?
+- Check that a backup includes everything: transactions, receipt photos and settings.
+- Better if you can choose the destination (phone file, Google Drive, Dropbox) and run it daily.
+
+### 3. Can you import and export?
+- CSV and QIF are read by almost every personal finance app and by spreadsheets.
+- An app that only exports to its own format makes it hard to switch later.
+
+### 4. Do I have to type every transaction?
+- On Android an app can read bank notifications, with the notification access you grant, and log the transaction by itself.
+- Make sure the rules can be edited, so category, payee and account are right from the start.
+
+### 5. What does it really cost?
+- Free with ads, monthly subscription or one-time purchase are three different models.
+- With a one-time purchase you pay once and the feature stays yours.
+
+### How Cifra answers
+- No account and no server: data stays on the phone.
+- Full backup to a file, Google Drive or Dropbox, including daily automatic backups.
+- Import and export in CSV and QIF.
+- Cifra+ reads bank notifications and logs transactions by itself; it costs €5.99 once.
+
+## Your family's lab reports, treatments and health deadlines: keeping them in order on your phone
+URL: https://mpstudios.eu/en/guides/family-medical-records-phone/
+
+Keeping the whole family's lab reports, treatments and deadlines in order on a phone takes one record per person, test values you can read over time, and every deadline turned into a calendar reminder.
+
+### One place per person
+- PDF reports, photos of prescriptions, vaccines and treatments often end up in different chats, emails and drawers.
+- One record per person, pets included, lets you find everything in seconds, even at the doctor's.
+
+### Comparing values across reports
+- A single out-of-range value says little; the trend across several reports says more.
+- You need a chart for each value with the lab's reference range or, when missing, one from an official source.
+
+### Every deadline becomes a reminder
+- Vaccine boosters, exemption renewals, dental check-ups, contact lens boxes: every date goes into the phone calendar.
+- Alerts a few weeks and a few days ahead stop you noticing the day after.
+
+### Privacy first
+- Health data is the most sensitive kind: better an app that keeps it on the phone and asks for no account.
+- Backups should go where you choose.
+
+### How EMIA does it
+- A record for every person and pet, with reports read from PDF or camera.
+- Chart, reference range and comparison between two reports for every value.
+- Every deadline goes into the Agenda and the phone calendar with alerts 30, 10 and 3 days ahead and on the day.
+- No account and no server; EMIA does not diagnose, interpreting results is up to your doctor.
+
+## Road tax, insurance, inspection and servicing: never miss a car or motorbike deadline again
+URL: https://mpstudios.eu/en/guides/car-motorbike-deadlines/
+
+Every car or motorbike has four deadlines that come back at fixed intervals: road tax, insurance, inspection and servicing. The simplest way not to miss one is to note the next date as soon as you pay or have the work done, with a reminder a few weeks ahead.
+
+### The four deadlines
+- Road tax: paid every year, in a month that depends on registration or the last payment.
+- Insurance: usually lasts a year; the date is on the policy.
+- Inspection: in Italy the first comes four years after registration, then every two years.
+- Servicing: every so many kilometres or months, according to the manufacturer's handbook.
+
+### Why they get forgotten
+- They fall in different months with different rules.
+- Servicing depends on mileage, which nobody checks until a warning light comes on.
+- With several vehicles in the family, the dates multiply.
+
+### A method that works
+- As soon as you pay or have the work done, note the next deadline.
+- Set one alert a month ahead and one a few days ahead.
+- Log mileage at every fill-up or service, so you know how far the next one is.
+- Keep photos of the registration document, policy and receipts in one place.
+
+### How Turbofuel does it
+- Road tax, insurance and inspection go into the phone calendar with alerts 30, 10, 3 and 1 day ahead.
+- Mileage is read from a photo of the odometer, even offline.
+- For every part you see whether it is fine, due soon or overdue.
+- Motorbikes and scooters are free; cars and vans are in the PRO version.
+
+## A guest guide for your holiday home: what to write and how to hand it over
+URL: https://mpstudios.eu/en/guides/holiday-home-guest-guide/
+
+A good guest guide answers questions before they arrive: Wi-Fi, keys, house rules, parking, waste, transport and emergencies. Send it before arrival, in the guest's language, and make sure it works offline.
+
+### What every guest asks
+- The Wi-Fi name and password.
+- How to get in: keys, key box, door code.
+- Where to park and how much it costs.
+- How to sort the rubbish.
+- What time to check out.
+
+### What order to put it in
+- Arrival first: address, access, parking.
+- Then the home: Wi-Fi, appliances, rules.
+- Then the area: transport, shops, beach or town centre.
+- Emergencies last: useful numbers and your contact.
+
+### Paper or digital
+- A paper binder stays in the home and guests only see it after they arrive.
+- A digital guide is sent as a link before the trip and updated in a minute.
+- When the guide is in the guest's language, questions drop.
+
+### How Benarri does it
+- One guide per apartment, with its own logo and colours.
+- Translation into English, German, French and Spanish done on the host's phone.
+- Guests open it from a link or QR code, in the browser too, and offline.
+- The data stays in the host's Google Drive.
+
+## How to forward an Android phone's notifications to another person automatically
+URL: https://mpstudios.eu/en/guides/forward-android-notifications/
+
+To send the content of an Android notification to another person automatically, you need an app with notification access that forwards it by email or message, following rules per sender. Then nobody has to pick up the shared phone.
+
+### When you need it
+- In an office or shop, one phone receives alerts meant for a colleague.
+- In a family, one phone receives confirmations and alerts the other parent also needs.
+- The person concerned does not have the phone at hand.
+
+### Manual workarounds and their limits
+- Reading the message and retyping it in a chat only works if someone is there.
+- A screenshot stays in the gallery and in the chat history.
+- Leaving the phone in a shared spot means nobody knows who read what.
+
+### What automatic forwarding must do
+- Read the notification on the phone, with the notification access you grant.
+- Apply a rule per sender: which notifications, to whom, on which channel.
+- Forward only during the hours you decide.
+- Keep a log of what was sent, without external servers.
+
+### How Batonkey does it
+- Rules are created from a notification you already received.
+- Email automatically, even with the screen off; SMS, WhatsApp and Telegram with one tap.
+- Weekly schedule, forwarding statistics, PIN or fingerprint lock.
+- No account and no developer servers.
+
+## Frequently asked questions
+- **Who is behind MPStudios?** Marcello Pandolfo, an IT and telecom consultant. He designs, builds and publishes the apps on his own, under the MPStudios brand.
+- **Do the apps ask me to create an account?** No. You install them from Google Play and use them straight away, without signing up.
+- **Where does my data go?** On your phone and, if you turn it on, in the backup or cloud folder you choose (for example Google Drive or Dropbox). The developer never receives your data and has no servers that store it.
+- **Do the apps work on iPhone?** Not at the moment: they are Android apps, distributed on Google Play.
+- **Which languages are available?** Italian, English, Spanish, French and German.
+- **What happens if I change phone?** Make a backup on the old phone and restore it on the new one. Purchases made on Google Play stay linked to your Google account: reinstall the app with the same account and they are there.
+- **How do I report a problem or ask for a feature?** Write to the email address on the About page. I answer myself, and reports end up in the updates.
+- **Why are some apps paid?** I don't sell data and don't use servers: the price pays for development and updates. Cifra has a free version; EMIA and Batonkey have a free trial.
+- **When will Batonkey, Turbofuel and Benarri be out?** They are in development. When they reach Google Play, their pages on this site will carry the link and the version history.
+
+# Español
+
+## Cifra y Cifra+ · Finanzas personales
+URL: https://mpstudios.eu/es/cifra/
+
+Cifra es una app Android de finanzas personales: cuentas, movimientos, presupuestos e informes se quedan en el teléfono. No pide cuenta, no muestra publicidad y no usa servidores del desarrollador.
+
+Cifra gratuita · Cifra+ 5,99 €, pago único
+
+### Cuentas y movimientos
+- Cuentas corrientes, tarjetas, efectivo, depósitos y valores, créditos y deudas, con el logotipo del banco y un color para cada cuenta.
+- Varias divisas, con el tipo de cambio en las transferencias.
+- Categorías y subcategorías, proyectos, lugares y beneficiarios.
+- Movimientos divididos, periódicos, plantillas, borradores, fotos de los tickets y búsqueda en todos los campos.
+
+### Resumen, presupuestos e informes
+- Patrimonio, ingresos, gastos y ahorro del periodo; gastos por categoría en un gráfico de anillo.
+- Presupuestos por categoría, proyecto o cuenta, con barra verde, ámbar o roja.
+- Doce informes de totales y evolución, con gráficos de barras, de tarta y de líneas.
+
+### Copia de seguridad y datos
+- Copia completa de datos, fotos y ajustes en el teléfono, en Google Drive o en Dropbox, a mano o cada día.
+- Importación desde otras apps y exportación en CSV y QIF.
+- Una copia de Cifra+ se puede restaurar también en Cifra gratuita.
+
+### Solo en Cifra+
+- Lectura de las notificaciones del banco y de las apps de pago: el movimiento se registra solo en la cuenta correcta.
+- Reglas que asignan categoría, beneficiario y proyecto a los movimientos leídos de las notificaciones.
+- Lectura de tickets con la cámara, con reconocimiento de texto en el teléfono.
+- Pago a plazos con plan de cuotas y «Mover cuota».
+- Cuentas compartidas entre dos personas a través de una carpeta en la nube que elijáis.
+
+### Preguntas frecuentes
+- **¿Cifra es gratuita?** Sí. Cifra es gratuita y sin publicidad. Cifra+ cuesta 5,99 € con un pago único en Google Play, sin suscripción.
+- **¿Hay que crear una cuenta?** No. Cifra se instala y se usa sin registro.
+- **¿Dónde se guardan mis datos?** En el teléfono. La copia de seguridad va donde elijas: un archivo en el teléfono, Google Drive o Dropbox. El desarrollador no recibe los datos.
+- **¿Qué añade Cifra+ respecto a Cifra?** El registro automático de los movimientos leídos de las notificaciones del banco, la lectura de tickets con la cámara, el pago a plazos y las cuentas compartidas entre dos personas.
+- **¿Puedo importar los movimientos de otra app?** Sí, desde archivos CSV y QIF. Cifra exporta en los mismos formatos.
+
+### Historial de versiones
+- 2.4.9 (12 de noviembre de 2026): Movimientos: plegar un año en la lista es inmediato incluso con muchos años de movimientos; antes la app podía bloquearse.
+- 2.4.5 (23 de octubre de 2026): Copia de seguridad: las copias aparecen en su página y se restauran o borran con un toque; la copia completa incluye también las fotos. Una copia de Cifra+ se puede restaurar en Cifra, con la lista de las partes excluidas. Movimientos vinculados: opción para mantener el importe de cada plantilla. Planificador: orden de los más recientes o de los más antiguos. Búsqueda: los proyectos, beneficiarios y lugares más usados aparecen primero.
+- 2.4.4 (20 de octubre de 2026): Tema claro: en Preferencias › Aspecto › Tema se elige oscuro, claro o como el teléfono. Operaciones con varios movimientos: se empieza sin ningún movimiento marcado. Correcciones de legibilidad.
+- 2.4.3 (18 de octubre de 2026): Inicio guiado: la primera vez Cifra configura contigo las cuentas y, si quieres, el ahorro del 10% de los ingresos con una transferencia mensual. Movimientos mostrados igual en todas las listas, con el icono de la categoría. Pantallas de importación y exportación renovadas; tema claro más cuidado.
+- 2.4.0 (6 de octubre de 2026): Primera versión pública de Cifra en Google Play. Página «Ayuda y avisos»: preguntas y respuestas, junto a los avisos de actualización. Breve recorrido de bienvenida en el primer inicio.
+
+## EMIA · Salud de la familia
+URL: https://mpstudios.eu/es/emia/
+
+EMIA es una app Android que ordena informes, análisis, tratamientos, vacunas, embarazo, vencimientos y citas de toda la familia, mascotas incluidas. Los datos se quedan en el teléfono.
+
+Prueba gratuita de 60 días · desde 14,99 € al año o 29,99 € de por vida
+
+### Informes y análisis
+- Entrada desde PDF, imagen, cámara o a mano, con lectura de los valores en el teléfono.
+- Para cada valor: gráfico, rango de referencia, historial y comparación entre dos informes.
+- Rangos de referencia de fuentes oficiales cuando el informe no los indica.
+
+### Mediciones, tratamientos y medicamentos
+- Peso, tensión, oxígeno, glucemia, temperatura y pulso; curvas de la OMS para los niños.
+- Tratamientos con recordatorio a la hora exacta, dosis que confirmar e historial.
+- Reconocimiento del medicamento por la caja y búsqueda en la base de datos italiana AIFA.
+
+### Familia, vacunas y vencimientos
+- Cartilla de vacunación con el calendario del país y de la región.
+- Embarazo, ciclo, donaciones de sangre, dientes, vista, exenciones y trámites.
+- Cada vencimiento se convierte en una cita de la Agenda y del calendario del teléfono, con avisos 30, 10 y 3 días antes y el mismo día.
+- Familia en varios teléfonos a través de una carpeta compartida que elijáis.
+
+### Emergencias
+- Ficha de emergencia para cada persona y mascota, legible sin conexión y desde la pantalla de bloqueo.
+- Grupo sanguíneo, alergias, enfermedades, tratamientos, contactos y botón para llamar al número de emergencias del país.
+
+### Preguntas frecuentes
+- **¿Cuánto cuesta EMIA?** Los primeros 60 días son gratis con todas las funciones. Después EMIA cuesta 14,99 € al año o 29,99 € de por vida para una persona; EMIA Family 29,99 € al año o 59,99 € de por vida; EMIA Family Plus 39,99 € al año o 79,99 € de por vida.
+- **¿EMIA hace diagnósticos?** No. EMIA ordena los datos y señala los valores fuera de los rangos de referencia. La interpretación de los resultados corresponde al médico.
+- **¿Dónde acaban los datos de salud?** Se quedan en el teléfono, en la copia de seguridad que elijas y, si la activas, en la carpeta compartida de la familia. EMIA no tiene cuentas ni servidores.
+- **¿Puedo gestionar toda la familia y las mascotas?** Sí. EMIA Family cubre toda la familia; EMIA Family Plus añade las mascotas y la familia en varios teléfonos.
+- **¿De dónde vienen los rangos de referencia?** De organismos oficiales como la OMS, el Istituto Superiore di Sanità, el Ministerio de Sanidad italiano, la AIFA y la EMA, citados en la app.
+
+### Historial de versiones
+- 1.4.0 (20 de noviembre de 2026): Cada vencimiento introducido (exenciones, trámites de discapacidad, lentillas, medicamentos de los tratamientos) se convierte en una cita de la Agenda y del calendario del teléfono, con avisos 30, 10 y 3 días antes y el mismo día. Medicamento reconocido también por el nombre impreso en la caja, con búsqueda en la base de datos AIFA; del código DataMatrix se leen caducidad y lote. Dientes de leche: para niños de hasta 12 años, los dientes que pueden salir o caer a esa edad. Familia en varios teléfonos: intercambio cada 30 segundos con la app abierta y cada 15 minutos con la app cerrada, con notificaciones de los cambios recibidos. Ventana de novedades en el primer inicio tras una actualización.
+- 1.3.0 (19 de noviembre de 2026): Lactancia materna: para los medicamentos de la madre, aviso tomado de la Ficha técnica (AIFA, apartado 4.6) sobre 3.062 principios activos. Copia local también en una carpeta que se queda en el teléfono tras desinstalar; restauración desde Google Drive o desde archivo ya en la guía inicial. Cabeza de familia: los cambios de los otros teléfonos entran solo tras su aprobación. Periodo de las citas del widget a elegir (1, 3, 6, 12 meses o todas).
+- 1.2.0 (19 de noviembre de 2026): Primera versión en producción en Google Play. Nuevas secciones Dientes y Exenciones y trámites, con avisos de vencimiento. Glucemia con el momento de la medición, flujo espiratorio máximo para asma y EPOC, INR con la dosis del anticoagulante; temperatura y pulso. Avisos sobre los medicamentos que interfieren con la píldora, el anillo o el parche (AIFA). Estilo de vida y cribado de tumores según edad, sexo y país de residencia.
+
+## Batonkey · Reenvío automático de notificaciones
+URL: https://mpstudios.eu/es/batonkey/
+
+Batonkey es una app Android que lee las notificaciones del teléfono y reenvía su contenido a las personas que elijas, según reglas que decides tú: por correo electrónico de forma automática, incluso con la pantalla apagada, o por SMS, WhatsApp o Telegram con un toque.
+
+Teléfono Host: prueba gratuita, después 59,99 € al año · Teléfonos Guest: gratuitos
+
+### Reglas de reenvío
+- Una regla se crea a partir de una notificación ya recibida: la app rellena casi todo sola.
+- Uno o varios destinatarios, también desde la agenda, cada uno con su canal.
+- Se puede añadir el nombre del remitente o un texto propio.
+- Calendario semanal para reenviar solo en horario laboral.
+
+### Host y Guest
+- Host: el teléfono que recibe las notificaciones y las reenvía. Guest: el teléfono del compañero, siempre gratuito.
+- Vinculación con un QR personal, de un solo uso, válido 24 horas.
+- Reserva: el compañero toca el remitente y, durante 5 minutos ajustables, la siguiente notificación de ese remitente le llega solo a él.
+
+### Control y privacidad
+- Panel con las estadísticas de envíos por destinatario, remitente y canal.
+- Aviso si la lectura de notificaciones se interrumpe.
+- Bloqueo con PIN o huella y copia de seguridad de las reglas.
+- Sin cuenta y sin servidores del desarrollador: la contraseña del correo y el PIN se quedan en el teléfono.
+
+### Preguntas frecuentes
+- **¿Para qué sirve Batonkey?** Para reenviar automáticamente el contenido de una notificación a la persona que lo necesita, cuando la notificación llega a un teléfono que usan varias personas: una oficina, una tienda, una familia.
+- **¿Cuánto cuesta?** El teléfono Host tiene una prueba gratuita y después cuesta 59,99 € al año. Los teléfonos Guest de los compañeros son siempre gratuitos.
+- **¿Por qué canales reenvía?** Correo electrónico de forma automática, incluso con la pantalla apagada; SMS, WhatsApp y Telegram con un toque.
+- **¿Puedo limitar el reenvío al horario laboral?** Sí, con el calendario semanal de las reglas.
+- **¿Las notificaciones pasan por un servidor?** No. Batonkey lee las notificaciones solo en el teléfono y no tiene cuentas ni servidores del desarrollador.
+
+## Turbofuel · Mantenimiento de motos y coches
+URL: https://mpstudios.eu/es/turbofuel/
+
+Turbofuel es una app Android para el mantenimiento de motos, scooters, coches y furgonetas: muestra qué está bien, qué se acerca y qué ha vencido, con el historial de intervenciones, los vencimientos y los documentos del vehículo.
+
+Motos y scooters gratis · coches y furgonetas en la versión PRO
+
+### Panel y vehículos
+- Cuentakilómetros, próxima revisión y estado de cada componente: aceite, cadena, neumáticos, frenos, filtros.
+- Varios garajes, ficha completa del vehículo y lectura del permiso de circulación desde una foto.
+- Lectura de los kilómetros con la cámara, sin internet.
+
+### Intervenciones y vencimientos
+- Intervenciones con componentes, km, coste de recambios y mano de obra, taller y notas.
+- Impuesto de circulación, seguro e inspección técnica en el calendario del teléfono, con avisos 30, 10, 3 y 1 día antes.
+- Gastos y consumos: coste por km, gasto por categoría, consumo de lleno a lleno.
+
+### Herramientas
+- Etiquetas NFC en el vehículo para abrir la app o registrar km e intervenciones acercando el teléfono.
+- Revisión antes de salir, diario de circuito, archivo de talleres.
+- Libro de mantenimiento en PDF para quien compra el vehículo; exportación CSV.
+
+### Preguntas frecuentes
+- **¿Con qué vehículos funciona Turbofuel?** Motos, scooters, coches y furgonetas. Motos y scooters son gratis; coches y furgonetas están en la versión PRO.
+- **¿Cómo registra los kilómetros?** Con la cámara: se enfoca el cuentakilómetros y se confirma el número. Funciona sin internet.
+- **¿Me recuerda el impuesto, el seguro y la inspección?** Sí. Los vencimientos entran en el calendario del teléfono con avisos 30, 10, 3 y 1 día antes.
+- **¿Dónde guarda los datos?** En el teléfono, con copia de seguridad en el teléfono y en el Google Drive del usuario.
+
+## Benarri · Guía digital de la casa vacacional
+URL: https://mpstudios.eu/es/benarri/
+
+Benarri es una guía digital para los huéspedes de una casa vacacional: wifi, llaves, normas, aparcamiento, contactos, autobuses y emergencias en cinco idiomas. Sustituye la carpeta de papel y los mensajes largos de WhatsApp.
+
+Benarri para huéspedes: gratuita · Benarri Host: de pago
+
+### Benarri Host, para quien alquila
+- Una guía para cada apartamento, con su logotipo y sus colores.
+- Traducción con un toque al inglés, alemán, francés y español, hecha en el teléfono.
+- Publicación con un enlace o un QR; estancias con fechas tomadas del calendario de Airbnb o Booking.
+- Avisos a los huéspedes con confirmación de lectura y aceptación de las normas de la casa.
+
+### Benarri, para los huéspedes
+- La guía en el idioma del huésped, legible sin conexión.
+- Wifi con QR, contactos con llamada, WhatsApp y mapa, horarios de autobús, números de emergencia.
+- Quien no quiere instalar la app abre la misma guía en el navegador.
+
+### Dónde están los datos
+- En el Google Drive del anfitrión, en una carpeta propia. Sin servidores del desarrollador.
+- Los huéspedes no crean cuentas ni se registran.
+
+### Preguntas frecuentes
+- **¿Los huéspedes tienen que instalar una app?** No. La guía se abre también en el navegador desde el enlace compartido; con la app Benarri se lee incluso sin conexión.
+- **¿En qué idiomas está la guía?** Italiano, inglés, alemán, francés y español. La traducción se hace en el teléfono del anfitrión y es gratuita.
+- **¿Dónde se guardan los datos?** En el Google Drive del anfitrión, en una carpeta Benarri. No hay servidores del desarrollador.
+- **¿Funciona con Airbnb y Booking?** Benarri Host lee el calendario de reservas (iCal) para crear las estancias con las fechas correctas.
+
+## Apps de gastos personales sin cuenta y sin servidor: qué comprobar antes de elegir una
+URL: https://mpstudios.eu/es/guias/app-gastos-sin-cuenta/
+
+Una app de gastos personales que no pide cuenta ni usa servidores guarda los movimientos solo en el teléfono. Antes de elegirla conviene comprobar adónde va la copia de seguridad, si importa y exporta en formatos abiertos y cómo registra los movimientos sin escribirlos a mano.
+
+### 1. ¿Adónde van los datos?
+- Si la app pide crear una cuenta, los movimientos se guardan también en los servidores de quien la desarrolla.
+- Si no la pide, los datos se quedan en el teléfono y la copia de seguridad pasa a ser cosa tuya.
+
+### 2. ¿Cómo se hace la copia de seguridad?
+- Comprueba que la copia lo incluya todo: movimientos, fotos de los tickets y ajustes.
+- Mejor si puedes elegir el destino (archivo en el teléfono, Google Drive, Dropbox) y programarla cada día.
+
+### 3. ¿Se pueden importar y exportar los datos?
+- Los formatos CSV y QIF los leen casi todas las apps de finanzas personales y las hojas de cálculo.
+- Una app que solo exporta en un formato propio hace difícil cambiar de idea.
+
+### 4. ¿Tengo que escribir cada movimiento a mano?
+- En Android una app puede leer las notificaciones del banco, con el permiso de acceso a notificaciones que concedes tú, y registrar el movimiento sola.
+- Comprueba que las reglas se puedan editar: categoría, beneficiario y cuenta deben ser correctos desde el principio.
+
+### 5. ¿Cuánto cuesta de verdad?
+- Gratis con publicidad, suscripción mensual o pago único son tres modelos distintos.
+- Con un pago único pagas una vez y la función es tuya.
+
+### Cómo responde Cifra
+- Sin cuenta y sin servidor: los datos se quedan en el teléfono.
+- Copia completa en archivo, Google Drive o Dropbox, también automática cada día.
+- Importación y exportación en CSV y QIF.
+- Cifra+ lee las notificaciones del banco y registra los movimientos sola; cuesta 5,99 € una vez.
+
+## Informes, tratamientos y vencimientos médicos de la familia: cómo tenerlos en orden en el teléfono
+URL: https://mpstudios.eu/es/guias/informes-medicos-familia-telefono/
+
+Para tener en orden en el teléfono los informes, tratamientos y vencimientos de toda la familia hace falta una ficha por persona, los valores de los análisis legibles en el tiempo y cada vencimiento convertido en un recordatorio del calendario.
+
+### Un lugar para cada persona
+- Informes en PDF, fotos de recetas, vacunas y tratamientos acaban a menudo en chats, correos y cajones distintos.
+- Una ficha por persona, mascotas incluidas, permite encontrarlo todo en segundos, también en la consulta del médico.
+
+### Comparar los valores entre varios informes
+- Un solo valor fuera de rango dice poco; la evolución en varios informes dice más.
+- Hace falta un gráfico por valor con el rango de referencia del laboratorio o, si falta, de una fuente oficial.
+
+### Cada vencimiento, un recordatorio
+- Dosis de recuerdo de vacunas, renovación de exenciones, revisiones del dentista, cajas de lentillas: cada fecha va al calendario del teléfono.
+- Avisos con unas semanas y con pocos días de antelación evitan darse cuenta al día siguiente.
+
+### La privacidad primero
+- Los datos de salud son los más delicados: mejor una app que los guarda en el teléfono y no pide cuenta.
+- La copia de seguridad debe ir donde elijas tú.
+
+### Cómo lo hace EMIA
+- Una ficha para cada persona y mascota, con informes leídos desde PDF o cámara.
+- Gráfico, rango de referencia y comparación entre dos informes para cada valor.
+- Cada vencimiento entra en la Agenda y en el calendario del teléfono con avisos 30, 10 y 3 días antes y el mismo día.
+- Sin cuenta ni servidor; EMIA no diagnostica, la interpretación corresponde al médico.
+
+## Impuesto, seguro, ITV y revisión: cómo no olvidar ningún vencimiento del coche o de la moto
+URL: https://mpstudios.eu/es/guias/vencimientos-coche-moto/
+
+Cada coche o moto tiene cuatro vencimientos que vuelven a intervalos fijos: impuesto de circulación, seguro, inspección técnica y revisión. La forma más sencilla de no saltarse ninguno es anotar la próxima fecha en cuanto pagas o haces la intervención, con un aviso unas semanas antes.
+
+### Los cuatro vencimientos
+- Impuesto de circulación: se paga cada año; el mes depende del municipio o del país.
+- Seguro: suele durar un año; la fecha está en la póliza.
+- Inspección técnica: los plazos los fija cada país según la antigüedad del vehículo.
+- Revisión: cada cierto número de kilómetros o meses, según el manual del fabricante.
+
+### Por qué se olvidan
+- Caen en meses distintos y con reglas distintas.
+- La revisión depende de los kilómetros, que nadie mira hasta que se enciende un testigo.
+- Con varios vehículos en la familia, las fechas se multiplican.
+
+### Un método que funciona
+- En cuanto pagas o haces la intervención, anota el próximo vencimiento.
+- Pon un aviso un mes antes y otro pocos días antes.
+- Anota los kilómetros en cada repostaje o revisión, así sabes cuánto falta para la siguiente.
+- Guarda una foto del permiso de circulación, la póliza y los recibos en el mismo sitio.
+
+### Cómo lo hace Turbofuel
+- Impuesto, seguro e inspección entran en el calendario del teléfono con avisos 30, 10, 3 y 1 día antes.
+- Los kilómetros se leen con una foto del cuentakilómetros, también sin internet.
+- Para cada componente ves si está bien, cerca del vencimiento o vencido.
+- Motos y scooters son gratis; coches y furgonetas están en la versión PRO.
+
+## Guía para los huéspedes de una casa vacacional: qué escribir y cómo entregarla
+URL: https://mpstudios.eu/es/guias/guia-huespedes-casa-vacacional/
+
+Una buena guía para huéspedes responde antes de que lleguen las preguntas: wifi, llaves, normas de la casa, aparcamiento, basura, transporte y emergencias. Conviene enviarla antes de la llegada, en el idioma del huésped, y que funcione sin conexión.
+
+### Lo que preguntan todos los huéspedes
+- El nombre y la contraseña del wifi.
+- Cómo se entra: llaves, caja de llaves, código del portal.
+- Dónde se aparca y cuánto cuesta.
+- Cómo se separa la basura.
+- A qué hora hay que dejar la casa.
+
+### En qué orden ponerlo
+- Primero la llegada: dirección, acceso, aparcamiento.
+- Después la casa: wifi, electrodomésticos, normas.
+- Después la zona: transporte, tiendas, playa o centro.
+- Al final las emergencias: números útiles y tu contacto.
+
+### Papel o digital
+- La carpeta de papel se queda en la casa y el huésped la ve solo al llegar.
+- Una guía digital se envía con un enlace antes del viaje y se actualiza en un minuto.
+- Si la guía está en el idioma del huésped, las preguntas bajan.
+
+### Cómo lo hace Benarri
+- Una guía por apartamento, con su logotipo y sus colores.
+- Traducción al inglés, alemán, francés y español hecha en el teléfono del anfitrión.
+- El huésped la abre desde un enlace o un QR, también en el navegador y sin conexión.
+- Los datos se quedan en el Google Drive del anfitrión.
+
+## Cómo reenviar automáticamente las notificaciones de un teléfono Android a otra persona
+URL: https://mpstudios.eu/es/guias/reenviar-notificaciones-android/
+
+Para que el contenido de una notificación Android llegue automáticamente a otra persona hace falta una app con acceso a las notificaciones que, según reglas por remitente, la reenvíe por correo o mensaje. Así nadie tiene que coger el teléfono compartido.
+
+### Cuándo hace falta
+- En una oficina o tienda, un teléfono recibe avisos que afectan a un compañero.
+- En una familia, un teléfono recibe confirmaciones y avisos que también necesita el otro progenitor.
+- La persona interesada no tiene el teléfono a mano.
+
+### Soluciones manuales y sus límites
+- Leer el mensaje y reescribirlo en un chat solo funciona si alguien está presente.
+- Una captura de pantalla se queda en la galería y en el historial del chat.
+- Dejar el teléfono en un sitio común: nadie sabe quién ha leído qué.
+
+### Qué debe hacer un reenvío automático
+- Leer la notificación en el teléfono, con el permiso de acceso a notificaciones que concedes tú.
+- Aplicar una regla por remitente: qué notificaciones, a quién, por qué canal.
+- Reenviar solo en el horario que decidas.
+- Llevar un registro de los envíos, sin pasar por servidores externos.
+
+### Cómo lo hace Batonkey
+- Las reglas se crean a partir de una notificación ya recibida.
+- Correo automático incluso con la pantalla apagada; SMS, WhatsApp y Telegram con un toque.
+- Calendario semanal, estadísticas de envíos, bloqueo con PIN o huella.
+- Sin cuenta y sin servidores del desarrollador.
+
+## Preguntas frecuentes
+- **¿Quién está detrás de MPStudios?** Marcello Pandolfo, consultor de TI y telecomunicaciones. Diseña, desarrolla y publica las apps él solo, con la marca MPStudios.
+- **¿Las apps piden crear una cuenta?** No. Se instalan desde Google Play y se usan enseguida, sin registro.
+- **¿Dónde quedan mis datos?** En el teléfono y, si lo activas, en la copia de seguridad o en la carpeta en la nube que elijas (por ejemplo Google Drive o Dropbox). El desarrollador no recibe los datos y no tiene servidores que los guarden.
+- **¿Las apps funcionan en iPhone?** Por ahora no: son apps Android, distribuidas en Google Play.
+- **¿En qué idiomas están disponibles?** Italiano, inglés, español, francés y alemán.
+- **¿Qué pasa si cambio de teléfono?** Haces una copia en el teléfono antiguo y la restauras en el nuevo. Las compras en Google Play quedan vinculadas a tu cuenta de Google: al reinstalar la app con la misma cuenta, las recuperas.
+- **¿Cómo informo de un problema o pido una función?** Escríbeme a la dirección de correo de la página Sobre mí. Respondo yo, y los avisos acaban en las actualizaciones.
+- **¿Por qué algunas apps son de pago?** No vendo datos ni uso servidores: el precio paga el desarrollo y las actualizaciones. Cifra tiene una versión gratuita; EMIA y Batonkey tienen una prueba gratuita.
+- **¿Cuándo salen Batonkey, Turbofuel y Benarri?** Están en desarrollo. Cuando lleguen a Google Play, sus páginas en este sitio mostrarán el enlace y el historial de versiones.
+
+# Français
+
+## Cifra et Cifra+ · Finances personnelles
+URL: https://mpstudios.eu/fr/cifra/
+
+Cifra est une application Android de finances personnelles : comptes, opérations, budgets et rapports restent sur le téléphone. Pas de compte, pas de publicité, pas de serveur du développeur.
+
+Cifra gratuite · Cifra+ 5,99 €, achat unique
+
+### Comptes et opérations
+- Comptes courants, cartes, espèces, dépôts et titres, créances et dettes, avec le logo de la banque et une couleur par compte.
+- Plusieurs devises, avec le taux de change sur les virements.
+- Catégories et sous-catégories, projets, lieux et bénéficiaires.
+- Opérations ventilées, récurrentes, modèles, brouillons, photos des tickets et recherche sur tous les champs.
+
+### Synthèse, budgets et rapports
+- Patrimoine, revenus, dépenses et épargne de la période ; dépenses par catégorie dans un graphique en anneau.
+- Budgets par catégorie, projet ou compte, avec une barre verte, orange ou rouge.
+- Douze rapports de totaux et d'évolution, avec graphiques en barres, en secteurs et en courbes.
+
+### Sauvegarde et données
+- Sauvegarde complète des données, photos et réglages sur le téléphone, sur Google Drive ou sur Dropbox, à la main ou chaque jour.
+- Import depuis d'autres applications et export en CSV et QIF.
+- Une sauvegarde de Cifra+ se restaure aussi sur Cifra gratuite.
+
+### Uniquement dans Cifra+
+- Lecture des notifications de la banque et des applications de paiement : l'opération s'enregistre seule sur le bon compte.
+- Règles qui attribuent catégorie, bénéficiaire et projet aux opérations lues dans les notifications.
+- Lecture des tickets avec l'appareil photo, avec reconnaissance du texte sur le téléphone.
+- Paiement échelonné avec plan d'échéances et « Déplacer l'échéance ».
+- Comptes partagés entre deux personnes via un dossier cloud de votre choix.
+
+### Questions fréquentes
+- **Cifra est-elle gratuite ?** Oui. Cifra est gratuite et sans publicité. Cifra+ coûte 5,99 € en achat unique sur Google Play, sans abonnement.
+- **Faut-il créer un compte ?** Non. Cifra s'installe et s'utilise sans inscription.
+- **Où sont enregistrées mes données ?** Sur le téléphone. La sauvegarde va où vous le choisissez : un fichier sur le téléphone, Google Drive ou Dropbox. Le développeur ne reçoit pas les données.
+- **Qu'apporte Cifra+ par rapport à Cifra ?** L'enregistrement automatique des opérations lues dans les notifications de la banque, la lecture des tickets avec l'appareil photo, le paiement échelonné et les comptes partagés entre deux personnes.
+- **Puis-je importer les opérations d'une autre application ?** Oui, depuis des fichiers CSV et QIF. Cifra exporte dans les mêmes formats.
+
+### Historique des versions
+- 2.4.9 (12 novembre 2026): Opérations : replier une année dans la liste est immédiat même avec de nombreuses années d'opérations ; auparavant l'application pouvait se bloquer.
+- 2.4.5 (23 octobre 2026): Sauvegarde : les copies sont listées sur la page de sauvegarde et se restaurent ou se suppriment d'un geste ; la sauvegarde complète inclut aussi les photos. Une sauvegarde de Cifra+ se restaure aussi sur Cifra, avec la liste des parties exclues. Opérations liées : option pour conserver le montant de chaque modèle. Planificateur : tri des plus récentes ou des plus anciennes. Recherche : les projets, bénéficiaires et lieux les plus utilisés apparaissent en premier.
+- 2.4.4 (20 octobre 2026): Thème clair : dans Préférences › Apparence › Thème, choisir sombre, clair ou comme le téléphone. Opérations sur plusieurs mouvements : aucune case n'est cochée au départ. Corrections de lisibilité.
+- 2.4.3 (18 octobre 2026): Démarrage guidé : au premier lancement, Cifra configure avec vous les comptes et, si vous le souhaitez, l'épargne de 10 % des revenus par un virement mensuel. Mouvements affichés de la même façon dans toutes les listes, avec l'icône de la catégorie. Écrans d'import et d'export refaits ; thème clair plus soigné.
+- 2.4.0 (6 octobre 2026): Première version publique de Cifra sur Google Play. Page « Aide et avis » : questions et réponses, à côté des avis de mise à jour. Courte visite de bienvenue au premier lancement.
+
+## EMIA · Santé de la famille
+URL: https://mpstudios.eu/fr/emia/
+
+EMIA est une application Android qui range les comptes rendus, analyses, traitements, vaccins, grossesse, échéances et rendez-vous de toute la famille, animaux compris. Les données restent sur le téléphone.
+
+Essai gratuit de 60 jours · à partir de 14,99 € par an ou 29,99 € à vie
+
+### Comptes rendus et analyses
+- Saisie depuis un PDF, une image, l'appareil photo ou à la main, avec lecture des valeurs sur le téléphone.
+- Pour chaque valeur : graphique, plage de référence, historique et comparaison entre deux comptes rendus.
+- Plages de référence issues de sources officielles quand le compte rendu ne les indique pas.
+
+### Mesures, traitements et médicaments
+- Poids, tension, oxygène, glycémie, température et pouls ; courbes de l'OMS pour les enfants.
+- Traitements avec rappel à l'heure exacte, prises à confirmer et historique.
+- Reconnaissance du médicament par la boîte et recherche dans la base italienne AIFA.
+
+### Famille, vaccins et échéances
+- Carnet de vaccination avec le calendrier du pays et de la région.
+- Grossesse, cycle, dons de sang, dents, vue, exonérations et démarches.
+- Chaque échéance devient un rendez-vous dans l'Agenda et dans le calendrier du téléphone, avec rappels 30, 10 et 3 jours avant et le jour même.
+- Famille sur plusieurs téléphones via un dossier partagé de votre choix.
+
+### Urgence
+- Fiche d'urgence pour chaque personne et animal, lisible hors connexion et depuis l'écran de verrouillage.
+- Groupe sanguin, allergies, maladies, traitements, contacts et bouton pour appeler le numéro d'urgence du pays.
+
+### Questions fréquentes
+- **Combien coûte EMIA ?** Les 60 premiers jours sont gratuits avec toutes les fonctions. Ensuite, EMIA coûte 14,99 € par an ou 29,99 € à vie pour une personne ; EMIA Family 29,99 € par an ou 59,99 € à vie ; EMIA Family Plus 39,99 € par an ou 79,99 € à vie.
+- **EMIA pose-t-elle des diagnostics ?** Non. EMIA range les données et signale les valeurs hors des plages de référence. L'interprétation des résultats revient au médecin.
+- **Où vont les données de santé ?** Elles restent sur le téléphone, dans la sauvegarde que vous choisissez et, si vous l'activez, dans le dossier partagé de la famille. EMIA n'a ni compte ni serveur.
+- **Puis-je gérer toute la famille et les animaux ?** Oui. EMIA Family couvre toute la famille ; EMIA Family Plus ajoute les animaux et la famille sur plusieurs téléphones.
+- **D'où viennent les plages de référence ?** D'organismes officiels comme l'OMS, l'Istituto Superiore di Sanità, le ministère italien de la Santé, l'AIFA et l'EMA, cités dans l'application.
+
+### Historique des versions
+- 1.4.0 (20 novembre 2026): Chaque échéance saisie (exonérations, démarches de handicap, lentilles, médicaments des traitements) devient un rendez-vous dans l'Agenda et dans le calendrier du téléphone, avec rappels 30, 10 et 3 jours avant et le jour même. Médicament reconnu aussi par le nom imprimé sur la boîte, avec recherche dans la base AIFA ; péremption et lot lus depuis le code DataMatrix. Dents de lait : pour les enfants jusqu'à 12 ans, les dents qui peuvent pousser ou tomber à cet âge. Famille sur plusieurs téléphones : échange toutes les 30 secondes application ouverte et toutes les 15 minutes application fermée, avec notifications des modifications reçues. Fenêtre des nouveautés au premier lancement après une mise à jour.
+- 1.3.0 (19 novembre 2026): Allaitement : pour les médicaments de la mère, un avertissement tiré du Résumé des caractéristiques du produit (AIFA, rubrique 4.6) sur 3 062 principes actifs. Sauvegarde locale aussi dans un dossier qui reste sur le téléphone après désinstallation ; restauration depuis Google Drive ou un fichier dès le guide de démarrage. Chef de famille : les modifications venant des autres téléphones n'entrent qu'après son approbation. Période des rendez-vous du widget au choix (1, 3, 6, 12 mois ou tous).
+- 1.2.0 (19 novembre 2026): Première version en production sur Google Play. Nouvelles sections Dents et Exonérations et démarches, avec rappels d'échéance. Glycémie avec le moment de la mesure, débit expiratoire de pointe pour l'asthme et la BPCO, INR avec la dose d'anticoagulant ; température et pouls. Avertissements sur les médicaments qui interfèrent avec la pilule, l'anneau ou le patch (AIFA). Mode de vie et dépistage des cancers selon l'âge, le sexe et le pays de résidence.
+
+## Batonkey · Transfert automatique des notifications
+URL: https://mpstudios.eu/fr/batonkey/
+
+Batonkey est une application Android qui lit les notifications du téléphone et en transfère le contenu aux personnes que vous choisissez, selon vos règles : par e-mail automatiquement, même écran éteint, ou par SMS, WhatsApp ou Telegram d'un geste.
+
+Téléphone Host : essai gratuit, puis 59,99 € par an · Téléphones Guest : gratuits
+
+### Règles de transfert
+- Une règle se crée à partir d'une notification déjà reçue : l'application remplit presque tout.
+- Un ou plusieurs destinataires, y compris depuis les contacts, chacun avec son canal.
+- On peut ajouter le nom de l'expéditeur ou un texte personnel.
+- Calendrier hebdomadaire pour ne transférer qu'aux heures de travail.
+
+### Host et Guest
+- Host : le téléphone qui reçoit les notifications et les transfère. Guest : le téléphone du collègue, toujours gratuit.
+- Association par un QR personnel, à usage unique, valable 24 heures.
+- Réservation : le collègue touche l'expéditeur et, pendant 5 minutes réglables, la notification suivante de cet expéditeur n'arrive qu'à lui.
+
+### Contrôle et confidentialité
+- Tableau de bord avec les statistiques d'envoi par destinataire, expéditeur et canal.
+- Alerte si la lecture des notifications s'interrompt.
+- Verrouillage par code PIN ou empreinte et sauvegarde des règles.
+- Aucun compte et aucun serveur du développeur : le mot de passe de l'e-mail et le code PIN restent sur le téléphone.
+
+### Questions fréquentes
+- **À quoi sert Batonkey ?** À transférer automatiquement le contenu d'une notification à la personne qui en a besoin, quand la notification arrive sur un téléphone utilisé par plusieurs personnes : un bureau, un commerce, une famille.
+- **Combien coûte-t-elle ?** Le téléphone Host bénéficie d'un essai gratuit, puis coûte 59,99 € par an. Les téléphones Guest des collègues sont toujours gratuits.
+- **Par quels canaux transfère-t-elle ?** Par e-mail automatiquement, même écran éteint ; par SMS, WhatsApp et Telegram d'un geste.
+- **Puis-je limiter le transfert aux heures de travail ?** Oui, avec le calendrier hebdomadaire des règles.
+- **Les notifications passent-elles par un serveur ?** Non. Batonkey lit les notifications uniquement sur le téléphone et n'a ni compte ni serveur du développeur.
+
+## Turbofuel · Entretien des motos et voitures
+URL: https://mpstudios.eu/fr/turbofuel/
+
+Turbofuel est une application Android pour l'entretien des motos, scooters, voitures et utilitaires : elle montre ce qui est en ordre, ce qui approche et ce qui est dépassé, avec l'historique des interventions, les échéances et les documents du véhicule.
+
+Motos et scooters gratuits · voitures et utilitaires dans la version PRO
+
+### Tableau de bord et véhicules
+- Compteur kilométrique, prochaine révision et état de chaque pièce : huile, chaîne, pneus, freins, filtres.
+- Plusieurs garages, fiche complète du véhicule et lecture de la carte grise depuis une photo.
+- Lecture du kilométrage avec l'appareil photo, sans internet.
+
+### Interventions et échéances
+- Interventions avec pièces, kilométrage, coût des pièces et de la main-d'œuvre, garage et notes.
+- Taxe, assurance et contrôle technique dans le calendrier du téléphone, avec rappels 30, 10, 3 et 1 jour avant.
+- Dépenses et consommation : coût au km, dépenses par catégorie, consommation de plein à plein.
+
+### Outils
+- Étiquettes NFC sur le véhicule pour ouvrir l'application ou noter kilométrage et interventions en approchant le téléphone.
+- Vérification avant le départ, carnet de piste, répertoire des garages.
+- Carnet d'entretien en PDF pour l'acheteur du véhicule ; export CSV.
+
+### Questions fréquentes
+- **Avec quels véhicules Turbofuel fonctionne-t-elle ?** Motos, scooters, voitures et utilitaires. Motos et scooters sont gratuits ; voitures et utilitaires sont dans la version PRO.
+- **Comment enregistre-t-elle le kilométrage ?** Avec l'appareil photo : on cadre le compteur et on confirme le chiffre. Cela fonctionne sans internet.
+- **Me rappelle-t-elle la taxe, l'assurance et le contrôle technique ?** Oui. Les échéances entrent dans le calendrier du téléphone avec rappels 30, 10, 3 et 1 jour avant.
+- **Où sont enregistrées les données ?** Sur le téléphone, avec sauvegarde sur le téléphone et sur le Google Drive de l'utilisateur.
+
+## Benarri · Guide numérique de la location de vacances
+URL: https://mpstudios.eu/fr/benarri/
+
+Benarri est un guide numérique pour les voyageurs d'une location de vacances : Wi-Fi, clés, règles, stationnement, contacts, bus et urgences en cinq langues. Il remplace le classeur papier et les longs messages WhatsApp.
+
+Benarri pour les voyageurs : gratuit · Benarri Host : payant
+
+### Benarri Host, pour les loueurs
+- Un guide par logement, avec son logo et ses couleurs.
+- Traduction d'un geste en anglais, allemand, français et espagnol, faite sur le téléphone.
+- Publication par un lien ou un QR ; séjours avec les dates tirées du calendrier Airbnb ou Booking.
+- Messages aux voyageurs avec accusé de lecture et acceptation du règlement intérieur.
+
+### Benarri, pour les voyageurs
+- Le guide dans la langue du voyageur, lisible hors connexion.
+- Wi-Fi avec QR, contacts avec appel, WhatsApp et carte, horaires des bus, numéros d'urgence.
+- Qui ne veut pas installer l'application ouvre le même guide dans le navigateur.
+
+### Où sont les données
+- Dans le Google Drive du loueur, dans un dossier dédié. Aucun serveur du développeur.
+- Les voyageurs ne créent pas de compte et ne s'inscrivent pas.
+
+### Questions fréquentes
+- **Les voyageurs doivent-ils installer une application ?** Non. Le guide s'ouvre aussi dans le navigateur depuis le lien partagé ; avec l'application Benarri, il se lit même hors connexion.
+- **Dans quelles langues est le guide ?** Italien, anglais, allemand, français et espagnol. La traduction se fait sur le téléphone du loueur et elle est gratuite.
+- **Où sont enregistrées les données ?** Dans le Google Drive du loueur, dans un dossier Benarri. Il n'y a pas de serveur du développeur.
+- **Fonctionne-t-il avec Airbnb et Booking ?** Benarri Host lit le calendrier des réservations (iCal) pour créer les séjours aux bonnes dates.
+
+## Applications de dépenses personnelles sans compte ni serveur : que vérifier avant d'en choisir une
+URL: https://mpstudios.eu/fr/guides/application-depenses-sans-compte/
+
+Une application de dépenses personnelles qui ne demande pas de compte et n'utilise pas de serveur garde les opérations uniquement sur le téléphone. Avant de la choisir, vérifiez où va la sauvegarde, si elle importe et exporte dans des formats ouverts et comment elle enregistre les opérations sans tout saisir à la main.
+
+### 1. Où vont les données ?
+- Si l'application demande de créer un compte, les opérations sont aussi enregistrées sur les serveurs de l'éditeur.
+- Sinon, les données restent sur le téléphone et la sauvegarde devient votre affaire.
+
+### 2. Comment se fait la sauvegarde ?
+- Vérifiez qu'elle inclut tout : opérations, photos des tickets et réglages.
+- Mieux encore si vous pouvez choisir la destination (fichier sur le téléphone, Google Drive, Dropbox) et la lancer chaque jour.
+
+### 3. Peut-on importer et exporter les données ?
+- Les formats CSV et QIF sont lus par presque toutes les applications de finances personnelles et par les tableurs.
+- Une application qui n'exporte que dans un format propriétaire rend le changement difficile.
+
+### 4. Dois-je saisir chaque opération à la main ?
+- Sur Android, une application peut lire les notifications de la banque, avec l'accès aux notifications que vous accordez, et enregistrer l'opération seule.
+- Vérifiez que les règles sont modifiables : catégorie, bénéficiaire et compte doivent être justes dès le départ.
+
+### 5. Combien cela coûte-t-il vraiment ?
+- Gratuit avec publicité, abonnement mensuel ou achat unique : trois modèles différents.
+- Avec un achat unique, vous payez une fois et la fonction vous reste.
+
+### La réponse de Cifra
+- Aucun compte, aucun serveur : les données restent sur le téléphone.
+- Sauvegarde complète vers un fichier, Google Drive ou Dropbox, y compris automatique chaque jour.
+- Import et export en CSV et QIF.
+- Cifra+ lit les notifications de la banque et enregistre les opérations seule ; elle coûte 5,99 € une fois.
+
+## Comptes rendus, traitements et échéances de santé de la famille : les garder en ordre sur le téléphone
+URL: https://mpstudios.eu/fr/guides/comptes-rendus-medicaux-famille-telephone/
+
+Pour garder en ordre sur le téléphone les comptes rendus, traitements et échéances de toute la famille, il faut une fiche par personne, des valeurs d'analyses lisibles dans le temps et chaque échéance transformée en rappel dans le calendrier.
+
+### Un seul endroit par personne
+- Comptes rendus en PDF, photos d'ordonnances, vaccins et traitements finissent souvent dans des messageries, e-mails et tiroirs différents.
+- Une fiche par personne, animaux compris, permet de tout retrouver en quelques secondes, même chez le médecin.
+
+### Comparer les valeurs entre plusieurs comptes rendus
+- Une seule valeur hors norme dit peu ; l'évolution sur plusieurs comptes rendus en dit plus.
+- Il faut un graphique par valeur avec la plage de référence du laboratoire ou, à défaut, d'une source officielle.
+
+### Chaque échéance devient un rappel
+- Rappels de vaccins, renouvellement d'exonérations, contrôles chez le dentiste, boîtes de lentilles : chaque date va dans le calendrier du téléphone.
+- Des rappels quelques semaines et quelques jours avant évitent de s'en apercevoir le lendemain.
+
+### La confidentialité d'abord
+- Les données de santé sont les plus sensibles : mieux vaut une application qui les garde sur le téléphone et ne demande pas de compte.
+- La sauvegarde doit aller où vous le décidez.
+
+### Comment fait EMIA
+- Une fiche pour chaque personne et animal, avec comptes rendus lus depuis un PDF ou l'appareil photo.
+- Graphique, plage de référence et comparaison entre deux comptes rendus pour chaque valeur.
+- Chaque échéance entre dans l'Agenda et le calendrier du téléphone avec rappels 30, 10 et 3 jours avant et le jour même.
+- Aucun compte ni serveur ; EMIA ne pose pas de diagnostic, l'interprétation revient au médecin.
+
+## Taxe, assurance, contrôle technique et révision : ne plus oublier aucune échéance de la voiture ou de la moto
+URL: https://mpstudios.eu/fr/guides/echeances-voiture-moto/
+
+Chaque voiture ou moto a quatre échéances qui reviennent à intervalles fixes : taxe, assurance, contrôle technique et révision. Le moyen le plus simple de n'en manquer aucune est de noter la prochaine date dès que vous payez ou faites l'intervention, avec un rappel quelques semaines avant.
+
+### Les quatre échéances
+- Taxe ou vignette : selon le pays, annuelle ou liée à l'immatriculation.
+- Assurance : dure en général un an ; la date figure sur le contrat.
+- Contrôle technique : chaque pays fixe les délais selon l'âge du véhicule.
+- Révision : tous les X kilomètres ou mois, selon le carnet du constructeur.
+
+### Pourquoi on les oublie
+- Elles tombent à des mois différents, avec des règles différentes.
+- La révision dépend du kilométrage, que personne ne regarde avant qu'un voyant s'allume.
+- Avec plusieurs véhicules dans la famille, les dates se multiplient.
+
+### Une méthode qui marche
+- Dès que vous payez ou faites l'intervention, notez la prochaine échéance.
+- Mettez un rappel un mois avant et un autre quelques jours avant.
+- Notez le kilométrage à chaque plein ou révision, pour savoir combien il reste avant la suivante.
+- Gardez une photo de la carte grise, du contrat et des factures au même endroit.
+
+### Comment fait Turbofuel
+- Taxe, assurance et contrôle technique entrent dans le calendrier du téléphone avec rappels 30, 10, 3 et 1 jour avant.
+- Le kilométrage se lit sur une photo du compteur, même sans internet.
+- Pour chaque pièce, vous voyez si elle est en ordre, proche de l'échéance ou dépassée.
+- Motos et scooters sont gratuits ; voitures et utilitaires sont dans la version PRO.
+
+## Guide pour les voyageurs d'une location de vacances : quoi écrire et comment le remettre
+URL: https://mpstudios.eu/fr/guides/guide-voyageurs-location-vacances/
+
+Un bon guide pour les voyageurs répond avant que les questions arrivent : Wi-Fi, clés, règlement intérieur, stationnement, déchets, transports et urgences. Il faut l'envoyer avant l'arrivée, dans la langue du voyageur, et il doit fonctionner hors connexion.
+
+### Ce que demandent tous les voyageurs
+- Le nom et le mot de passe du Wi-Fi.
+- Comment entrer : clés, boîte à clés, code de la porte.
+- Où se garer et combien cela coûte.
+- Comment trier les déchets.
+- À quelle heure libérer le logement.
+
+### Dans quel ordre
+- D'abord l'arrivée : adresse, accès, stationnement.
+- Ensuite le logement : Wi-Fi, appareils, règles.
+- Puis le quartier : transports, commerces, plage ou centre.
+- À la fin les urgences : numéros utiles et votre contact.
+
+### Papier ou numérique
+- Le classeur papier reste dans le logement et le voyageur ne le voit qu'à son arrivée.
+- Un guide numérique s'envoie par un lien avant le voyage et se met à jour en une minute.
+- Quand le guide est dans la langue du voyageur, les questions diminuent.
+
+### Comment fait Benarri
+- Un guide par logement, avec son logo et ses couleurs.
+- Traduction en anglais, allemand, français et espagnol faite sur le téléphone du loueur.
+- Le voyageur l'ouvre depuis un lien ou un QR, aussi dans le navigateur et hors connexion.
+- Les données restent dans le Google Drive du loueur.
+
+## Comment transférer automatiquement les notifications d'un téléphone Android à une autre personne
+URL: https://mpstudios.eu/fr/guides/transferer-notifications-android/
+
+Pour envoyer automatiquement à une autre personne le contenu d'une notification Android, il faut une application avec accès aux notifications qui la transfère par e-mail ou message, selon des règles par expéditeur. Ainsi, personne n'a besoin de prendre le téléphone partagé.
+
+### Quand c'est utile
+- Dans un bureau ou un commerce, un téléphone reçoit des alertes qui concernent un collègue.
+- Dans une famille, un téléphone reçoit des confirmations et des alertes dont l'autre parent a aussi besoin.
+- La personne concernée n'a pas le téléphone sous la main.
+
+### Les solutions manuelles et leurs limites
+- Lire le message et le recopier dans une messagerie ne marche que si quelqu'un est présent.
+- Une capture d'écran reste dans la galerie et dans l'historique de la messagerie.
+- Laisser le téléphone dans un endroit commun : personne ne sait qui a lu quoi.
+
+### Ce que doit faire un transfert automatique
+- Lire la notification sur le téléphone, avec l'accès aux notifications que vous accordez.
+- Appliquer une règle par expéditeur : quelles notifications, à qui, par quel canal.
+- Transférer seulement aux heures que vous décidez.
+- Tenir un journal des envois, sans passer par des serveurs externes.
+
+### Comment fait Batonkey
+- Les règles se créent à partir d'une notification déjà reçue.
+- E-mail automatique même écran éteint ; SMS, WhatsApp et Telegram d'un geste.
+- Calendrier hebdomadaire, statistiques d'envoi, verrouillage par code PIN ou empreinte.
+- Aucun compte et aucun serveur du développeur.
+
+## Questions fréquentes
+- **Qui est derrière MPStudios ?** Marcello Pandolfo, consultant en informatique et télécommunications. Il conçoit, développe et publie les applications seul, sous la marque MPStudios.
+- **Les applications demandent-elles de créer un compte ?** Non. Elles s'installent depuis Google Play et s'utilisent tout de suite, sans inscription.
+- **Où vont mes données ?** Sur le téléphone et, si vous l'activez, dans la sauvegarde ou le dossier cloud que vous choisissez (par exemple Google Drive ou Dropbox). Le développeur ne reçoit pas les données et n'a pas de serveurs qui les conservent.
+- **Les applications fonctionnent-elles sur iPhone ?** Pas pour l'instant : ce sont des applications Android, distribuées sur Google Play.
+- **Dans quelles langues sont-elles disponibles ?** Italien, anglais, espagnol, français et allemand.
+- **Que se passe-t-il si je change de téléphone ?** Faites une sauvegarde sur l'ancien téléphone et restaurez-la sur le nouveau. Les achats sur Google Play restent liés à votre compte Google : en réinstallant l'application avec le même compte, vous les retrouvez.
+- **Comment signaler un problème ou demander une fonction ?** Écrivez-moi à l'adresse e-mail indiquée sur la page À propos. Je réponds moi-même, et les signalements aboutissent dans les mises à jour.
+- **Pourquoi certaines applications sont-elles payantes ?** Je ne vends pas de données et n'utilise pas de serveurs : le prix paie le développement et les mises à jour. Cifra a une version gratuite ; EMIA et Batonkey ont un essai gratuit.
+- **Quand sortent Batonkey, Turbofuel et Benarri ?** Elles sont en développement. Quand elles arriveront sur Google Play, leurs pages sur ce site indiqueront le lien et l'historique des versions.
+
+# Deutsch
+
+## Cifra und Cifra+ · Persönliche Finanzen
+URL: https://mpstudios.eu/de/cifra/
+
+Cifra ist eine Android-App für die persönlichen Finanzen: Konten, Buchungen, Budgets und Berichte bleiben auf dem Telefon. Kein Konto, keine Werbung, keine Server des Entwicklers.
+
+Cifra kostenlos · Cifra+ 5,99 €, Einmalkauf
+
+### Konten und Buchungen
+- Girokonten, Karten, Bargeld, Depots und Wertpapiere, Forderungen und Schulden, mit Bank-Logo und eigener Farbe für jedes Konto.
+- Mehrere Währungen, mit Wechselkurs bei Überweisungen.
+- Kategorien und Unterkategorien, Projekte, Orte und Empfänger.
+- Geteilte Buchungen, Daueraufträge, Vorlagen, Entwürfe, Belegfotos und Suche in allen Feldern.
+
+### Übersicht, Budgets und Berichte
+- Vermögen, Einnahmen, Ausgaben und Ersparnis des Zeitraums; Ausgaben nach Kategorie im Ringdiagramm.
+- Budgets nach Kategorie, Projekt oder Konto, mit grünem, gelbem oder rotem Balken.
+- Zwölf Berichte zu Summen und Verläufen, mit Balken-, Torten- und Liniendiagrammen.
+
+### Sicherung und Daten
+- Vollständige Sicherung von Daten, Fotos und Einstellungen auf dem Telefon, in Google Drive oder Dropbox, von Hand oder täglich.
+- Import aus anderen Apps und Export als CSV und QIF.
+- Eine Cifra+-Sicherung lässt sich auch im kostenlosen Cifra wiederherstellen.
+
+### Nur in Cifra+
+- Liest die Benachrichtigungen der Bank und der Bezahl-Apps: Die Buchung wird selbst auf dem richtigen Konto erfasst.
+- Regeln, die den aus Benachrichtigungen gelesenen Buchungen Kategorie, Empfänger und Projekt zuweisen.
+- Belege mit der Kamera erfassen, mit Texterkennung auf dem Telefon.
+- Ratenzahlung mit Ratenplan und „Rate verschieben“.
+- Gemeinsame Konten für zwei Personen über einen Cloud-Ordner Ihrer Wahl.
+
+### Häufige Fragen
+- **Ist Cifra kostenlos?** Ja. Cifra ist kostenlos und ohne Werbung. Cifra+ kostet 5,99 € als Einmalkauf bei Google Play, ohne Abo.
+- **Muss ich ein Konto anlegen?** Nein. Cifra wird installiert und ohne Registrierung genutzt.
+- **Wo werden meine Daten gespeichert?** Auf dem Telefon. Die Sicherung geht dorthin, wo Sie wollen: eine Datei auf dem Telefon, Google Drive oder Dropbox. Der Entwickler erhält die Daten nicht.
+- **Was bietet Cifra+ zusätzlich?** Die automatische Erfassung von Buchungen aus den Benachrichtigungen der Bank, das Erfassen von Belegen mit der Kamera, Ratenzahlungen und gemeinsame Konten für zwei Personen.
+- **Kann ich Buchungen aus einer anderen App importieren?** Ja, aus CSV- und QIF-Dateien. Cifra exportiert in denselben Formaten.
+
+### Versionsverlauf
+- 2.4.9 (12. November 2026): Buchungen: Ein Jahr in der Liste zuzuklappen geht sofort, auch bei vielen Jahren an Buchungen; vorher konnte die App hängen bleiben.
+- 2.4.5 (23. Oktober 2026): Sicherung: Die Kopien stehen auf der Sicherungsseite und lassen sich mit einem Tippen wiederherstellen oder löschen; die vollständige Sicherung enthält auch die Fotos. Eine Cifra+-Sicherung lässt sich auch in Cifra wiederherstellen, mit einer Liste der ausgelassenen Teile. Verknüpfte Buchungen: Option, den Betrag jeder Vorlage beizubehalten. Planer: Sortierung nach neuesten oder ältesten. Suche: die meistgenutzten Projekte, Empfänger und Orte erscheinen zuerst.
+- 2.4.4 (20. Oktober 2026): Helles Design: unter Einstellungen › Darstellung › Design dunkel, hell oder wie das Telefon wählen. Aktionen für mehrere Buchungen: Zu Beginn ist nichts angehakt. Korrekturen der Lesbarkeit.
+- 2.4.3 (18. Oktober 2026): Geführter Start: Beim ersten Öffnen richtet Cifra mit Ihnen die Konten ein und auf Wunsch das Sparen von 10 % der Einnahmen per monatlicher Überweisung. Buchungen werden in allen Listen gleich angezeigt, mit dem Kategoriesymbol. Neue Bildschirme für Import und Export; überarbeitetes helles Design.
+- 2.4.0 (6. Oktober 2026): Erste öffentliche Version von Cifra bei Google Play. Seite „Hilfe und Hinweise“: Fragen und Antworten, daneben die Hinweise zu Updates. Kurze Einführung beim ersten Start.
+
+## EMIA · Gesundheit der Familie
+URL: https://mpstudios.eu/de/emia/
+
+EMIA ist eine Android-App, die Befunde, Laborwerte, Therapien, Impfungen, Schwangerschaft, Fristen und Termine der ganzen Familie ordnet, Haustiere eingeschlossen. Die Daten bleiben auf dem Telefon.
+
+60 Tage kostenlos testen · ab 14,99 € pro Jahr oder 29,99 € einmalig
+
+### Befunde und Laborwerte
+- Erfassung aus PDF, Bild, Kamera oder von Hand, mit Auslesen der Werte auf dem Telefon.
+- Für jeden Wert: Diagramm, Referenzbereich, Verlauf und Vergleich zweier Befunde.
+- Referenzbereiche aus offiziellen Quellen, wenn der Befund keine angibt.
+
+### Messwerte, Therapien und Medikamente
+- Gewicht, Blutdruck, Sauerstoff, Blutzucker, Temperatur und Puls; WHO-Wachstumskurven für Kinder.
+- Therapien mit Erinnerung zur genauen Uhrzeit, zu bestätigenden Dosen und Verlauf.
+- Erkennung des Medikaments an der Packung und Suche in der italienischen AIFA-Datenbank.
+
+### Familie, Impfungen und Fristen
+- Impfpass mit dem Impfkalender des Landes und der Region.
+- Schwangerschaft, Zyklus, Blutspenden, Zähne, Sehen, Befreiungen und Anträge.
+- Jede Frist wird ein Termin in der Agenda und im Kalender des Telefons, mit Erinnerungen 30, 10 und 3 Tage vorher und am Tag selbst.
+- Familie auf mehreren Telefonen über einen gemeinsamen Ordner Ihrer Wahl.
+
+### Notfall
+- Notfallkarte für jede Person und jedes Tier, auch offline und vom Sperrbildschirm aus lesbar.
+- Blutgruppe, Allergien, Erkrankungen, Therapien, Kontakte und eine Taste für die Notrufnummer des Landes.
+
+### Häufige Fragen
+- **Was kostet EMIA?** Die ersten 60 Tage sind mit allen Funktionen kostenlos. Danach kostet EMIA 14,99 € pro Jahr oder 29,99 € einmalig für eine Person; EMIA Family 29,99 € pro Jahr oder 59,99 € einmalig; EMIA Family Plus 39,99 € pro Jahr oder 79,99 € einmalig.
+- **Stellt EMIA Diagnosen?** Nein. EMIA ordnet die Daten und markiert Werte außerhalb der Referenzbereiche. Die Bewertung der Ergebnisse bleibt beim Arzt.
+- **Wo landen die Gesundheitsdaten?** Sie bleiben auf dem Telefon, in der Sicherung Ihrer Wahl und, wenn Sie ihn einschalten, im gemeinsamen Ordner der Familie. EMIA hat weder Konten noch Server.
+- **Kann ich die ganze Familie und die Haustiere verwalten?** Ja. EMIA Family deckt die ganze Familie ab; EMIA Family Plus ergänzt Haustiere und die Familie auf mehreren Telefonen.
+- **Woher stammen die Referenzbereiche?** Von offiziellen Stellen wie der WHO, dem Istituto Superiore di Sanità, dem italienischen Gesundheitsministerium, der AIFA und der EMA, die in der App genannt werden.
+
+### Versionsverlauf
+- 1.4.0 (20. November 2026): Jede eingetragene Frist (Befreiungen, Anträge bei Behinderung, Kontaktlinsen, Medikamente laufender Therapien) wird ein Termin in der Agenda und im Kalender des Telefons, mit Erinnerungen 30, 10 und 3 Tage vorher und am Tag selbst. Medikamente werden auch am aufgedruckten Namen erkannt, mit Suche in der AIFA-Datenbank; Ablaufdatum und Charge werden aus dem DataMatrix-Code gelesen. Milchzähne: für Kinder bis 12 Jahre die Zähne, die in diesem Alter kommen oder ausfallen können. Familie auf mehreren Telefonen: Abgleich alle 30 Sekunden bei geöffneter App und alle 15 Minuten bei geschlossener, mit Benachrichtigung über eingegangene Änderungen. Fenster mit den Neuerungen beim ersten Start nach einem Update.
+- 1.3.0 (19. November 2026): Stillen: zu den Medikamenten der Mutter ein Hinweis aus der Fachinformation (AIFA, Abschnitt 4.6) für 3.062 Wirkstoffe. Lokale Sicherung auch in einem Ordner, der nach der Deinstallation auf dem Telefon bleibt; Wiederherstellung aus Google Drive oder einer Datei schon in der Einrichtung. Familienoberhaupt: Änderungen von anderen Telefonen werden erst nach seiner Freigabe übernommen. Zeitraum der Termine im Widget wählbar (1, 3, 6, 12 Monate oder alle).
+- 1.2.0 (19. November 2026): Erste Produktionsversion bei Google Play. Neue Bereiche Zähne sowie Befreiungen und Anträge, mit Fristerinnerungen. Blutzucker mit Messzeitpunkt, Peak-Flow bei Asthma und COPD, INR mit Dosis des Gerinnungshemmers; Temperatur und Puls. Hinweise zu Medikamenten, die Pille, Ring oder Pflaster beeinflussen (AIFA). Lebensstil und Krebsvorsorge nach Alter, Geschlecht und Wohnsitzland.
+
+## Batonkey · Automatische Weiterleitung von Benachrichtigungen
+URL: https://mpstudios.eu/de/batonkey/
+
+Batonkey ist eine Android-App, die die Benachrichtigungen des Telefons liest und ihren Inhalt nach Ihren Regeln an die Personen Ihrer Wahl weiterleitet: per E-Mail automatisch, auch bei ausgeschaltetem Bildschirm, oder per SMS, WhatsApp oder Telegram mit einem Tippen.
+
+Host-Telefon: kostenloser Test, danach 59,99 € pro Jahr · Guest-Telefone: kostenlos
+
+### Weiterleitungsregeln
+- Eine Regel entsteht aus einer bereits erhaltenen Benachrichtigung: Die App füllt fast alles selbst aus.
+- Ein oder mehrere Empfänger, auch aus dem Adressbuch, jeder mit eigenem Kanal.
+- Der Name des Absenders oder ein eigener Text lässt sich hinzufügen.
+- Wochenplan, um nur zu Arbeitszeiten weiterzuleiten.
+
+### Host und Guest
+- Host: das Telefon, das die Benachrichtigungen empfängt und weiterleitet. Guest: das Telefon des Kollegen, immer kostenlos.
+- Kopplung über einen persönlichen QR-Code, einmalig nutzbar, 24 Stunden gültig.
+- Reservierung: Der Kollege tippt auf den Absender, und 5 einstellbare Minuten lang geht dessen nächste Benachrichtigung nur an ihn.
+
+### Kontrolle und Datenschutz
+- Übersicht mit Statistiken der Weiterleitungen nach Empfänger, Absender und Kanal.
+- Hinweis, wenn der Zugriff auf Benachrichtigungen abbricht.
+- Sperre per PIN oder Fingerabdruck und Sicherung der Regeln.
+- Kein Konto und keine Server des Entwicklers: E-Mail-Passwort und PIN bleiben auf dem Telefon.
+
+### Häufige Fragen
+- **Wofür ist Batonkey gedacht?** Um den Inhalt einer Benachrichtigung automatisch an die Person weiterzuleiten, die ihn braucht, wenn die Benachrichtigung auf einem Telefon ankommt, das mehrere Personen nutzen: ein Büro, ein Geschäft, eine Familie.
+- **Was kostet die App?** Das Host-Telefon hat einen kostenlosen Test und kostet danach 59,99 € pro Jahr. Die Guest-Telefone der Kollegen sind immer kostenlos.
+- **Über welche Kanäle leitet sie weiter?** Per E-Mail automatisch, auch bei ausgeschaltetem Bildschirm; per SMS, WhatsApp und Telegram mit einem Tippen.
+- **Kann ich die Weiterleitung auf Arbeitszeiten beschränken?** Ja, mit dem Wochenplan der Regeln.
+- **Laufen die Benachrichtigungen über einen Server?** Nein. Batonkey liest die Benachrichtigungen nur auf dem Telefon und hat weder Konten noch Server des Entwicklers.
+
+## Turbofuel · Wartung von Motorrad und Auto
+URL: https://mpstudios.eu/de/turbofuel/
+
+Turbofuel ist eine Android-App für die Wartung von Motorrädern, Rollern, Autos und Transportern: Sie zeigt, was in Ordnung ist, was bald fällig ist und was überfällig ist, mit Wartungsverlauf, Fristen und Fahrzeugdokumenten.
+
+Motorräder und Roller kostenlos · Autos und Transporter in der PRO-Version
+
+### Cockpit und Fahrzeuge
+- Kilometerstand, nächste Inspektion und Zustand jedes Bauteils: Öl, Kette, Reifen, Bremsen, Filter.
+- Mehrere Garagen, vollständiges Fahrzeugdatenblatt und Fahrzeugschein aus einem Foto gelesen.
+- Kilometerstand mit der Kamera erfassen, ohne Internet.
+
+### Wartung und Fristen
+- Arbeiten mit Bauteilen, Kilometerstand, Kosten für Teile und Arbeitszeit, Werkstatt und Notizen.
+- Kfz-Steuer, Versicherung und Hauptuntersuchung im Kalender des Telefons, mit Erinnerungen 30, 10, 3 und 1 Tag vorher.
+- Kosten und Verbrauch: Kosten pro km, Ausgaben nach Kategorie, Verbrauch von Volltanken zu Volltanken.
+
+### Werkzeuge
+- NFC-Tags am Fahrzeug, um die App zu öffnen oder Kilometer und Arbeiten durch Antippen mit dem Telefon zu erfassen.
+- Check vor der Fahrt, Rennstrecken-Tagebuch, Werkstattverzeichnis.
+- Wartungsheft als PDF für den Käufer des Fahrzeugs; CSV-Export.
+
+### Häufige Fragen
+- **Für welche Fahrzeuge eignet sich Turbofuel?** Motorräder, Roller, Autos und Transporter. Motorräder und Roller sind kostenlos; Autos und Transporter gibt es in der PRO-Version.
+- **Wie erfasst die App den Kilometerstand?** Mit der Kamera: Tacho ins Bild nehmen und die Zahl bestätigen. Das funktioniert ohne Internet.
+- **Erinnert sie an Steuer, Versicherung und Hauptuntersuchung?** Ja. Die Fristen kommen in den Kalender des Telefons, mit Erinnerungen 30, 10, 3 und 1 Tag vorher.
+- **Wo werden die Daten gespeichert?** Auf dem Telefon, mit Sicherung auf dem Telefon und im Google Drive des Nutzers.
+
+## Benarri · Digitale Gästemappe für Ferienwohnungen
+URL: https://mpstudios.eu/de/benarri/
+
+Benarri ist eine digitale Gästemappe für Ferienwohnungen: WLAN, Schlüssel, Hausregeln, Parken, Kontakte, Busse und Notfälle in fünf Sprachen. Sie ersetzt den Papierordner und lange WhatsApp-Nachrichten.
+
+Benarri für Gäste: kostenlos · Benarri Host: kostenpflichtig
+
+### Benarri Host, für Gastgeber
+- Eine Mappe pro Wohnung, mit eigenem Logo und eigenen Farben.
+- Übersetzung mit einem Tippen ins Englische, Deutsche, Französische und Spanische, direkt auf dem Telefon.
+- Veröffentlichung per Link oder QR-Code; Aufenthalte mit den Daten aus dem Airbnb- oder Booking-Kalender.
+- Nachrichten an Gäste mit Lesebestätigung und Bestätigung der Hausregeln.
+
+### Benarri, für Gäste
+- Die Mappe in der Sprache des Gastes, auch offline lesbar.
+- WLAN mit QR-Code, Kontakte mit Anruf, WhatsApp und Karte, Busfahrpläne, Notrufnummern.
+- Wer die App nicht installieren will, öffnet dieselbe Mappe im Browser.
+
+### Wo die Daten liegen
+- Im Google Drive des Gastgebers, in einem eigenen Ordner. Keine Server des Entwicklers.
+- Gäste legen kein Konto an und registrieren sich nicht.
+
+### Häufige Fragen
+- **Müssen Gäste eine App installieren?** Nein. Die Mappe öffnet sich auch im Browser über den geteilten Link; mit der Benarri-App ist sie auch offline lesbar.
+- **In welchen Sprachen gibt es die Mappe?** Italienisch, Englisch, Deutsch, Französisch und Spanisch. Die Übersetzung läuft auf dem Telefon des Gastgebers und ist kostenlos.
+- **Wo werden die Daten gespeichert?** Im Google Drive des Gastgebers, in einem Benarri-Ordner. Es gibt keine Server des Entwicklers.
+- **Funktioniert es mit Airbnb und Booking?** Benarri Host liest den Buchungskalender (iCal), um Aufenthalte mit den richtigen Daten anzulegen.
+
+## Ausgaben-Apps ohne Konto und ohne Server: Was Sie vor der Wahl prüfen sollten
+URL: https://mpstudios.eu/de/ratgeber/ausgaben-app-ohne-konto/
+
+Eine Ausgaben-App, die kein Konto verlangt und keine Server nutzt, speichert die Buchungen nur auf dem Telefon. Prüfen Sie vor der Wahl, wohin die Sicherung geht, ob die App offene Formate importiert und exportiert und wie sie Buchungen erfasst, ohne dass Sie alles eintippen.
+
+### 1. Wohin gehen die Daten?
+- Verlangt die App ein Konto, werden die Buchungen auch auf den Servern des Anbieters gespeichert.
+- Verlangt sie keins, bleiben die Daten auf dem Telefon und die Sicherung liegt in Ihrer Hand.
+
+### 2. Wie funktioniert die Sicherung?
+- Prüfen Sie, ob die Sicherung alles enthält: Buchungen, Belegfotos und Einstellungen.
+- Besser noch, wenn Sie das Ziel wählen können (Datei auf dem Telefon, Google Drive, Dropbox) und sie täglich läuft.
+
+### 3. Lassen sich Daten importieren und exportieren?
+- CSV und QIF lesen fast alle Finanz-Apps und Tabellenprogramme.
+- Eine App, die nur in ein eigenes Format exportiert, macht den Wechsel schwer.
+
+### 4. Muss ich jede Buchung eintippen?
+- Unter Android kann eine App die Benachrichtigungen der Bank lesen, mit dem Benachrichtigungszugriff, den Sie erteilen, und die Buchung selbst erfassen.
+- Achten Sie darauf, dass sich die Regeln bearbeiten lassen: Kategorie, Empfänger und Konto müssen von Anfang an stimmen.
+
+### 5. Was kostet es wirklich?
+- Kostenlos mit Werbung, Monatsabo oder Einmalkauf sind drei verschiedene Modelle.
+- Bei einem Einmalkauf zahlen Sie einmal, und die Funktion bleibt Ihnen.
+
+### Die Antworten von Cifra
+- Kein Konto und kein Server: Die Daten bleiben auf dem Telefon.
+- Vollständige Sicherung als Datei, in Google Drive oder Dropbox, auch automatisch jeden Tag.
+- Import und Export als CSV und QIF.
+- Cifra+ liest die Benachrichtigungen der Bank und erfasst die Buchungen selbst; es kostet einmalig 5,99 €.
+
+## Befunde, Therapien und Gesundheitsfristen der Familie: So bleiben sie auf dem Telefon geordnet
+URL: https://mpstudios.eu/de/ratgeber/befunde-familie-telefon/
+
+Damit Befunde, Therapien und Fristen der ganzen Familie auf dem Telefon geordnet bleiben, braucht es ein Profil pro Person, Laborwerte, die sich über die Zeit lesen lassen, und jede Frist als Erinnerung im Kalender.
+
+### Ein Ort pro Person
+- PDF-Befunde, Fotos von Rezepten, Impfungen und Therapien landen oft in verschiedenen Chats, E-Mails und Schubladen.
+- Ein Profil pro Person, Haustiere eingeschlossen, macht alles in Sekunden auffindbar, auch beim Arzt.
+
+### Werte über mehrere Befunde vergleichen
+- Ein einzelner Wert außerhalb der Norm sagt wenig; der Verlauf über mehrere Befunde sagt mehr.
+- Nötig ist ein Diagramm pro Wert mit dem Referenzbereich des Labors oder, falls er fehlt, einer offiziellen Quelle.
+
+### Jede Frist wird eine Erinnerung
+- Auffrischimpfungen, Verlängerung von Befreiungen, Kontrollen beim Zahnarzt, Kontaktlinsenpackungen: Jedes Datum kommt in den Kalender des Telefons.
+- Erinnerungen einige Wochen und einige Tage vorher verhindern, dass man es erst am Tag danach merkt.
+
+### Datenschutz zuerst
+- Gesundheitsdaten sind die sensibelsten: Besser eine App, die sie auf dem Telefon hält und kein Konto verlangt.
+- Die Sicherung sollte dorthin gehen, wo Sie es bestimmen.
+
+### So macht es EMIA
+- Ein Profil für jede Person und jedes Haustier, mit Befunden aus PDF oder Kamera.
+- Diagramm, Referenzbereich und Vergleich zweier Befunde für jeden Wert.
+- Jede Frist kommt in die Agenda und den Kalender des Telefons, mit Erinnerungen 30, 10 und 3 Tage vorher und am Tag selbst.
+- Kein Konto und kein Server; EMIA stellt keine Diagnosen, die Bewertung bleibt beim Arzt.
+
+## Kfz-Steuer, Versicherung, Hauptuntersuchung und Inspektion: Nie wieder eine Frist bei Auto oder Motorrad verpassen
+URL: https://mpstudios.eu/de/ratgeber/fristen-auto-motorrad/
+
+Jedes Auto und jedes Motorrad hat vier Fristen, die in festen Abständen wiederkehren: Kfz-Steuer, Versicherung, Hauptuntersuchung und Inspektion. Am einfachsten verpassen Sie keine, wenn Sie das nächste Datum gleich nach Zahlung oder Werkstattbesuch notieren, mit einer Erinnerung einige Wochen vorher.
+
+### Die vier Fristen
+- Kfz-Steuer: je nach Land jährlich oder an die Zulassung gebunden.
+- Versicherung: läuft meist ein Jahr; das Datum steht im Vertrag.
+- Hauptuntersuchung: Die Abstände legt jedes Land nach dem Alter des Fahrzeugs fest.
+- Inspektion: alle so und so viele Kilometer oder Monate, laut Serviceheft des Herstellers.
+
+### Warum man sie vergisst
+- Sie fallen in verschiedene Monate und folgen verschiedenen Regeln.
+- Die Inspektion hängt vom Kilometerstand ab, auf den niemand schaut, bis eine Warnleuchte angeht.
+- Mit mehreren Fahrzeugen in der Familie vervielfachen sich die Termine.
+
+### Eine Methode, die funktioniert
+- Notieren Sie die nächste Frist gleich nach Zahlung oder Werkstattbesuch.
+- Stellen Sie eine Erinnerung einen Monat vorher und eine wenige Tage vorher.
+- Notieren Sie den Kilometerstand bei jedem Tanken oder jeder Inspektion, damit Sie wissen, wie viel bis zur nächsten fehlt.
+- Bewahren Sie Fotos von Fahrzeugschein, Versicherungsschein und Rechnungen am selben Ort auf.
+
+### So macht es Turbofuel
+- Steuer, Versicherung und Hauptuntersuchung kommen in den Kalender des Telefons, mit Erinnerungen 30, 10, 3 und 1 Tag vorher.
+- Der Kilometerstand wird aus einem Foto des Tachos gelesen, auch ohne Internet.
+- Für jedes Bauteil sehen Sie, ob es in Ordnung, bald fällig oder überfällig ist.
+- Motorräder und Roller sind kostenlos; Autos und Transporter gibt es in der PRO-Version.
+
+## Gästemappe für die Ferienwohnung: Was hineingehört und wie Sie sie übergeben
+URL: https://mpstudios.eu/de/ratgeber/gaestemappe-ferienwohnung/
+
+Eine gute Gästemappe beantwortet Fragen, bevor sie gestellt werden: WLAN, Schlüssel, Hausregeln, Parken, Müll, Verkehrsmittel und Notfälle. Schicken Sie sie vor der Anreise, in der Sprache des Gastes, und sorgen Sie dafür, dass sie offline funktioniert.
+
+### Was alle Gäste fragen
+- Name und Passwort des WLANs.
+- Wie man hineinkommt: Schlüssel, Schlüsselbox, Türcode.
+- Wo man parkt und was es kostet.
+- Wie der Müll getrennt wird.
+- Bis wann die Wohnung zu verlassen ist.
+
+### In welcher Reihenfolge
+- Zuerst die Anreise: Adresse, Zugang, Parken.
+- Dann die Wohnung: WLAN, Geräte, Regeln.
+- Dann die Umgebung: Verkehrsmittel, Geschäfte, Strand oder Zentrum.
+- Zum Schluss die Notfälle: wichtige Nummern und Ihr Kontakt.
+
+### Papier oder digital
+- Der Papierordner bleibt in der Wohnung, und der Gast sieht ihn erst nach der Ankunft.
+- Eine digitale Mappe wird vor der Reise per Link verschickt und ist in einer Minute aktualisiert.
+- Steht die Mappe in der Sprache des Gastes, gibt es weniger Fragen.
+
+### So macht es Benarri
+- Eine Mappe pro Wohnung, mit eigenem Logo und eigenen Farben.
+- Übersetzung ins Englische, Deutsche, Französische und Spanische direkt auf dem Telefon des Gastgebers.
+- Der Gast öffnet sie über einen Link oder QR-Code, auch im Browser und offline.
+- Die Daten bleiben im Google Drive des Gastgebers.
+
+## So leiten Sie die Benachrichtigungen eines Android-Telefons automatisch an eine andere Person weiter
+URL: https://mpstudios.eu/de/ratgeber/android-benachrichtigungen-weiterleiten/
+
+Damit der Inhalt einer Android-Benachrichtigung automatisch bei einer anderen Person ankommt, braucht es eine App mit Benachrichtigungszugriff, die ihn nach Regeln pro Absender per E-Mail oder Nachricht weiterleitet. So muss niemand das gemeinsam genutzte Telefon in die Hand nehmen.
+
+### Wann das nötig ist
+- In einem Büro oder Geschäft empfängt ein Telefon Hinweise, die einen Kollegen betreffen.
+- In einer Familie empfängt ein Telefon Bestätigungen und Hinweise, die auch der andere Elternteil braucht.
+- Die betroffene Person hat das Telefon nicht zur Hand.
+
+### Manuelle Lösungen und ihre Grenzen
+- Die Nachricht lesen und in einen Chat abtippen funktioniert nur, wenn jemand da ist.
+- Ein Screenshot bleibt in der Galerie und im Chatverlauf.
+- Das Telefon an einem gemeinsamen Ort liegen lassen: Niemand weiß, wer was gelesen hat.
+
+### Was eine automatische Weiterleitung leisten muss
+- Die Benachrichtigung auf dem Telefon lesen, mit dem Benachrichtigungszugriff, den Sie erteilen.
+- Eine Regel pro Absender anwenden: welche Benachrichtigungen, an wen, über welchen Kanal.
+- Nur zu den Zeiten weiterleiten, die Sie festlegen.
+- Ein Protokoll der Weiterleitungen führen, ohne externe Server.
+
+### So macht es Batonkey
+- Regeln entstehen aus einer bereits erhaltenen Benachrichtigung.
+- E-Mail automatisch, auch bei ausgeschaltetem Bildschirm; SMS, WhatsApp und Telegram mit einem Tippen.
+- Wochenplan, Statistiken der Weiterleitungen, Sperre per PIN oder Fingerabdruck.
+- Kein Konto und keine Server des Entwicklers.
+
+## Häufige Fragen
+- **Wer steht hinter MPStudios?** Marcello Pandolfo, IT- und Telekommunikationsberater. Er entwirft, entwickelt und veröffentlicht die Apps allein, unter der Marke MPStudios.
+- **Muss ich für die Apps ein Konto anlegen?** Nein. Sie werden über Google Play installiert und sind sofort nutzbar, ohne Registrierung.
+- **Wo landen meine Daten?** Auf dem Telefon und, wenn Sie es einschalten, in der Sicherung oder dem Cloud-Ordner Ihrer Wahl (zum Beispiel Google Drive oder Dropbox). Der Entwickler erhält die Daten nicht und hat keine Server, die sie speichern.
+- **Laufen die Apps auf dem iPhone?** Derzeit nicht: Es sind Android-Apps, die über Google Play verteilt werden.
+- **In welchen Sprachen gibt es die Apps?** Italienisch, Englisch, Spanisch, Französisch und Deutsch.
+- **Was passiert, wenn ich das Telefon wechsle?** Erstellen Sie auf dem alten Telefon eine Sicherung und stellen Sie sie auf dem neuen wieder her. Käufe bei Google Play bleiben mit Ihrem Google-Konto verknüpft: Installieren Sie die App mit demselben Konto neu, sind sie wieder da.
+- **Wie melde ich ein Problem oder wünsche mir eine Funktion?** Schreiben Sie mir an die E-Mail-Adresse auf der Seite Über mich. Ich antworte selbst, und die Meldungen fließen in die Updates ein.
+- **Warum sind manche Apps kostenpflichtig?** Ich verkaufe keine Daten und nutze keine Server: Der Preis bezahlt Entwicklung und Updates. Cifra gibt es kostenlos; EMIA und Batonkey haben eine kostenlose Testphase.
+- **Wann erscheinen Batonkey, Turbofuel und Benarri?** Sie sind in Entwicklung. Sobald sie bei Google Play erscheinen, zeigen ihre Seiten hier den Link und den Versionsverlauf.

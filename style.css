@@ -129,3 +129,13 @@ h1,h2,h3{font-family:"Space Grotesk",Inter,system-ui,sans-serif;font-weight:700;
  .portrait{width:120px;height:120px}
 }
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}.card{transition:none}}
+.langs{position:relative;margin-left:6px}
+.langs summary{list-style:none;cursor:pointer;color:#DDE4FF;font-size:13px;font-weight:600;border:1px solid rgba(255,255,255,.3);border-radius:8px;padding:6px 10px;min-height:36px;min-width:44px;display:inline-flex;align-items:center;justify-content:center}
+.langs summary::-webkit-details-marker{display:none}
+.langs ul{position:absolute;right:0;top:calc(100% + 6px);background:#fff;border-radius:10px;box-shadow:0 8px 24px rgba(10,22,64,.18);list-style:none;margin:0;padding:6px;min-width:150px;z-index:20}
+.langs ul a{color:#0a1640!important;display:flex;padding:10px 12px;min-height:44px;font-size:15px;border-radius:6px;text-decoration:none!important}
+.langs ul a:hover{background:#EEF2FB}
+.langs ul a[aria-current]{background:#EEF2FB;font-weight:700}
+.changelog summary time{color:#5A6788;font-weight:400}
+.changelog ul{margin:0 0 14px}
+.foot-links+.foot-links{margin-top:4px}

@@ -1,27 +1,26 @@
 # MPStudios
 
-> MPStudios è il marchio di Marcello Pandolfo (Italia) per app Android senza account e senza server dello sviluppatore, e per la linea di abbigliamento 20¹ su Etsy. I dati degli utenti restano sul telefono o nel cloud scelto da loro.
+> MPStudios è il marchio di Marcello Pandolfo (Italia) per app Android senza account e senza server dello sviluppatore, e per la linea di abbigliamento 20¹ su Etsy. I dati degli utenti restano sul telefono o nel cloud scelto da loro. Sito in italiano, inglese, spagnolo, francese e tedesco.
 
 ## App
-- [Cifra e Cifra+](https://mpstudios.eu/cifra/): Cifra è un'app Android per le finanze personali: conti, movimenti, budget e report restano sul telefono. Non chiede account, non mostra pubblicità e non usa server dello sviluppatore. Prezzo: Cifra gratuita · Cifra+ 5,99 €, pagamento unico. Stato: Su Google Play. English: https://mpstudios.eu/en/cifra/
-- [EMIA](https://mpstudios.eu/emia/): EMIA è un'app Android che tiene in ordine referti, analisi, terapie, vaccini, gravidanza, scadenze e appuntamenti di tutta la famiglia, amici a 4 zampe compresi. I dati restano sul telefono. Prezzo: Prova gratuita di 60 giorni · da 14,99 € l'anno o 29,99 € una tantum. Stato: Su Google Play. English: https://mpstudios.eu/en/emia/
-- [Batonkey](https://mpstudios.eu/batonkey/): Batonkey è un'app Android per aziende: il telefono di servizio riceve codici di accesso, avvisi dei portali e allarmi, e Batonkey li inoltra subito al collega giusto secondo regole decise da te. Prezzo: Telefono Host: prova gratuita, poi 59,99 € l'anno · Telefoni Guest: gratuiti. Stato: In arrivo su Google Play. English: https://mpstudios.eu/en/batonkey/
-- [Turbofuel](https://mpstudios.eu/turbofuel/): Turbofuel è un'app Android per la manutenzione di moto, scooter, auto e furgoni: mostra cosa è a posto, cosa è vicino e cosa è scaduto, con storico degli interventi, scadenze e documenti del mezzo. Prezzo: Moto e scooter gratuiti · auto e furgoni nella versione PRO. Stato: In sviluppo. English: https://mpstudios.eu/en/turbofuel/
-- [Benarri](https://mpstudios.eu/benarri/): Benarri è una guida digitale per gli ospiti di una casa vacanza: Wi-Fi, chiavi, regole, parcheggio, contatti, bus ed emergenze in cinque lingue. Sostituisce il raccoglitore cartaceo e i lunghi messaggi su WhatsApp. Prezzo: Benarri per gli ospiti: gratuita · Benarri Host: a pagamento. Stato: In sviluppo. English: https://mpstudios.eu/en/benarri/
+- [Cifra e Cifra+](https://mpstudios.eu/cifra/): Cifra è un'app Android per le finanze personali: conti, movimenti, budget e report restano sul telefono. Non chiede account, non mostra pubblicità e non usa server dello sviluppatore. Prezzo: Cifra gratuita · Cifra+ 5,99 €, pagamento unico. Stato: Su Google Play. Ultima versione: 2.4.9 (12/11/2026).
+- [EMIA](https://mpstudios.eu/emia/): EMIA è un'app Android che tiene in ordine referti, analisi, terapie, vaccini, gravidanza, scadenze e appuntamenti di tutta la famiglia, amici a 4 zampe compresi. I dati restano sul telefono. Prezzo: Prova gratuita di 60 giorni · da 14,99 € l'anno o 29,99 € una tantum. Stato: Su Google Play. Ultima versione: 1.4.0 (20/11/2026).
+- [Batonkey](https://mpstudios.eu/batonkey/): Batonkey è un'app Android che legge le notifiche del telefono e ne inoltra il contenuto alle persone che scegli tu, secondo regole decise da te: via email in automatico, anche a schermo spento, oppure via SMS, WhatsApp o Telegram con un tocco. Prezzo: Telefono Host: prova gratuita, poi 59,99 € l'anno · Telefoni Guest: gratuiti. Stato: In arrivo su Google Play.
+- [Turbofuel](https://mpstudios.eu/turbofuel/): Turbofuel è un'app Android per la manutenzione di moto, scooter, auto e furgoni: mostra cosa è a posto, cosa è vicino e cosa è scaduto, con storico degli interventi, scadenze e documenti del mezzo. Prezzo: Moto e scooter gratuiti · auto e furgoni nella versione PRO. Stato: In sviluppo.
+- [Benarri](https://mpstudios.eu/benarri/): Benarri è una guida digitale per gli ospiti di una casa vacanza: Wi-Fi, chiavi, regole, parcheggio, contatti, bus ed emergenze in cinque lingue. Sostituisce il raccoglitore cartaceo e i lunghi messaggi su WhatsApp. Prezzo: Benarri per gli ospiti: gratuita · Benarri Host: a pagamento. Stato: In sviluppo.
 
 ## Guide
-- [Codici OTP su una SIM aziendale condivisa: come farli arrivare al collega giusto](https://mpstudios.eu/guide/codici-otp-sim-aziendale/): Quando il codice di accesso arriva sul telefono di servizio e serve a un collega: le soluzioni manuali, i loro limiti e come automatizzare l'inoltro.
 - [App per le spese personali senza account e senza server: cosa controllare prima di sceglierla](https://mpstudios.eu/guide/app-spese-senza-account/): Cinque domande da farsi prima di affidare i propri conti a un'app: dove finiscono i dati, come si fa il backup, come si importano i movimenti.
 - [Referti, terapie e scadenze sanitarie della famiglia: come tenerli in ordine sul telefono](https://mpstudios.eu/guide/referti-famiglia-telefono/): Un metodo pratico per non perdere referti, scadenze dei vaccini e terapie di tutta la famiglia, con i dati che restano sul telefono.
 - [Bollo, assicurazione, revisione e tagliando: come non dimenticare più una scadenza dell'auto o della moto](https://mpstudios.eu/guide/scadenze-bollo-assicurazione-revisione/): Le quattro scadenze di ogni veicolo, ogni quanto tornano e un modo semplice per farle arrivare come promemoria sul telefono.
 - [Guida per gli ospiti di una casa vacanza: cosa scrivere e come consegnarla](https://mpstudios.eu/guide/guida-ospiti-casa-vacanza/): Le informazioni che ogni ospite chiede, in che ordine metterle e perché una guida digitale riduce i messaggi durante il soggiorno.
+- [Come inoltrare in automatico le notifiche di un telefono Android a un'altra persona](https://mpstudios.eu/guide/inoltrare-notifiche-android/): Quando una notifica arriva su un telefono condiviso ma serve a qualcun altro: le soluzioni manuali, i loro limiti e come impostare un inoltro automatico.
 
-## Guides (English)
-- [OTP codes on a shared work SIM: how to get them to the right colleague](https://mpstudios.eu/en/guides/otp-codes-shared-work-phone/): When the login code lands on the office phone and someone else needs it: manual workarounds, their limits and how to automate forwarding.
-- [Expense tracking apps with no account and no server: what to check before you pick one](https://mpstudios.eu/en/guides/expense-app-no-account/): Five questions to ask before trusting an app with your finances: where the data goes, how backups work, how to import transactions.
-- [Your family's lab reports, treatments and health deadlines: keeping them in order on your phone](https://mpstudios.eu/en/guides/family-medical-records-phone/): A practical method for never losing lab reports, vaccine boosters and treatments for the whole family, with data that stays on the phone.
-- [Road tax, insurance, inspection and servicing: never miss a car or motorbike deadline again](https://mpstudios.eu/en/guides/car-motorbike-deadlines/): The four recurring deadlines of every vehicle and a simple way to get them on your phone as reminders.
-- [A guest guide for your holiday home: what to write and how to hand it over](https://mpstudios.eu/en/guides/holiday-home-guest-guide/): The information every guest asks for, the order to put it in, and why a digital guide cuts messages during the stay.
+## Altre lingue
+- English: https://mpstudios.eu/en/ · FAQ https://mpstudios.eu/en/faq/
+- Español: https://mpstudios.eu/es/ · FAQ https://mpstudios.eu/es/faq/
+- Français: https://mpstudios.eu/fr/ · FAQ https://mpstudios.eu/fr/faq/
+- Deutsch: https://mpstudios.eu/de/ · FAQ https://mpstudios.eu/de/faq/
 
 ## Chi c'è dietro
 - [Marcello Pandolfo](https://mpstudios.eu/chi-sono/): consulente IT e telecomunicazioni, sviluppatore delle app MPStudios. LinkedIn: https://www.linkedin.com/in/marcellopandolfo/
@@ -30,6 +29,19 @@
 - Google Play: https://play.google.com/store/apps/dev?id=8012076692318989473
 - GitHub: https://github.com/mpstudios56
 - Etsy: https://www.etsy.com/shop/MPStudios56
+- Domande frequenti: https://mpstudios.eu/faq/
+- Versione completa per assistenti AI: https://mpstudios.eu/llms-full.txt
+
+## Domande frequenti generali
+- **Chi c'è dietro MPStudios?** Marcello Pandolfo, consulente IT e telecomunicazioni. Progetta, sviluppa e pubblica le app da solo, con il marchio MPStudios.
+- **Le app chiedono di creare un account?** No. Si installano da Google Play e si usano subito, senza registrazione.
+- **Dove finiscono i miei dati?** Sul telefono e, se lo attivi, nel backup o nella cartella cloud che scegli tu (per esempio Google Drive o Dropbox). Lo sviluppatore non riceve i dati e non ha server che li conservano.
+- **Le app funzionano su iPhone?** Al momento no: sono app Android, distribuite su Google Play.
+- **In quali lingue sono disponibili?** Italiano, inglese, spagnolo, francese e tedesco.
+- **Cosa succede se cambio telefono?** Fai un backup dal vecchio telefono e lo ripristini sul nuovo. Gli acquisti fatti su Google Play restano legati al tuo account Google: reinstallando l'app con lo stesso account li ritrovi.
+- **Come segnalo un problema o chiedo una funzione?** Scrivimi all'indirizzo email indicato nella pagina Chi sono. Rispondo io, e le segnalazioni finiscono negli aggiornamenti.
+- **Perché alcune app sono a pagamento?** Non vendo dati e non uso server: il prezzo paga lo sviluppo e gli aggiornamenti. Cifra ha una versione gratuita; EMIA e Batonkey hanno una prova gratuita.
+- **Quando escono Batonkey, Turbofuel e Benarri?** Sono in sviluppo. Quando escono su Google Play, le loro pagine su questo sito riportano il link e lo storico delle versioni.
 
 ## Domande frequenti: Cifra e Cifra+
 - **Cifra è gratuita?** Sì. Cifra è gratuita e senza pubblicità. Cifra+ costa 5,99 € con un pagamento unico su Google Play, senza abbonamento.
@@ -46,11 +58,11 @@
 - **Da dove vengono le fasce di riferimento?** Da enti ufficiali come OMS, Istituto Superiore di Sanità, Ministero della Salute, AIFA ed EMA, citati nell'app.
 
 ## Domande frequenti: Batonkey
-- **A cosa serve Batonkey?** A far arrivare i codici di accesso e gli avvisi ricevuti da un telefono di servizio alla persona che ne ha bisogno, senza che qualcuno debba prendere in mano quel telefono.
+- **A cosa serve Batonkey?** A girare in automatico il contenuto di una notifica alla persona che ne ha bisogno, quando la notifica arriva su un telefono usato da più persone: un ufficio, un negozio, una famiglia.
 - **Quanto costa?** Il telefono Host ha una prova gratuita, poi costa 59,99 € l'anno. I telefoni Guest dei colleghi sono sempre gratuiti.
-- **Su quali canali inoltra?** Email e SMS in automatico; WhatsApp e Telegram con un tocco.
-- **Come evito che il codice arrivi alla persona sbagliata?** Con la prenotazione: il collega tocca l'operatore e per 5 minuti, regolabili, il messaggio successivo di quell'operatore arriva solo a lui.
-- **I messaggi passano da un server?** No. Batonkey non ha account e non usa server dello sviluppatore.
+- **Su quali canali inoltra?** Email in automatico, anche a schermo spento; SMS, WhatsApp e Telegram con un tocco.
+- **Posso limitare l'inoltro agli orari di lavoro?** Sì, con il calendario settimanale delle regole.
+- **Le notifiche passano da un server?** No. Batonkey legge le notifiche solo sul telefono e non ha account né server dello sviluppatore.
 
 ## Domande frequenti: Turbofuel
 - **Per quali mezzi funziona Turbofuel?** Moto, scooter, auto e furgoni. Moto e scooter sono gratuiti; auto e furgoni sono nella versione PRO.
