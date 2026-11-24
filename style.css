@@ -163,3 +163,28 @@ h1,h2,h3{font-family:"Space Grotesk",Inter,system-ui,sans-serif;font-weight:700;
 .qa .ans p{margin:0;line-height:1.6}
 @media (max-width:700px){.qhead h2{font-size:20px}.qlink{display:none}.qa summary{font-size:16px}}
 .changelog summary time{margin-left:10px}
+.vhero{background:#111117;color:#fff;padding:56px 0 0;text-align:center}
+.vhero h1{font-size:clamp(44px,8vw,88px);margin:6px 0 10px;letter-spacing:-.02em}
+.vhero .sub{color:#C9CEDD;max-width:640px;margin:0 auto}
+.vhero .eyebrow{color:#9DB0F0}
+.vbanner{display:block;width:100%;height:auto;margin-top:34px}
+.vbanner,.vgrid img{-webkit-user-select:none;user-select:none;-webkit-user-drag:none;-webkit-touch-callout:none;pointer-events:none}
+.vblock{padding:48px 0;max-width:860px}
+.vhow{list-style:none;padding:0;counter-reset:v;margin:0}
+.vhow li{counter-increment:v;position:relative;padding:14px 0 14px 54px;border-bottom:1px solid #DCE2F0;font-size:17px}
+.vhow li::before{content:counter(v);position:absolute;left:0;top:10px;width:36px;height:36px;border-radius:50%;background:#111117;color:#fff;display:flex;align-items:center;justify-content:center;font-weight:700}
+.vdark{background:#111117;color:#fff;padding:48px 0 56px}
+.vdark h2{color:#fff;margin-bottom:6px}
+.vdark .muted{color:#9AA2B8}
+.vgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(170px,1fr));gap:18px;margin-top:26px}
+.vtile{margin:0;background:#1B1B23;border-radius:14px;overflow:hidden}
+.vtile img{display:block;width:100%;height:auto;aspect-ratio:1}
+.vtile figcaption{padding:10px 12px 14px;font-size:14px;color:#DDE1EC;line-height:1.35}
+.vnum{display:block;font-weight:700;font-size:16px;color:#fff;margin-bottom:2px;letter-spacing:.02em}
+.varchive{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px;margin:18px 0 26px}
+.vseries{border:1px solid #DCE2F0;border-radius:14px;padding:18px 20px;background:#fff}
+.vseries.on{border-color:#111117;box-shadow:0 0 0 1px #111117}
+.vs-n{font-size:40px;font-weight:700;margin:0;line-height:1.1}
+.vs-s{font-weight:600;margin:6px 0 2px}
+.vseries:not(.on){opacity:.75}
+@media (max-width:700px){.vgrid{grid-template-columns:repeat(2,1fr);gap:12px}.vhero{padding-top:40px}}
