@@ -142,3 +142,23 @@ h1,h2,h3{font-family:"Space Grotesk",Inter,system-ui,sans-serif;font-weight:700;
 .flag{width:20px;height:14px;border-radius:2px;box-shadow:0 0 0 1px rgba(0,0,0,.15);margin-right:8px;flex:none;object-fit:cover}
 .langs summary .flag{margin-right:6px}
 .foot-links a{display:inline-flex;align-items:center}
+.chips{list-style:none;display:flex;flex-wrap:wrap;gap:8px;padding:0;margin:22px 0 0}
+.chips a{display:inline-flex;align-items:center;gap:8px;background:#fff;border:1px solid #DCE2F0;border-radius:999px;padding:8px 14px 8px 8px;min-height:44px;color:#0a1640;text-decoration:none;font-weight:600;font-size:15px}
+.chips a:hover{border-color:#2F5BFF}
+.chipicon{width:26px;height:26px;border-radius:7px}
+.faqpage{max-width:860px;padding-top:8px;padding-bottom:56px}
+.qgroup{margin:40px 0 0;scroll-margin-top:24px}
+.qhead{display:flex;align-items:center;gap:14px;margin-bottom:14px}
+.qhead img{border-radius:11px;flex:none}
+.qhead h2{margin:0;font-size:24px}
+.qhead p{margin:2px 0 0;font-size:14px}
+.qlink{margin-left:auto;font-weight:600;font-size:15px;white-space:nowrap}
+.qa details{background:#fff;border:1px solid #DCE2F0;border-radius:12px;margin:0 0 10px;transition:border-color .15s}
+.qa details[open]{border-color:#9DB0F0;box-shadow:0 2px 10px rgba(10,22,64,.06)}
+.qa summary{list-style:none;cursor:pointer;font-weight:600;font-size:17px;padding:16px 52px 16px 18px;position:relative;min-height:44px}
+.qa summary::-webkit-details-marker{display:none}
+.qa summary::after{content:"";position:absolute;right:20px;top:50%;width:9px;height:9px;border-right:2px solid #2F5BFF;border-bottom:2px solid #2F5BFF;transform:translateY(-70%) rotate(45deg);transition:transform .15s}
+.qa details[open] summary::after{transform:translateY(-30%) rotate(-135deg)}
+.qa .ans{padding:0 18px 16px;color:#2E3A5C}
+.qa .ans p{margin:0;line-height:1.6}
+@media (max-width:700px){.qhead h2{font-size:20px}.qlink{display:none}.qa summary{font-size:16px}}
