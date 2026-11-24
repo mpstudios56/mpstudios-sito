@@ -1,0 +1,56 @@
+# MPStudios
+
+> MPStudios è il marchio di Marcello Pandolfo (Italia) per app Android senza account e senza server dello sviluppatore, e per la linea di abbigliamento 20¹ su Etsy. I dati degli utenti restano sul telefono o nel cloud scelto da loro.
+
+## App
+- [Cifra e Cifra+](https://mpstudios.eu/cifra/): Cifra è un'app Android per le finanze personali: conti, movimenti, budget e report restano sul telefono. Non chiede account, non mostra pubblicità e non usa server dello sviluppatore. Prezzo: Cifra gratuita · Cifra+ 5,99 €, pagamento unico. Stato: Su Google Play. English: https://mpstudios.eu/en/cifra/
+- [EMIA](https://mpstudios.eu/emia/): EMIA è un'app Android che tiene in ordine referti, analisi, terapie, vaccini, gravidanza, scadenze e appuntamenti di tutta la famiglia, amici a 4 zampe compresi. I dati restano sul telefono. Prezzo: Prova gratuita di 60 giorni · da 14,99 € l'anno o 29,99 € una tantum. Stato: Su Google Play. English: https://mpstudios.eu/en/emia/
+- [Batonkey](https://mpstudios.eu/batonkey/): Batonkey è un'app Android per aziende: il telefono di servizio riceve codici di accesso, avvisi dei portali e allarmi, e Batonkey li inoltra subito al collega giusto secondo regole decise da te. Prezzo: Telefono Host: prova gratuita, poi 59,99 € l'anno · Telefoni Guest: gratuiti. Stato: In arrivo su Google Play. English: https://mpstudios.eu/en/batonkey/
+- [Turbofuel](https://mpstudios.eu/turbofuel/): Turbofuel è un'app Android per la manutenzione di moto, scooter, auto e furgoni: mostra cosa è a posto, cosa è vicino e cosa è scaduto, con storico degli interventi, scadenze e documenti del mezzo. Prezzo: Moto e scooter gratuiti · auto e furgoni nella versione PRO. Stato: In sviluppo. English: https://mpstudios.eu/en/turbofuel/
+- [Benarri](https://mpstudios.eu/benarri/): Benarri è una guida digitale per gli ospiti di una casa vacanza: Wi-Fi, chiavi, regole, parcheggio, contatti, bus ed emergenze in cinque lingue. Sostituisce il raccoglitore cartaceo e i lunghi messaggi su WhatsApp. Prezzo: Benarri per gli ospiti: gratuita · Benarri Host: a pagamento. Stato: In sviluppo. English: https://mpstudios.eu/en/benarri/
+
+## Guide
+- [Codici OTP su una SIM aziendale condivisa: come farli arrivare al collega giusto](https://mpstudios.eu/guide/codici-otp-sim-aziendale/): Quando il codice di accesso arriva sul telefono di servizio e serve a un collega: le soluzioni manuali, i loro limiti e come automatizzare l'inoltro.
+- [App per le spese personali senza account e senza server: cosa controllare prima di sceglierla](https://mpstudios.eu/guide/app-spese-senza-account/): Cinque domande da farsi prima di affidare i propri conti a un'app: dove finiscono i dati, come si fa il backup, come si importano i movimenti.
+- [Referti, terapie e scadenze sanitarie della famiglia: come tenerli in ordine sul telefono](https://mpstudios.eu/guide/referti-famiglia-telefono/): Un metodo pratico per non perdere referti, scadenze dei vaccini e terapie di tutta la famiglia, con i dati che restano sul telefono.
+
+## Chi c'è dietro
+- [Marcello Pandolfo](https://mpstudios.eu/chi-sono/): consulente IT e telecomunicazioni, sviluppatore delle app MPStudios. LinkedIn: https://www.linkedin.com/in/marcellopandolfo/
+
+## Link ufficiali
+- Google Play: https://play.google.com/store/apps/dev?id=8012076692318989473
+- GitHub: https://github.com/mpstudios56
+- Etsy: https://www.etsy.com/shop/MPStudios56
+
+## Domande frequenti: Cifra e Cifra+
+- **Cifra è gratuita?** Sì. Cifra è gratuita e senza pubblicità. Cifra+ costa 5,99 € con un pagamento unico su Google Play, senza abbonamento.
+- **Serve creare un account?** No. Cifra si installa e si usa senza registrazione.
+- **Dove vengono salvati i miei dati?** Sul telefono. Il backup va dove scegli tu: un file sul telefono, Google Drive o Dropbox. Lo sviluppatore non riceve i dati.
+- **Cosa aggiunge Cifra+ rispetto a Cifra?** La registrazione automatica dei movimenti letti dalle notifiche della banca, la lettura degli scontrini con la fotocamera, la rateizzazione e i conti condivisi fra due persone.
+- **Posso importare i movimenti da un'altra app?** Sì, da file CSV e QIF. Cifra esporta negli stessi formati.
+
+## Domande frequenti: EMIA
+- **Quanto costa EMIA?** I primi 60 giorni sono gratuiti con tutte le funzioni. Poi EMIA costa 14,99 € l'anno o 29,99 € una tantum per una persona; EMIA Family 29,99 € l'anno o 59,99 € una tantum; EMIA Family Plus 39,99 € l'anno o 79,99 € una tantum.
+- **EMIA fa diagnosi?** No. EMIA ordina i dati e segnala i valori fuori dalle fasce di riferimento. La lettura dei risultati resta al medico.
+- **Dove finiscono i dati sanitari?** Restano sul telefono, nel backup scelto da te e, se la attivi, nella cartella condivisa della famiglia. EMIA non ha account né server.
+- **Posso gestire tutta la famiglia e gli animali?** Sì. EMIA Family copre tutta la famiglia; EMIA Family Plus aggiunge gli amici a 4 zampe e la famiglia su più telefoni.
+- **Da dove vengono le fasce di riferimento?** Da enti ufficiali come OMS, Istituto Superiore di Sanità, Ministero della Salute, AIFA ed EMA, citati nell'app.
+
+## Domande frequenti: Batonkey
+- **A cosa serve Batonkey?** A far arrivare i codici di accesso e gli avvisi ricevuti da un telefono di servizio alla persona che ne ha bisogno, senza che qualcuno debba prendere in mano quel telefono.
+- **Quanto costa?** Il telefono Host ha una prova gratuita, poi costa 59,99 € l'anno. I telefoni Guest dei colleghi sono sempre gratuiti.
+- **Su quali canali inoltra?** Email e SMS in automatico; WhatsApp e Telegram con un tocco.
+- **Come evito che il codice arrivi alla persona sbagliata?** Con la prenotazione: il collega tocca l'operatore e per 5 minuti, regolabili, il messaggio successivo di quell'operatore arriva solo a lui.
+- **I messaggi passano da un server?** No. Batonkey non ha account e non usa server dello sviluppatore.
+
+## Domande frequenti: Turbofuel
+- **Per quali mezzi funziona Turbofuel?** Moto, scooter, auto e furgoni. Moto e scooter sono gratuiti; auto e furgoni sono nella versione PRO.
+- **Come registra i chilometri?** Con la fotocamera: si inquadra il contachilometri e si conferma il numero. Funziona senza internet.
+- **Mi ricorda bollo, assicurazione e revisione?** Sì. Le scadenze entrano nel calendario del telefono con avvisi a 30, 10, 3 e 1 giorno.
+- **Dove salva i dati?** Sul telefono, con backup sul telefono e sul Google Drive dell'utente.
+
+## Domande frequenti: Benarri
+- **Gli ospiti devono installare un'app?** No. La guida si apre anche nel browser dal link condiviso; con l'app Benarri si legge anche senza rete.
+- **In quali lingue è la guida?** Italiano, inglese, tedesco, francese e spagnolo. La traduzione avviene sul telefono dell'host ed è gratuita.
+- **Dove sono salvati i dati?** Nel Google Drive dell'host, in una cartella Benarri. Non ci sono server dello sviluppatore.
+- **Funziona con Airbnb e Booking?** Benarri Host legge in sola lettura il calendario delle prenotazioni (iCal) per creare i soggiorni con le date giuste.

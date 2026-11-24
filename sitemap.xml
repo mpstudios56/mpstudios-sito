@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://mpstudios.eu/</loc><lastmod>2026-11-21</lastmod></url>
-  <url><loc>https://mpstudios.eu/cifra/</loc><lastmod>2026-11-21</lastmod></url>
-  <url><loc>https://mpstudios.eu/emia/</loc><lastmod>2026-11-21</lastmod></url>
-  <url><loc>https://mpstudios.eu/batonkey/</loc><lastmod>2026-11-21</lastmod></url>
-  <url><loc>https://mpstudios.eu/turbofuel/</loc><lastmod>2026-11-21</lastmod></url>
-  <url><loc>https://mpstudios.eu/benarri/</loc><lastmod>2026-11-21</lastmod></url>
-  <url><loc>https://mpstudios.eu/chi-sono/</loc><lastmod>2026-11-21</lastmod></url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url><loc>https://mpstudios.eu/</loc><lastmod>2026-11-21</lastmod><xhtml:link rel="alternate" hreflang="it" href="https://mpstudios.eu/"/><xhtml:link rel="alternate" hreflang="en" href="https://mpstudios.eu/en/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://mpstudios.eu/"/></url>
+  <url><loc>https://mpstudios.eu/en/</loc><lastmod>2026-11-21</lastmod><xhtml:link rel="alternate" hreflang="it" href="https://mpstudios.eu/"/><xhtml:link rel="alternate" hreflang="en" href="https://mpstudios.eu/en/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://mpstudios.eu/"/></url>
+  <url><loc>https://mpstudios.eu/chi-sono/</loc><lastmod>2026-11-21</lastmod><xhtml:link rel="alternate" hreflang="it" href="https://mpstudios.eu/chi-sono/"/><xhtml:link rel="alternate" hreflang="en" href="https://mpstudios.eu/en/about/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://mpstudios.eu/chi-sono/"/></url>
+  <url><loc>https://mpstudios.eu/en/about/</loc><lastmod>2026-11-21</lastmod><xhtml:link rel="alternate" hreflang="it" href="https://mpstudios.eu/chi-sono/"/><xhtml:link rel="alternate" hreflang="en" href="https://mpstudios.eu/en/about/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://mpstudios.eu/chi-sono/"/></url>
+  <url><loc>https://mpstudios.eu/cifra/</loc><lastmod>2026-11-21</lastmod><xhtml:link rel="alternate" hreflang="it" href="https://mpstudios.eu/cifra/"/><xhtml:link rel="alternate" hreflang="en" href="https://mpstudios.eu/en/cifra/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://mpstudios.eu/cifra/"/></url>
+  <url><loc>https://mpstudios.eu/en/cifra/</loc><lastmod>2026-11-21</lastmod><xhtml:link rel="alternate" hreflang="it" href="https://mpstudios.eu/cifra/"/><xhtml:link rel="alternate" hreflang="en" href="https://mpstudios.eu/en/cifra/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://mpstudios.eu/cifra/"/></url>
+  <url><loc>https://mpstudios.eu/emia/</loc><lastmod>2026-11-21</lastmod><xhtml:link rel="alternate" hreflang="it" href="https://mpstudios.eu/emia/"/><xhtml:link rel="alternate" hreflang="en" href="https://mpstudios.eu/en/emia/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://mpstudios.eu/emia/"/></url>
+  <url><loc>https://mpstudios.eu/en/emia/</loc><lastmod>2026-11-21</lastmod><xhtml:link rel="alternate" hreflang="it" href="https://mpstudios.eu/emia/"/><xhtml:link rel="alternate" hreflang="en" href="https://mpstudios.eu/en/emia/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://mpstudios.eu/emia/"/></url>
+  <url><loc>https://mpstudios.eu/batonkey/</loc><lastmod>2026-11-21</lastmod><xhtml:link rel="alternate" hreflang="it" href="https://mpstudios.eu/batonkey/"/><xhtml:link rel="alternate" hreflang="en" href="https://mpstudios.eu/en/batonkey/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://mpstudios.eu/batonkey/"/></url>
+  <url><loc>https://mpstudios.eu/en/batonkey/</loc><lastmod>2026-11-21</lastmod><xhtml:link rel="alternate" hreflang="it" href="https://mpstudios.eu/batonkey/"/><xhtml:link rel="alternate" hreflang="en" href="https://mpstudios.eu/en/batonkey/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://mpstudios.eu/batonkey/"/></url>
+  <url><loc>https://mpstudios.eu/turbofuel/</loc><lastmod>2026-11-21</lastmod><xhtml:link rel="alternate" hreflang="it" href="https://mpstudios.eu/turbofuel/"/><xhtml:link rel="alternate" hreflang="en" href="https://mpstudios.eu/en/turbofuel/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://mpstudios.eu/turbofuel/"/></url>
+  <url><loc>https://mpstudios.eu/en/turbofuel/</loc><lastmod>2026-11-21</lastmod><xhtml:link rel="alternate" hreflang="it" href="https://mpstudios.eu/turbofuel/"/><xhtml:link rel="alternate" hreflang="en" href="https://mpstudios.eu/en/turbofuel/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://mpstudios.eu/turbofuel/"/></url>
+  <url><loc>https://mpstudios.eu/benarri/</loc><lastmod>2026-11-21</lastmod><xhtml:link rel="alternate" hreflang="it" href="https://mpstudios.eu/benarri/"/><xhtml:link rel="alternate" hreflang="en" href="https://mpstudios.eu/en/benarri/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://mpstudios.eu/benarri/"/></url>
+  <url><loc>https://mpstudios.eu/en/benarri/</loc><lastmod>2026-11-21</lastmod><xhtml:link rel="alternate" hreflang="it" href="https://mpstudios.eu/benarri/"/><xhtml:link rel="alternate" hreflang="en" href="https://mpstudios.eu/en/benarri/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://mpstudios.eu/benarri/"/></url>
+  <url><loc>https://mpstudios.eu/guide/</loc><lastmod>2026-11-21</lastmod></url>
+  <url><loc>https://mpstudios.eu/guide/codici-otp-sim-aziendale/</loc><lastmod>2026-11-21</lastmod></url>
+  <url><loc>https://mpstudios.eu/guide/app-spese-senza-account/</loc><lastmod>2026-11-21</lastmod></url>
+  <url><loc>https://mpstudios.eu/guide/referti-famiglia-telefono/</loc><lastmod>2026-11-21</lastmod></url>
 </urlset>
