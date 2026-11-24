@@ -2,12 +2,12 @@
 
 # Italiano
 
-## Cifra e Cifra+ · Finanze personali
+## Cifra e Cifra+ | Finanze personali
 URL: https://mpstudios.eu/cifra/
 
 Cifra è un'app Android per le finanze personali: conti, movimenti, budget e report restano sul telefono. Non chiede account, non mostra pubblicità e non usa server dello sviluppatore.
 
-Cifra gratuita · Cifra+ 5,99 €, pagamento unico
+Cifra gratuita; Cifra+ 5,99 €, pagamento unico
 
 ### Conti e movimenti
 - Conti correnti, carte, contanti, depositi e titoli, crediti e debiti, con il marchio della banca e un colore per ogni conto.
@@ -40,18 +40,19 @@ Cifra gratuita · Cifra+ 5,99 €, pagamento unico
 - **Posso importare i movimenti da un'altra app?** Sì, da file CSV e QIF. Cifra esporta negli stessi formati.
 
 ### Storico delle versioni
+- 2.5.0 (19/11/2026): Prima versione di Cifra+ in produzione su Google Play. Movimenti: quando si apre o si chiude un anno, la rotellina di caricamento non resta più a lungo sullo schermo.
 - 2.4.9 (12/11/2026): Movimenti: chiudere un anno nell'elenco è immediato anche con molti anni di movimenti; prima l'app poteva bloccarsi.
 - 2.4.5 (23/10/2026): Backup: le copie sono elencate nella pagina del backup e si ripristinano o cancellano con un tocco; il backup completo contiene anche le foto. Un backup di Cifra+ si ripristina anche su Cifra, con l'elenco delle parti escluse. Movimenti collegati: opzione per mantenere l'importo di ogni modello. Pianificatore: ordine dai più recenti o dai più vecchi. Ricerca: progetti, beneficiari e luoghi più usati compaiono per primi.
 - 2.4.4 (20/10/2026): Tema chiaro: in Preferenze › Aspetto › Tema si sceglie scuro, chiaro o come il telefono. Operazioni su più movimenti: si parte senza movimenti spuntati. Correzioni di leggibilità.
 - 2.4.3 (18/10/2026): Avvio guidato: al primo avvio Cifra imposta con te i conti e, se vuoi, il risparmio del 10% delle entrate con un trasferimento mensile. Movimenti mostrati allo stesso modo in tutte le liste, con l'icona della categoria. Schermate di importazione ed esportazione rinnovate; tema chiaro più curato.
 - 2.4.0 (06/10/2026): Prima versione pubblica di Cifra su Google Play. Pagina «Aiuto e avvisi»: domande e risposte, con accanto gli avvisi sugli aggiornamenti. Breve giro di benvenuto al primo avvio.
 
-## EMIA · Salute della famiglia
+## EMIA | Salute della famiglia
 URL: https://mpstudios.eu/emia/
 
 EMIA è un'app Android che tiene in ordine referti, analisi, terapie, vaccini, gravidanza, scadenze e appuntamenti di tutta la famiglia, amici a 4 zampe compresi. I dati restano sul telefono.
 
-Prova gratuita di 60 giorni · da 14,99 € l'anno o 29,99 € una tantum
+Prova gratuita di 60 giorni; da 14,99 € l'anno o 29,99 € una tantum
 
 ### Referti ed esami
 - Inserimento da PDF, da immagine, con la fotocamera o a mano, con lettura dei valori sul telefono.
@@ -85,12 +86,12 @@ Prova gratuita di 60 giorni · da 14,99 € l'anno o 29,99 € una tantum
 - 1.3.0 (19/11/2026): Allattamento al seno: per i farmaci della mamma, avviso tratto dal Riassunto delle caratteristiche del prodotto (AIFA, par. 4.6) su 3.062 principi attivi. Backup locale anche in una cartella che resta sul telefono dopo la disinstallazione; ripristino da Google Drive o da file già dalla guida iniziale. Capofamiglia: le modifiche dagli altri telefoni entrano solo dopo la sua approvazione. Periodo degli appuntamenti nel widget a scelta (1, 3, 6, 12 mesi o tutti).
 - 1.2.0 (19/11/2026): Prima versione in produzione su Google Play. Nuove sezioni Denti ed Esenzioni e pratiche, con avvisi di scadenza. Glicemia con il momento della misura, picco di flusso per asma e BPCO, INR con la dose dell'anticoagulante; temperatura e battito. Avvisi sui farmaci che interferiscono con pillola, anello o cerotto (AIFA). Stile di vita e screening dei tumori secondo età, sesso e paese di residenza.
 
-## Batonkey · Inoltro automatico delle notifiche
+## Batonkey | Inoltro automatico delle notifiche
 URL: https://mpstudios.eu/batonkey/
 
 Batonkey è un'app Android che legge le notifiche del telefono e ne inoltra il contenuto alle persone che scegli tu, secondo regole decise da te: via email in automatico, anche a schermo spento, oppure via SMS, WhatsApp o Telegram con un tocco.
 
-Telefono Host: prova gratuita, poi 59,99 € l'anno · Telefoni Guest: gratuiti
+Telefono Host: prova gratuita, poi 59,99 € l'anno; Telefoni Guest: gratuiti
 
 ### Regole di inoltro
 - Una regola si crea partendo da una notifica già ricevuta: l'app compila quasi tutto da sola.
@@ -116,12 +117,12 @@ Telefono Host: prova gratuita, poi 59,99 € l'anno · Telefoni Guest: gratuiti
 - **Posso limitare l'inoltro agli orari di lavoro?** Sì, con il calendario settimanale delle regole.
 - **Le notifiche passano da un server?** No. Batonkey legge le notifiche solo sul telefono e non ha account né server dello sviluppatore.
 
-## Turbofuel · Manutenzione di moto e auto
+## Turbofuel | Manutenzione di moto e auto
 URL: https://mpstudios.eu/turbofuel/
 
 Turbofuel è un'app Android per la manutenzione di moto, scooter, auto e furgoni: mostra cosa è a posto, cosa è vicino e cosa è scaduto, con storico degli interventi, scadenze e documenti del mezzo.
 
-Moto e scooter gratuiti · auto e furgoni nella versione PRO
+Moto e scooter gratuiti; auto e furgoni nella versione PRO
 
 ### Cruscotto e mezzi
 - Contachilometri, prossimo tagliando e stato di ogni componente: olio, catena, gomme, freni, filtri.
@@ -144,12 +145,12 @@ Moto e scooter gratuiti · auto e furgoni nella versione PRO
 - **Mi ricorda bollo, assicurazione e revisione?** Sì. Le scadenze entrano nel calendario del telefono con avvisi a 30, 10, 3 e 1 giorno.
 - **Dove salva i dati?** Sul telefono, con backup sul telefono e sul Google Drive dell'utente.
 
-## Benarri · Guida digitale della casa vacanza
+## Benarri | Guida digitale della casa vacanza
 URL: https://mpstudios.eu/benarri/
 
 Benarri è una guida digitale per gli ospiti di una casa vacanza: Wi-Fi, chiavi, regole, parcheggio, contatti, bus ed emergenze in cinque lingue. Sostituisce il raccoglitore cartaceo e i lunghi messaggi su WhatsApp.
 
-Benarri per gli ospiti: gratuita · Benarri Host: a pagamento
+Benarri per gli ospiti: gratuita; Benarri Host: a pagamento
 
 ### Benarri Host, per chi affitta
 - Una guida per ogni appartamento, con logo e colori propri.
@@ -327,12 +328,12 @@ Per far arrivare in automatico a un'altra persona il contenuto di una notifica A
 
 # English
 
-## Cifra and Cifra+ · Personal finance
+## Cifra and Cifra+ | Personal finance
 URL: https://mpstudios.eu/en/cifra/
 
 Cifra is an Android personal finance app: accounts, transactions, budgets and reports stay on your phone. No account, no ads and no developer servers.
 
-Cifra free · Cifra+ €5.99, one-time purchase
+Cifra free; Cifra+ €5.99, one-time purchase
 
 ### Accounts and transactions
 - Current accounts, cards, cash, deposits and securities, credits and debts, each with its bank logo and colour.
@@ -365,18 +366,19 @@ Cifra free · Cifra+ €5.99, one-time purchase
 - **Can I import transactions from another app?** Yes, from CSV and QIF files. Cifra exports in the same formats.
 
 ### Version history
+- 2.5.0 (19 November 2026): First production release of Cifra+ on Google Play. Transactions: when a year is opened or folded, the loading wheel no longer stays on screen for long.
 - 2.4.9 (12 November 2026): Transactions: folding a year in the list is instant even with many years of entries; before, the app could freeze.
 - 2.4.5 (23 October 2026): Backup: copies are listed on the backup page and restored or deleted with a tap; the full backup now includes photos. A Cifra+ backup can be restored on Cifra, with a list of the parts left out. Linked transactions: option to keep each template's amount. Planner: sort from newest or oldest. Search: the most used projects, payees and places appear first.
 - 2.4.4 (20 October 2026): Light theme: in Preferences › Appearance › Theme choose dark, light or as the phone. Multi-transaction operations: nothing is ticked at the start. Readability fixes.
 - 2.4.3 (18 October 2026): Guided start: on first launch Cifra sets up your accounts with you and, if you wish, saving 10% of income with a monthly transfer. Transactions shown the same way in every list, with the category icon. Redesigned import and export screens; a more polished light theme.
 - 2.4.0 (6 October 2026): First public release of Cifra on Google Play. «Help and notices» page: questions and answers, with the update notices beside them. Short welcome tour on first launch.
 
-## EMIA · Family health
+## EMIA | Family health
 URL: https://mpstudios.eu/en/emia/
 
 EMIA is an Android app that keeps your whole family's lab reports, tests, treatments, vaccines, pregnancy, deadlines and appointments in order, pets included. Your data stays on your phone.
 
-60-day free trial · from €14.99 a year or €29.99 lifetime
+60-day free trial; from €14.99 a year or €29.99 lifetime
 
 ### Lab reports and tests
 - Add reports from PDF, image, camera or by hand, with values read on the phone.
@@ -410,12 +412,12 @@ EMIA is an Android app that keeps your whole family's lab reports, tests, treatm
 - 1.3.0 (19 November 2026): Breastfeeding: for the mother's medicines, a warning taken from the Summary of Product Characteristics (AIFA, section 4.6) covering 3,062 active ingredients. Local backup also in a folder that stays on the phone after uninstalling; restore from Google Drive or a file right from the setup guide. Head of family: changes from other phones come in only after their approval. Choice of the period shown in the widget (1, 3, 6, 12 months or all).
 - 1.2.0 (19 November 2026): First production release on Google Play. New Teeth and Exemptions and paperwork sections, with deadline alerts. Blood glucose with the time of measurement, peak flow for asthma and COPD, INR with the anticoagulant dose; temperature and heart rate. Warnings about medicines that interfere with the pill, ring or patch (AIFA). Lifestyle and cancer screening by age, sex and country of residence.
 
-## Batonkey · Automatic notification forwarding
+## Batonkey | Automatic notification forwarding
 URL: https://mpstudios.eu/en/batonkey/
 
 Batonkey is an Android app that reads the phone's notifications and forwards their content to the people you choose, following rules you set: by email automatically, even with the screen off, or by SMS, WhatsApp or Telegram with one tap.
 
-Host phone: free trial, then €59.99 a year · Guest phones: free
+Host phone: free trial, then €59.99 a year; Guest phones: free
 
 ### Forwarding rules
 - Create a rule from a notification you already received: the app fills in almost everything.
@@ -441,12 +443,12 @@ Host phone: free trial, then €59.99 a year · Guest phones: free
 - **Can I limit forwarding to working hours?** Yes, with the rules' weekly schedule.
 - **Do notifications go through a server?** No. Batonkey reads notifications only on the phone and has no accounts or developer servers.
 
-## Turbofuel · Motorbike and car maintenance
+## Turbofuel | Motorbike and car maintenance
 URL: https://mpstudios.eu/en/turbofuel/
 
 Turbofuel is an Android app for maintaining motorbikes, scooters, cars and vans: it shows what is fine, what is due soon and what is overdue, with service history, deadlines and vehicle documents.
 
-Motorbikes and scooters free · cars and vans in the PRO version
+Motorbikes and scooters free; cars and vans in the PRO version
 
 ### Dashboard and vehicles
 - Odometer, next service and the state of every part: oil, chain, tyres, brakes, filters.
@@ -469,12 +471,12 @@ Motorbikes and scooters free · cars and vans in the PRO version
 - **Does it remind me about road tax, insurance and inspection?** Yes. Deadlines go into the phone calendar with alerts 30, 10, 3 and 1 day before.
 - **Where is the data stored?** On the phone, with backups on the phone and on the user's Google Drive.
 
-## Benarri · Digital guest guide for holiday homes
+## Benarri | Digital guest guide for holiday homes
 URL: https://mpstudios.eu/en/benarri/
 
 Benarri is a digital guide for holiday home guests: Wi-Fi, keys, house rules, parking, contacts, buses and emergencies in five languages. It replaces the paper binder and long WhatsApp messages.
 
-Benarri for guests: free · Benarri Host: paid
+Benarri for guests: free; Benarri Host: paid
 
 ### Benarri Host, for hosts
 - One guide per apartment, with its own logo and colours.
@@ -652,12 +654,12 @@ To send the content of an Android notification to another person automatically, 
 
 # Español
 
-## Cifra y Cifra+ · Finanzas personales
+## Cifra y Cifra+ | Finanzas personales
 URL: https://mpstudios.eu/es/cifra/
 
 Cifra es una app Android de finanzas personales: cuentas, movimientos, presupuestos e informes se quedan en el teléfono. No pide cuenta, no muestra publicidad y no usa servidores del desarrollador.
 
-Cifra gratuita · Cifra+ 5,99 €, pago único
+Cifra gratuita; Cifra+ 5,99 €, pago único
 
 ### Cuentas y movimientos
 - Cuentas corrientes, tarjetas, efectivo, depósitos y valores, créditos y deudas, con el logotipo del banco y un color para cada cuenta.
@@ -690,18 +692,19 @@ Cifra gratuita · Cifra+ 5,99 €, pago único
 - **¿Puedo importar los movimientos de otra app?** Sí, desde archivos CSV y QIF. Cifra exporta en los mismos formatos.
 
 ### Historial de versiones
+- 2.5.0 (19 de noviembre de 2026): Primera versión de Cifra+ en producción en Google Play. Movimientos: al abrir o plegar un año, la rueda de carga ya no se queda mucho tiempo en pantalla.
 - 2.4.9 (12 de noviembre de 2026): Movimientos: plegar un año en la lista es inmediato incluso con muchos años de movimientos; antes la app podía bloquearse.
 - 2.4.5 (23 de octubre de 2026): Copia de seguridad: las copias aparecen en su página y se restauran o borran con un toque; la copia completa incluye también las fotos. Una copia de Cifra+ se puede restaurar en Cifra, con la lista de las partes excluidas. Movimientos vinculados: opción para mantener el importe de cada plantilla. Planificador: orden de los más recientes o de los más antiguos. Búsqueda: los proyectos, beneficiarios y lugares más usados aparecen primero.
 - 2.4.4 (20 de octubre de 2026): Tema claro: en Preferencias › Aspecto › Tema se elige oscuro, claro o como el teléfono. Operaciones con varios movimientos: se empieza sin ningún movimiento marcado. Correcciones de legibilidad.
 - 2.4.3 (18 de octubre de 2026): Inicio guiado: la primera vez Cifra configura contigo las cuentas y, si quieres, el ahorro del 10% de los ingresos con una transferencia mensual. Movimientos mostrados igual en todas las listas, con el icono de la categoría. Pantallas de importación y exportación renovadas; tema claro más cuidado.
 - 2.4.0 (6 de octubre de 2026): Primera versión pública de Cifra en Google Play. Página «Ayuda y avisos»: preguntas y respuestas, junto a los avisos de actualización. Breve recorrido de bienvenida en el primer inicio.
 
-## EMIA · Salud de la familia
+## EMIA | Salud de la familia
 URL: https://mpstudios.eu/es/emia/
 
 EMIA es una app Android que ordena informes, análisis, tratamientos, vacunas, embarazo, vencimientos y citas de toda la familia, mascotas incluidas. Los datos se quedan en el teléfono.
 
-Prueba gratuita de 60 días · desde 14,99 € al año o 29,99 € de por vida
+Prueba gratuita de 60 días; desde 14,99 € al año o 29,99 € de por vida
 
 ### Informes y análisis
 - Entrada desde PDF, imagen, cámara o a mano, con lectura de los valores en el teléfono.
@@ -735,12 +738,12 @@ Prueba gratuita de 60 días · desde 14,99 € al año o 29,99 € de por vida
 - 1.3.0 (19 de noviembre de 2026): Lactancia materna: para los medicamentos de la madre, aviso tomado de la Ficha técnica (AIFA, apartado 4.6) sobre 3.062 principios activos. Copia local también en una carpeta que se queda en el teléfono tras desinstalar; restauración desde Google Drive o desde archivo ya en la guía inicial. Cabeza de familia: los cambios de los otros teléfonos entran solo tras su aprobación. Periodo de las citas del widget a elegir (1, 3, 6, 12 meses o todas).
 - 1.2.0 (19 de noviembre de 2026): Primera versión en producción en Google Play. Nuevas secciones Dientes y Exenciones y trámites, con avisos de vencimiento. Glucemia con el momento de la medición, flujo espiratorio máximo para asma y EPOC, INR con la dosis del anticoagulante; temperatura y pulso. Avisos sobre los medicamentos que interfieren con la píldora, el anillo o el parche (AIFA). Estilo de vida y cribado de tumores según edad, sexo y país de residencia.
 
-## Batonkey · Reenvío automático de notificaciones
+## Batonkey | Reenvío automático de notificaciones
 URL: https://mpstudios.eu/es/batonkey/
 
 Batonkey es una app Android que lee las notificaciones del teléfono y reenvía su contenido a las personas que elijas, según reglas que decides tú: por correo electrónico de forma automática, incluso con la pantalla apagada, o por SMS, WhatsApp o Telegram con un toque.
 
-Teléfono Host: prueba gratuita, después 59,99 € al año · Teléfonos Guest: gratuitos
+Teléfono Host: prueba gratuita, después 59,99 € al año; Teléfonos Guest: gratuitos
 
 ### Reglas de reenvío
 - Una regla se crea a partir de una notificación ya recibida: la app rellena casi todo sola.
@@ -766,12 +769,12 @@ Teléfono Host: prueba gratuita, después 59,99 € al año · Teléfonos Guest:
 - **¿Puedo limitar el reenvío al horario laboral?** Sí, con el calendario semanal de las reglas.
 - **¿Las notificaciones pasan por un servidor?** No. Batonkey lee las notificaciones solo en el teléfono y no tiene cuentas ni servidores del desarrollador.
 
-## Turbofuel · Mantenimiento de motos y coches
+## Turbofuel | Mantenimiento de motos y coches
 URL: https://mpstudios.eu/es/turbofuel/
 
 Turbofuel es una app Android para el mantenimiento de motos, scooters, coches y furgonetas: muestra qué está bien, qué se acerca y qué ha vencido, con el historial de intervenciones, los vencimientos y los documentos del vehículo.
 
-Motos y scooters gratis · coches y furgonetas en la versión PRO
+Motos y scooters gratis; coches y furgonetas en la versión PRO
 
 ### Panel y vehículos
 - Cuentakilómetros, próxima revisión y estado de cada componente: aceite, cadena, neumáticos, frenos, filtros.
@@ -794,12 +797,12 @@ Motos y scooters gratis · coches y furgonetas en la versión PRO
 - **¿Me recuerda el impuesto, el seguro y la inspección?** Sí. Los vencimientos entran en el calendario del teléfono con avisos 30, 10, 3 y 1 día antes.
 - **¿Dónde guarda los datos?** En el teléfono, con copia de seguridad en el teléfono y en el Google Drive del usuario.
 
-## Benarri · Guía digital de la casa vacacional
+## Benarri | Guía digital de la casa vacacional
 URL: https://mpstudios.eu/es/benarri/
 
 Benarri es una guía digital para los huéspedes de una casa vacacional: wifi, llaves, normas, aparcamiento, contactos, autobuses y emergencias en cinco idiomas. Sustituye la carpeta de papel y los mensajes largos de WhatsApp.
 
-Benarri para huéspedes: gratuita · Benarri Host: de pago
+Benarri para huéspedes: gratuita; Benarri Host: de pago
 
 ### Benarri Host, para quien alquila
 - Una guía para cada apartamento, con su logotipo y sus colores.
@@ -977,12 +980,12 @@ Para que el contenido de una notificación Android llegue automáticamente a otr
 
 # Français
 
-## Cifra et Cifra+ · Finances personnelles
+## Cifra et Cifra+ | Finances personnelles
 URL: https://mpstudios.eu/fr/cifra/
 
 Cifra est une application Android de finances personnelles : comptes, opérations, budgets et rapports restent sur le téléphone. Pas de compte, pas de publicité, pas de serveur du développeur.
 
-Cifra gratuite · Cifra+ 5,99 €, achat unique
+Cifra gratuite; Cifra+ 5,99 €, achat unique
 
 ### Comptes et opérations
 - Comptes courants, cartes, espèces, dépôts et titres, créances et dettes, avec le logo de la banque et une couleur par compte.
@@ -1015,18 +1018,19 @@ Cifra gratuite · Cifra+ 5,99 €, achat unique
 - **Puis-je importer les opérations d'une autre application ?** Oui, depuis des fichiers CSV et QIF. Cifra exporte dans les mêmes formats.
 
 ### Historique des versions
+- 2.5.0 (19 novembre 2026): Première version de Cifra+ en production sur Google Play. Opérations : quand on ouvre ou replie une année, l'indicateur de chargement ne reste plus longtemps à l'écran.
 - 2.4.9 (12 novembre 2026): Opérations : replier une année dans la liste est immédiat même avec de nombreuses années d'opérations ; auparavant l'application pouvait se bloquer.
 - 2.4.5 (23 octobre 2026): Sauvegarde : les copies sont listées sur la page de sauvegarde et se restaurent ou se suppriment d'un geste ; la sauvegarde complète inclut aussi les photos. Une sauvegarde de Cifra+ se restaure aussi sur Cifra, avec la liste des parties exclues. Opérations liées : option pour conserver le montant de chaque modèle. Planificateur : tri des plus récentes ou des plus anciennes. Recherche : les projets, bénéficiaires et lieux les plus utilisés apparaissent en premier.
 - 2.4.4 (20 octobre 2026): Thème clair : dans Préférences › Apparence › Thème, choisir sombre, clair ou comme le téléphone. Opérations sur plusieurs mouvements : aucune case n'est cochée au départ. Corrections de lisibilité.
 - 2.4.3 (18 octobre 2026): Démarrage guidé : au premier lancement, Cifra configure avec vous les comptes et, si vous le souhaitez, l'épargne de 10 % des revenus par un virement mensuel. Mouvements affichés de la même façon dans toutes les listes, avec l'icône de la catégorie. Écrans d'import et d'export refaits ; thème clair plus soigné.
 - 2.4.0 (6 octobre 2026): Première version publique de Cifra sur Google Play. Page « Aide et avis » : questions et réponses, à côté des avis de mise à jour. Courte visite de bienvenue au premier lancement.
 
-## EMIA · Santé de la famille
+## EMIA | Santé de la famille
 URL: https://mpstudios.eu/fr/emia/
 
 EMIA est une application Android qui range les comptes rendus, analyses, traitements, vaccins, grossesse, échéances et rendez-vous de toute la famille, animaux compris. Les données restent sur le téléphone.
 
-Essai gratuit de 60 jours · à partir de 14,99 € par an ou 29,99 € à vie
+Essai gratuit de 60 jours; à partir de 14,99 € par an ou 29,99 € à vie
 
 ### Comptes rendus et analyses
 - Saisie depuis un PDF, une image, l'appareil photo ou à la main, avec lecture des valeurs sur le téléphone.
@@ -1060,12 +1064,12 @@ Essai gratuit de 60 jours · à partir de 14,99 € par an ou 29,99 € à vie
 - 1.3.0 (19 novembre 2026): Allaitement : pour les médicaments de la mère, un avertissement tiré du Résumé des caractéristiques du produit (AIFA, rubrique 4.6) sur 3 062 principes actifs. Sauvegarde locale aussi dans un dossier qui reste sur le téléphone après désinstallation ; restauration depuis Google Drive ou un fichier dès le guide de démarrage. Chef de famille : les modifications venant des autres téléphones n'entrent qu'après son approbation. Période des rendez-vous du widget au choix (1, 3, 6, 12 mois ou tous).
 - 1.2.0 (19 novembre 2026): Première version en production sur Google Play. Nouvelles sections Dents et Exonérations et démarches, avec rappels d'échéance. Glycémie avec le moment de la mesure, débit expiratoire de pointe pour l'asthme et la BPCO, INR avec la dose d'anticoagulant ; température et pouls. Avertissements sur les médicaments qui interfèrent avec la pilule, l'anneau ou le patch (AIFA). Mode de vie et dépistage des cancers selon l'âge, le sexe et le pays de résidence.
 
-## Batonkey · Transfert automatique des notifications
+## Batonkey | Transfert automatique des notifications
 URL: https://mpstudios.eu/fr/batonkey/
 
 Batonkey est une application Android qui lit les notifications du téléphone et en transfère le contenu aux personnes que vous choisissez, selon vos règles : par e-mail automatiquement, même écran éteint, ou par SMS, WhatsApp ou Telegram d'un geste.
 
-Téléphone Host : essai gratuit, puis 59,99 € par an · Téléphones Guest : gratuits
+Téléphone Host : essai gratuit, puis 59,99 € par an; Téléphones Guest : gratuits
 
 ### Règles de transfert
 - Une règle se crée à partir d'une notification déjà reçue : l'application remplit presque tout.
@@ -1091,12 +1095,12 @@ Téléphone Host : essai gratuit, puis 59,99 € par an · Téléphones Guest : 
 - **Puis-je limiter le transfert aux heures de travail ?** Oui, avec le calendrier hebdomadaire des règles.
 - **Les notifications passent-elles par un serveur ?** Non. Batonkey lit les notifications uniquement sur le téléphone et n'a ni compte ni serveur du développeur.
 
-## Turbofuel · Entretien des motos et voitures
+## Turbofuel | Entretien des motos et voitures
 URL: https://mpstudios.eu/fr/turbofuel/
 
 Turbofuel est une application Android pour l'entretien des motos, scooters, voitures et utilitaires : elle montre ce qui est en ordre, ce qui approche et ce qui est dépassé, avec l'historique des interventions, les échéances et les documents du véhicule.
 
-Motos et scooters gratuits · voitures et utilitaires dans la version PRO
+Motos et scooters gratuits; voitures et utilitaires dans la version PRO
 
 ### Tableau de bord et véhicules
 - Compteur kilométrique, prochaine révision et état de chaque pièce : huile, chaîne, pneus, freins, filtres.
@@ -1119,12 +1123,12 @@ Motos et scooters gratuits · voitures et utilitaires dans la version PRO
 - **Me rappelle-t-elle la taxe, l'assurance et le contrôle technique ?** Oui. Les échéances entrent dans le calendrier du téléphone avec rappels 30, 10, 3 et 1 jour avant.
 - **Où sont enregistrées les données ?** Sur le téléphone, avec sauvegarde sur le téléphone et sur le Google Drive de l'utilisateur.
 
-## Benarri · Guide numérique de la location de vacances
+## Benarri | Guide numérique de la location de vacances
 URL: https://mpstudios.eu/fr/benarri/
 
 Benarri est un guide numérique pour les voyageurs d'une location de vacances : Wi-Fi, clés, règles, stationnement, contacts, bus et urgences en cinq langues. Il remplace le classeur papier et les longs messages WhatsApp.
 
-Benarri pour les voyageurs : gratuit · Benarri Host : payant
+Benarri pour les voyageurs : gratuit; Benarri Host : payant
 
 ### Benarri Host, pour les loueurs
 - Un guide par logement, avec son logo et ses couleurs.
@@ -1302,12 +1306,12 @@ Pour envoyer automatiquement à une autre personne le contenu d'une notification
 
 # Deutsch
 
-## Cifra und Cifra+ · Persönliche Finanzen
+## Cifra und Cifra+ | Persönliche Finanzen
 URL: https://mpstudios.eu/de/cifra/
 
 Cifra ist eine Android-App für die persönlichen Finanzen: Konten, Buchungen, Budgets und Berichte bleiben auf dem Telefon. Kein Konto, keine Werbung, keine Server des Entwicklers.
 
-Cifra kostenlos · Cifra+ 5,99 €, Einmalkauf
+Cifra kostenlos; Cifra+ 5,99 €, Einmalkauf
 
 ### Konten und Buchungen
 - Girokonten, Karten, Bargeld, Depots und Wertpapiere, Forderungen und Schulden, mit Bank-Logo und eigener Farbe für jedes Konto.
@@ -1340,18 +1344,19 @@ Cifra kostenlos · Cifra+ 5,99 €, Einmalkauf
 - **Kann ich Buchungen aus einer anderen App importieren?** Ja, aus CSV- und QIF-Dateien. Cifra exportiert in denselben Formaten.
 
 ### Versionsverlauf
+- 2.5.0 (19. November 2026): Erste Produktionsversion von Cifra+ bei Google Play. Buchungen: Beim Öffnen oder Zuklappen eines Jahres bleibt das Ladesymbol nicht mehr lange auf dem Bildschirm.
 - 2.4.9 (12. November 2026): Buchungen: Ein Jahr in der Liste zuzuklappen geht sofort, auch bei vielen Jahren an Buchungen; vorher konnte die App hängen bleiben.
 - 2.4.5 (23. Oktober 2026): Sicherung: Die Kopien stehen auf der Sicherungsseite und lassen sich mit einem Tippen wiederherstellen oder löschen; die vollständige Sicherung enthält auch die Fotos. Eine Cifra+-Sicherung lässt sich auch in Cifra wiederherstellen, mit einer Liste der ausgelassenen Teile. Verknüpfte Buchungen: Option, den Betrag jeder Vorlage beizubehalten. Planer: Sortierung nach neuesten oder ältesten. Suche: die meistgenutzten Projekte, Empfänger und Orte erscheinen zuerst.
 - 2.4.4 (20. Oktober 2026): Helles Design: unter Einstellungen › Darstellung › Design dunkel, hell oder wie das Telefon wählen. Aktionen für mehrere Buchungen: Zu Beginn ist nichts angehakt. Korrekturen der Lesbarkeit.
 - 2.4.3 (18. Oktober 2026): Geführter Start: Beim ersten Öffnen richtet Cifra mit Ihnen die Konten ein und auf Wunsch das Sparen von 10 % der Einnahmen per monatlicher Überweisung. Buchungen werden in allen Listen gleich angezeigt, mit dem Kategoriesymbol. Neue Bildschirme für Import und Export; überarbeitetes helles Design.
 - 2.4.0 (6. Oktober 2026): Erste öffentliche Version von Cifra bei Google Play. Seite „Hilfe und Hinweise“: Fragen und Antworten, daneben die Hinweise zu Updates. Kurze Einführung beim ersten Start.
 
-## EMIA · Gesundheit der Familie
+## EMIA | Gesundheit der Familie
 URL: https://mpstudios.eu/de/emia/
 
 EMIA ist eine Android-App, die Befunde, Laborwerte, Therapien, Impfungen, Schwangerschaft, Fristen und Termine der ganzen Familie ordnet, Haustiere eingeschlossen. Die Daten bleiben auf dem Telefon.
 
-60 Tage kostenlos testen · ab 14,99 € pro Jahr oder 29,99 € einmalig
+60 Tage kostenlos testen; ab 14,99 € pro Jahr oder 29,99 € einmalig
 
 ### Befunde und Laborwerte
 - Erfassung aus PDF, Bild, Kamera oder von Hand, mit Auslesen der Werte auf dem Telefon.
@@ -1385,12 +1390,12 @@ EMIA ist eine Android-App, die Befunde, Laborwerte, Therapien, Impfungen, Schwan
 - 1.3.0 (19. November 2026): Stillen: zu den Medikamenten der Mutter ein Hinweis aus der Fachinformation (AIFA, Abschnitt 4.6) für 3.062 Wirkstoffe. Lokale Sicherung auch in einem Ordner, der nach der Deinstallation auf dem Telefon bleibt; Wiederherstellung aus Google Drive oder einer Datei schon in der Einrichtung. Familienoberhaupt: Änderungen von anderen Telefonen werden erst nach seiner Freigabe übernommen. Zeitraum der Termine im Widget wählbar (1, 3, 6, 12 Monate oder alle).
 - 1.2.0 (19. November 2026): Erste Produktionsversion bei Google Play. Neue Bereiche Zähne sowie Befreiungen und Anträge, mit Fristerinnerungen. Blutzucker mit Messzeitpunkt, Peak-Flow bei Asthma und COPD, INR mit Dosis des Gerinnungshemmers; Temperatur und Puls. Hinweise zu Medikamenten, die Pille, Ring oder Pflaster beeinflussen (AIFA). Lebensstil und Krebsvorsorge nach Alter, Geschlecht und Wohnsitzland.
 
-## Batonkey · Automatische Weiterleitung von Benachrichtigungen
+## Batonkey | Automatische Weiterleitung von Benachrichtigungen
 URL: https://mpstudios.eu/de/batonkey/
 
 Batonkey ist eine Android-App, die die Benachrichtigungen des Telefons liest und ihren Inhalt nach Ihren Regeln an die Personen Ihrer Wahl weiterleitet: per E-Mail automatisch, auch bei ausgeschaltetem Bildschirm, oder per SMS, WhatsApp oder Telegram mit einem Tippen.
 
-Host-Telefon: kostenloser Test, danach 59,99 € pro Jahr · Guest-Telefone: kostenlos
+Host-Telefon: kostenloser Test, danach 59,99 € pro Jahr; Guest-Telefone: kostenlos
 
 ### Weiterleitungsregeln
 - Eine Regel entsteht aus einer bereits erhaltenen Benachrichtigung: Die App füllt fast alles selbst aus.
@@ -1416,12 +1421,12 @@ Host-Telefon: kostenloser Test, danach 59,99 € pro Jahr · Guest-Telefone: kos
 - **Kann ich die Weiterleitung auf Arbeitszeiten beschränken?** Ja, mit dem Wochenplan der Regeln.
 - **Laufen die Benachrichtigungen über einen Server?** Nein. Batonkey liest die Benachrichtigungen nur auf dem Telefon und hat weder Konten noch Server des Entwicklers.
 
-## Turbofuel · Wartung von Motorrad und Auto
+## Turbofuel | Wartung von Motorrad und Auto
 URL: https://mpstudios.eu/de/turbofuel/
 
 Turbofuel ist eine Android-App für die Wartung von Motorrädern, Rollern, Autos und Transportern: Sie zeigt, was in Ordnung ist, was bald fällig ist und was überfällig ist, mit Wartungsverlauf, Fristen und Fahrzeugdokumenten.
 
-Motorräder und Roller kostenlos · Autos und Transporter in der PRO-Version
+Motorräder und Roller kostenlos; Autos und Transporter in der PRO-Version
 
 ### Cockpit und Fahrzeuge
 - Kilometerstand, nächste Inspektion und Zustand jedes Bauteils: Öl, Kette, Reifen, Bremsen, Filter.
@@ -1444,12 +1449,12 @@ Motorräder und Roller kostenlos · Autos und Transporter in der PRO-Version
 - **Erinnert sie an Steuer, Versicherung und Hauptuntersuchung?** Ja. Die Fristen kommen in den Kalender des Telefons, mit Erinnerungen 30, 10, 3 und 1 Tag vorher.
 - **Wo werden die Daten gespeichert?** Auf dem Telefon, mit Sicherung auf dem Telefon und im Google Drive des Nutzers.
 
-## Benarri · Digitale Gästemappe für Ferienwohnungen
+## Benarri | Digitale Gästemappe für Ferienwohnungen
 URL: https://mpstudios.eu/de/benarri/
 
 Benarri ist eine digitale Gästemappe für Ferienwohnungen: WLAN, Schlüssel, Hausregeln, Parken, Kontakte, Busse und Notfälle in fünf Sprachen. Sie ersetzt den Papierordner und lange WhatsApp-Nachrichten.
 
-Benarri für Gäste: kostenlos · Benarri Host: kostenpflichtig
+Benarri für Gäste: kostenlos; Benarri Host: kostenpflichtig
 
 ### Benarri Host, für Gastgeber
 - Eine Mappe pro Wohnung, mit eigenem Logo und eigenen Farben.

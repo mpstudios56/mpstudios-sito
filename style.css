@@ -162,3 +162,4 @@ h1,h2,h3{font-family:"Space Grotesk",Inter,system-ui,sans-serif;font-weight:700;
 .qa .ans{padding:0 18px 16px;color:#2E3A5C}
 .qa .ans p{margin:0;line-height:1.6}
 @media (max-width:700px){.qhead h2{font-size:20px}.qlink{display:none}.qa summary{font-size:16px}}
+.changelog summary time{margin-left:10px}

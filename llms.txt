@@ -3,11 +3,11 @@
 > MPStudios è il marchio di Marcello Pandolfo (Italia) per app Android senza account e senza server dello sviluppatore, e per la linea di abbigliamento 20¹ su Etsy. I dati degli utenti restano sul telefono o nel cloud scelto da loro. Sito in italiano, inglese, spagnolo, francese e tedesco.
 
 ## App
-- [Cifra e Cifra+](https://mpstudios.eu/cifra/): Cifra è un'app Android per le finanze personali: conti, movimenti, budget e report restano sul telefono. Non chiede account, non mostra pubblicità e non usa server dello sviluppatore. Prezzo: Cifra gratuita · Cifra+ 5,99 €, pagamento unico. Stato: Su Google Play. Ultima versione: 2.4.9 (12/11/2026).
-- [EMIA](https://mpstudios.eu/emia/): EMIA è un'app Android che tiene in ordine referti, analisi, terapie, vaccini, gravidanza, scadenze e appuntamenti di tutta la famiglia, amici a 4 zampe compresi. I dati restano sul telefono. Prezzo: Prova gratuita di 60 giorni · da 14,99 € l'anno o 29,99 € una tantum. Stato: Su Google Play. Ultima versione: 1.4.0 (20/11/2026).
-- [Batonkey](https://mpstudios.eu/batonkey/): Batonkey è un'app Android che legge le notifiche del telefono e ne inoltra il contenuto alle persone che scegli tu, secondo regole decise da te: via email in automatico, anche a schermo spento, oppure via SMS, WhatsApp o Telegram con un tocco. Prezzo: Telefono Host: prova gratuita, poi 59,99 € l'anno · Telefoni Guest: gratuiti. Stato: In arrivo su Google Play.
-- [Turbofuel](https://mpstudios.eu/turbofuel/): Turbofuel è un'app Android per la manutenzione di moto, scooter, auto e furgoni: mostra cosa è a posto, cosa è vicino e cosa è scaduto, con storico degli interventi, scadenze e documenti del mezzo. Prezzo: Moto e scooter gratuiti · auto e furgoni nella versione PRO. Stato: In sviluppo.
-- [Benarri](https://mpstudios.eu/benarri/): Benarri è una guida digitale per gli ospiti di una casa vacanza: Wi-Fi, chiavi, regole, parcheggio, contatti, bus ed emergenze in cinque lingue. Sostituisce il raccoglitore cartaceo e i lunghi messaggi su WhatsApp. Prezzo: Benarri per gli ospiti: gratuita · Benarri Host: a pagamento. Stato: In sviluppo.
+- [Cifra e Cifra+](https://mpstudios.eu/cifra/): Cifra è un'app Android per le finanze personali: conti, movimenti, budget e report restano sul telefono. Non chiede account, non mostra pubblicità e non usa server dello sviluppatore. Prezzo: Cifra gratuita; Cifra+ 5,99 €, pagamento unico. Stato: Su Google Play. Ultima versione: 2.5.0 (19/11/2026).
+- [EMIA](https://mpstudios.eu/emia/): EMIA è un'app Android che tiene in ordine referti, analisi, terapie, vaccini, gravidanza, scadenze e appuntamenti di tutta la famiglia, amici a 4 zampe compresi. I dati restano sul telefono. Prezzo: Prova gratuita di 60 giorni; da 14,99 € l'anno o 29,99 € una tantum. Stato: Su Google Play. Ultima versione: 1.4.0 (20/11/2026).
+- [Batonkey](https://mpstudios.eu/batonkey/): Batonkey è un'app Android che legge le notifiche del telefono e ne inoltra il contenuto alle persone che scegli tu, secondo regole decise da te: via email in automatico, anche a schermo spento, oppure via SMS, WhatsApp o Telegram con un tocco. Prezzo: Telefono Host: prova gratuita, poi 59,99 € l'anno; Telefoni Guest: gratuiti. Stato: In arrivo su Google Play.
+- [Turbofuel](https://mpstudios.eu/turbofuel/): Turbofuel è un'app Android per la manutenzione di moto, scooter, auto e furgoni: mostra cosa è a posto, cosa è vicino e cosa è scaduto, con storico degli interventi, scadenze e documenti del mezzo. Prezzo: Moto e scooter gratuiti; auto e furgoni nella versione PRO. Stato: In sviluppo.
+- [Benarri](https://mpstudios.eu/benarri/): Benarri è una guida digitale per gli ospiti di una casa vacanza: Wi-Fi, chiavi, regole, parcheggio, contatti, bus ed emergenze in cinque lingue. Sostituisce il raccoglitore cartaceo e i lunghi messaggi su WhatsApp. Prezzo: Benarri per gli ospiti: gratuita; Benarri Host: a pagamento. Stato: In sviluppo.
 
 ## Guide
 - [App per le spese personali senza account e senza server: cosa controllare prima di sceglierla](https://mpstudios.eu/guide/app-spese-senza-account/): Cinque domande da farsi prima di affidare i propri conti a un'app: dove finiscono i dati, come si fa il backup, come si importano i movimenti.
@@ -17,10 +17,10 @@
 - [Come inoltrare in automatico le notifiche di un telefono Android a un'altra persona](https://mpstudios.eu/guide/inoltrare-notifiche-android/): Quando una notifica arriva su un telefono condiviso ma serve a qualcun altro: le soluzioni manuali, i loro limiti e come impostare un inoltro automatico.
 
 ## Altre lingue
-- English: https://mpstudios.eu/en/ · FAQ https://mpstudios.eu/en/faq/
-- Español: https://mpstudios.eu/es/ · FAQ https://mpstudios.eu/es/faq/
-- Français: https://mpstudios.eu/fr/ · FAQ https://mpstudios.eu/fr/faq/
-- Deutsch: https://mpstudios.eu/de/ · FAQ https://mpstudios.eu/de/faq/
+- English: https://mpstudios.eu/en/ | FAQ https://mpstudios.eu/en/faq/
+- Español: https://mpstudios.eu/es/ | FAQ https://mpstudios.eu/es/faq/
+- Français: https://mpstudios.eu/fr/ | FAQ https://mpstudios.eu/fr/faq/
+- Deutsch: https://mpstudios.eu/de/ | FAQ https://mpstudios.eu/de/faq/
 
 ## Chi c'è dietro
 - [Marcello Pandolfo](https://mpstudios.eu/chi-sono/): consulente IT e telecomunicazioni, sviluppatore delle app MPStudios. LinkedIn: https://www.linkedin.com/in/marcellopandolfo/
