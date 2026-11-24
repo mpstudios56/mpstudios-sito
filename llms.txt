@@ -13,6 +13,15 @@
 - [Codici OTP su una SIM aziendale condivisa: come farli arrivare al collega giusto](https://mpstudios.eu/guide/codici-otp-sim-aziendale/): Quando il codice di accesso arriva sul telefono di servizio e serve a un collega: le soluzioni manuali, i loro limiti e come automatizzare l'inoltro.
 - [App per le spese personali senza account e senza server: cosa controllare prima di sceglierla](https://mpstudios.eu/guide/app-spese-senza-account/): Cinque domande da farsi prima di affidare i propri conti a un'app: dove finiscono i dati, come si fa il backup, come si importano i movimenti.
 - [Referti, terapie e scadenze sanitarie della famiglia: come tenerli in ordine sul telefono](https://mpstudios.eu/guide/referti-famiglia-telefono/): Un metodo pratico per non perdere referti, scadenze dei vaccini e terapie di tutta la famiglia, con i dati che restano sul telefono.
+- [Bollo, assicurazione, revisione e tagliando: come non dimenticare più una scadenza dell'auto o della moto](https://mpstudios.eu/guide/scadenze-bollo-assicurazione-revisione/): Le quattro scadenze di ogni veicolo, ogni quanto tornano e un modo semplice per farle arrivare come promemoria sul telefono.
+- [Guida per gli ospiti di una casa vacanza: cosa scrivere e come consegnarla](https://mpstudios.eu/guide/guida-ospiti-casa-vacanza/): Le informazioni che ogni ospite chiede, in che ordine metterle e perché una guida digitale riduce i messaggi durante il soggiorno.
+
+## Guides (English)
+- [OTP codes on a shared work SIM: how to get them to the right colleague](https://mpstudios.eu/en/guides/otp-codes-shared-work-phone/): When the login code lands on the office phone and someone else needs it: manual workarounds, their limits and how to automate forwarding.
+- [Expense tracking apps with no account and no server: what to check before you pick one](https://mpstudios.eu/en/guides/expense-app-no-account/): Five questions to ask before trusting an app with your finances: where the data goes, how backups work, how to import transactions.
+- [Your family's lab reports, treatments and health deadlines: keeping them in order on your phone](https://mpstudios.eu/en/guides/family-medical-records-phone/): A practical method for never losing lab reports, vaccine boosters and treatments for the whole family, with data that stays on the phone.
+- [Road tax, insurance, inspection and servicing: never miss a car or motorbike deadline again](https://mpstudios.eu/en/guides/car-motorbike-deadlines/): The four recurring deadlines of every vehicle and a simple way to get them on your phone as reminders.
+- [A guest guide for your holiday home: what to write and how to hand it over](https://mpstudios.eu/en/guides/holiday-home-guest-guide/): The information every guest asks for, the order to put it in, and why a digital guide cuts messages during the stay.
 
 ## Chi c'è dietro
 - [Marcello Pandolfo](https://mpstudios.eu/chi-sono/): consulente IT e telecomunicazioni, sviluppatore delle app MPStudios. LinkedIn: https://www.linkedin.com/in/marcellopandolfo/
