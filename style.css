@@ -194,3 +194,4 @@ h1,h2,h3{font-family:"Space Grotesk",Inter,system-ui,sans-serif;font-weight:700;
 .vbig-n{font-size:44px;font-weight:700;line-height:1;color:#fff;font-family:"Space Grotesk",sans-serif}
 .vbig-l{font-size:15px;text-transform:uppercase;letter-spacing:.12em;color:#DDE1EC;text-align:left}
 .vpcs{display:inline-block;margin-top:6px;padding:2px 8px;border:1px solid #4A4F63;border-radius:999px;color:#DDE1EC;font-size:11px;letter-spacing:.06em;text-transform:uppercase}
+.vhero .cta{justify-content:center;display:flex}
